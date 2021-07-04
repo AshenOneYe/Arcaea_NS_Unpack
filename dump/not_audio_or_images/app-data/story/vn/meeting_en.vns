@@ -1,0 +1,82 @@
+show "meeting/bg.jpg" 0.5:0.5 0.5:0.5 1.05:1.05 fade(4,linear) normal
+move "meeting/bg.jpg" 0:40 0 linear
+move "meeting/bg.jpg" 0:-40 4 cubicout
+
+play "wind.ogg" 1.0 loop
+
+say "The ruin is as common a sight as any other, but the girl in light
+nonetheless pays it attention as she steps through."
+
+play "steps.ogg" 0.7
+
+say "She's been wondering what the ruins are and why they're there—
+wondering if this world she wanders has a past,
+or if its decimated landscape is only coincidental."
+
+say "She feels she has to think about it, not to succumb to the bliss of ignorance.
+If she wants a reason, then it might help to know the world, too.
+Perhaps this is a reflection of another world?"
+
+say "She has seen things like it within the Arcaea, but that also makes her wonder if in this place
+there might be standing towers and buildings that are not in ruin.
+Maybe she’s only yet to see them..."
+
+say "This ruin seems like it was once large, grand.
+It must have been a beautiful place where many people came, she thinks.
+If it did have such a past, then it is a shame."
+
+say "There is only her, now, moving through pews and broken candlesticks."
+
+say "There is only her, and she blinks, seeing that there is in fact somebody else."
+
+play "thump.ogg" 0.7
+
+show "meeting/tairitsu.png" 1:0 1.05:0 1:1 fade(0.9,sineout) normal
+move "meeting/tairitsu.png" 60:0 0 linear
+move "meeting/tairitsu.png" -60:0 2.5 cubicout
+
+show "meeting/hikari.png" 0:0 0:0 1:1 fade(0.9,sineout) normal
+move "meeting/hikari.png" -100:0 0 linear
+move "meeting/hikari.png" 100:0 2 cubicout
+
+show "meeting/bars.png" 1:0 1:0 1:1 fade(0.9,sineout) normal
+move "meeting/bars.png" 100:0 0 linear
+move "meeting/bars.png" -100:0 2.0 cubicout
+
+show "meeting/fx-l.png" 0:0 0:0 1:1 fade(0.9,sineout) normal
+move "meeting/fx-l.png" -170:0 0 linear
+move "meeting/fx-l.png" 170:0 3.5 cubicout
+
+show "meeting/fx-r.png" 1:0 1:0 1:1 fade(0.9,sineout) normal
+move "meeting/fx-r.png" 120:0 0 linear
+move "meeting/fx-r.png" -120:0 3.5 cubicout
+
+say "Somebody else stands still at her left, before a broken wall."
+
+say "Once, she would have grinned happily, but carelessly at this person.
+As she is now, she looks at the shadow-covered girl in confusion,
+but certainly not without a fluttering, insuppressible feeling of elation."
+
+say "Outside of a memory, here in the world and before her eyes, is a person.
+All this time she's walked alone, and here is somebody else:
+one other living, breathing person."
+
+say "The other girl doesn't notice her. She is standing in place, holding her parasol, and sleeping.
+Her dark figure cuts so strongly against the rest of the world, which shines so bright in the distance,
+that she thinks this must be a dream or perhaps a waking memory."
+
+say "She opens her mouth to speak, and the other girl opens her eyes to consciousness."
+
+say "She who heralds sad and evil forgotten things opens her eyes
+and witnesses the changed and white-clad girl before her."
+
+say "That breathing the light-bearer found so relieving stops short,
+and the dark girl squints, lips parted as if she means to question.
+But she swallows instead and raises her brow, tightening her grip of the handle."
+
+say "Her own twisted elation flows out from her heart, just as unstoppable, but so much more eager.
+It climbs to her face, and the girl of chaos offers the girl of light an honest, irrepressible smile."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+say ""

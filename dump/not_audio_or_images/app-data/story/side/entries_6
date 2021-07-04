@@ -1,0 +1,49 @@
+{
+	"entries": [{
+		"minor": 1,
+		"requiredPack": "mirai",
+		"storyType": "nvl",
+		"clearSongId": "genesis",
+		"clearCharaId": 4
+	},
+	{
+		"minor": 2,
+		"requiredPack": "mirai",
+		"requiredMinor": 1,
+		"storyType": "nvl",
+		"clearSongId": "moonheart",
+		"clearCharaId": 4
+	},
+	{
+		"minor": 3,
+		"requiredPack": "mirai",
+		"requiredMinor": 2,
+		"storyType": "nvl",
+		"clearSongId": "romancewars",
+		"clearCharaId": 4
+	},
+	{
+		"minor": 4,
+		"requiredPack": "mirai",
+		"requiredMinor": 3,
+		"storyType": "nvl",
+		"clearSongId": "blossoms",
+		"clearCharaId": 4
+	},
+	{
+		"minor": 5,
+		"requiredPack": "mirai",
+		"requiredMinor": 4,
+		"storyType": "nvl",
+		"clearSongId": "corpssansorganes",
+		"clearCharaId": 4
+	},
+	{
+		"minor": 6,
+		"requiredPack": "mirai",
+		"requiredMinor": 5,
+		"storyType": "nvl",
+		"clearSongId": "lethaeus",
+		"clearCharaId": 4
+	}]
+}

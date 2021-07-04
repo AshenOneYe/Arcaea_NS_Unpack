@@ -1,0 +1,144 @@
+play "wind1.ogg" 0.8
+
+show "zettai/bg.jpg" 0.5:0 0.5:0 1.22:1.22 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(5,sineout)
+
+move "zettai/bg.jpg" 0:-500 7 sineout
+
+say "A windstorm scatters petals around terrain behind the walls.
+Glints of white and sapphire catch the eye, and the youths of the party speak of the change favorably.
+Like magic. Wonderful."
+
+say "She comes back into the lounge and witnesses the swirl of artificial nature,
+the splendor of a farce."
+
+say "She remembers the first time those flowers were scattered and thinks:
+she’s rather had enough of \"remembering\"."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.9,linear) normal
+
+say "During the past several hours, she’s tested the boundaries."
+
+hide "zettai/bg.jpg"
+
+hide "black.png"
+
+play "exploringCrowd.ogg" 1.0
+
+show "zettai/bg.jpg" 0.5:1 0.5:1 1.22:1.22 fade(5,sineout) normal
+
+move "zettai/bg.jpg" 0:300 10 sineout
+
+say "The windows were locked, the patio doors were barred, and the ventilation ducts were bolted.
+The question she had to all this was:
+\"Are these shut because people shut them, or because I’m trapped in here?\""
+
+say "Metaphor and emotion often swayed the hearts of young girls, she found.
+It was difficult to determine the reality."
+
+say "When she’d had enough of poking, prodding, turning things over, and wandering,
+she began to prattle on with other guests she knew to be acquaintances or friends."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.5,sineout) normal
+
+say "\"The weather...\"
+\"The King...\"
+\"You know, the week before...\""
+
+hide "black.png" fade(1,linear)
+
+say "Tedious, and uninformative too.
+Certain lines of questions were met with incredulity or with nothing at all,
+as if the questions hadn’t been asked—as if she hadn’t spoken."
+
+say "What she mainly wanted to know about—engineering, technology, progress—
+seemed to especially draw out nothing from the other guests.
+With her frustration growing, she took to listening in instead, and eventually heard:"
+
+say "\"It’s little more than a globe of dirt now. We’ll terraform it soon, I’m told.\""
+
+play "quietWind.ogg" 1.0 loop
+move "zettai/bg.jpg" 0:900 12 sineinout
+
+say "And asking about that... led nowhere as well.
+That was quite enough to know, however, and so she entered the lounge again."
+
+say "She stands in it now, watching the storm, and relating to it."
+
+say "The girl steps past the fiancé, who smiles at her presence.
+He greets her with, \"Lavinia, you’re back,\" and she rests her gaze on his lapel.
+He takes no particular notice of this."
+
+say "The players always seem to act in such a way.
+What stands out, what’s unusual, is given no mind.
+Bolder and bolder she’s gotten, but they remain always steadfast to their routines."
+
+say "To maintain the image, correct?
+She decides to ask, outright, one question she burns to have answered."
+
+say "\"The man-made world... it isn’t made of glass?\""
+
+say "\"...Hm? What on...? Of course not, Lavinia. It’s not a bauble.\""
+
+say "Her eye goes wide. Her pupil constricts."
+
+play "woosh.ogg" 0.7
+
+say "Of all the things, that had been it."
+
+move "zettai/bg.jpg" 0:-800 10 sineinout
+
+say "Donovan looks over her shoulder and through the walls, saying,
+\"At any rate, isn’t it lovely? Almost as lovely as you...\""
+
+say "But she doesn’t reply.
+Recognizing his answer as confirmation, she settles on a decision."
+
+play "steps2.ogg" 1.0
+
+say "As the spiral of flowers beyond flow almost serenely through the air,
+she moves to the table of foodstuffs, and stops before the breads."
+
+say "Donovan continues.
+\"I’m told the world they’ve made will have shows like this across sprawling, endless valleys.
+Right now, it’s only barren. A concept, you know?\""
+
+say "She stops her hand over a handle, listening."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.5,sineout) normal
+
+say "\"But it’ll surely be a delight in time, for those who can afford a spot on it.
+And think of the potential, Lavinia.\""
+
+hide "black.png" fade(1,linear)
+
+play "woosh.ogg" 0.7
+
+say "She exhales. It’s been another fruitless trip.
+Her hand closes on fine, smoothed wood."
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(0.3,sineout)
+
+play "1step.ogg" 1.0
+
+say "She turns swiftly and steps to the awaiting husband,
+swinging her hand out toward his neck."
+
+play "slash.ogg" 1.0
+
+move "zettai/bg.jpg" 0:-70 0.2 sineout
+move "zettai/bg.jpg" 0:30 0.35 sineout
+
+say "The bread knife’s teeth stop in his skin."
+
+play "cut.ogg" 1.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.15,linear) normal
+
+say "Without feeling—without even a spark of animosity—she wordlessly cuts across the boy’s throat,
+and watches closely to see what comes out."

@@ -1,0 +1,142 @@
+[
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "equilibrium",
+      "antagonism",
+      "dantalion"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "lostdesire",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "equilibrium",
+      "antagonism",
+      "dantalion",
+      "lostdesire"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "fragment200",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "equilibrium",
+      "antagonism",
+      "dantalion",
+      "lostdesire"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "ifi",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_generic_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

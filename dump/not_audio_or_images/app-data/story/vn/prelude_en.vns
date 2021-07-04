@@ -1,0 +1,214 @@
+say "The end."
+
+play "blowing1.ogg" 1.0 loop
+
+show "prelude/bg.jpg" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/bg.jpg" -40:0 0 linear
+move "prelude/bg.jpg" 40:0 4 cubicout
+
+show "prelude/t.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/t.png" -90:0 0 linear
+move "prelude/t.png" 90:0 4 cubicout
+
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" -120:0 0 linear
+move "prelude/glass.png" 120:0 4 cubicout
+
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/over.png" -120:0 0 linear
+move "prelude/over.png" 120:0 4 cubicout
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "black.png" fade(1,linear)
+
+say "The girl adorned in shadows peers through the broken window into another time.
+Her smile returns."
+
+say "What a fool she was.
+Not the girl in white, no.
+Her."
+
+say "The vision in the glass is no memory."
+
+say "It cannot be, of course.
+What she’s seeing is a future: a future that she should have expected,
+the fool, the idiot dreamer."
+
+show "white40.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "The glass shows an unmistakable image of herself, run through with a jagged pillar of glass,
+the wound seeming to sear her clothing and body apart in a blistering, pale, and consuming flame."
+
+stop "blowing1.ogg" 3.0
+play "memory1.ogg" 1.0 loop
+
+hide "white40.png" fade(1.2,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "The blank, barren lands of Arcaea stretch out far behind her, and before her,
+coaxing the pillar with a lifted hand and a blinding, fiery glow around her shoulders,
+is a girl clad in white, a very familiar one, though her expression is hidden from this vantage."
+
+say "It is the girl standing before her now.
+The one she has only just met.
+This is no memory: it's a vision of what will come to be."
+
+stop "memory1.ogg" 0.5
+
+show "prelude/3.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+hide "white70.png" fade(0,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "white70.png" fade(1.5,linear)
+
+say "Faced with this, Tairitsu retreats into herself,
+and confronts the one truth she was determined to ignore."
+
+play "fading.ogg" 1.0 loop
+
+say "Her conviction didn't matter.
+She will never find anything good for her in this world."
+
+say "That last hope is dyed black now, drowned in despair, forgotten."
+
+say "What else would happen?
+What was her hope for?
+Idiocy. Tiresome, blind idiocy."
+
+say "Tiresome effort.
+Tiresome memories.
+Tiresome existence."
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+say "Tiresome, awful, sick of it. Sick of this, sick of herself,
+sick of everything in this never-ending, mocking play."
+
+hide "prelude/3.png" fade(0,linear)
+
+say "Miracles? No..."
+
+say "She'd said it herself. This world is hell.
+And she knows this, from the fractured ideas of worlds dead and gone:
+even angels can one day fall and awaken to demonic form."
+
+say "The girl in light is just like that.
+In a turn final and damning, what was once a mere pit inside her chest is clawed and spread.
+It wastes, decays all through in an instant, leaving instead a cold and endless chasm."
+
+say "As the darkness within it creeps out to coat her insides and choke her thoughts,
+she sees Hikari very clearly."
+
+say "Sees her gaze darting to the shard—sees the panic, the clear knowledge in her eyes."
+
+say "The girl knows.
+And now she can't face her opposite's stare,
+won't say a word though she sees clearly."
+
+say "You're unnerved? Unsettled? Unabashed.
+Unforgivable."
+
+say "That anger twists into hate and loathing, spilling over and arriving in her eyes."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+stop "fading.ogg" 2.0
+
+say "Wicked betrayer; wicked, wicked place.
+She tightens her grasp on her parasol,
+looking past the shard to Hikari, who is standing still."
+
+say "Frozen in place, surely, because her ill intentions have been exposed.
+It's worth laughing about."
+
+move "prelude/glass.png" 0:30 0 linear
+hide "black.png" fade(2,linear)
+
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+move "2black.png" 0:-140 0 linear
+move "2black.png" 0:140 3.0 cubicout
+
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+move "3black.png" 0:140 0 linear
+move "3black.png" 0:-140 3.0 cubicout
+
+move "prelude/bg.jpg" 0:-60 3.5 cubicout
+move "prelude/t.png" 0:-90 3.5 cubicout
+move "prelude/4.png" 0:-90 3.5 cubicout
+move "prelude/glass.png" 0:-120 3.5 cubicout
+
+say "Tairitsu's eyes narrow, and she excises the remains of those burgeoning emotions
+the girl had begun to cultivate within her."
+
+say "With finality she is emptied,
+and with that, she knows what she must do."
+
+say "But this mirror is still one-way, and thus her anger as well.
+Hikari is unable to see within this peculiar shard at all."
+
+hide "prelude/4.png" fade(1,linear)
+
+say "Unaware, she can only watch in confusion
+as Tairitsu's countenance drains more and more of color."
+
+play "tension.ogg" 1.0 loop
+
+say "A sense of danger wells up in her, and though she can't understand why, she can feel it there.
+In fact, shadows now seem to be crawling up from the earth, light perishing at their touch."
+
+say "Darkness nears her, and her breathing shortens. She takes a step back.
+She almost can't believe it. She certainly doesn't want to."
+
+say "Even after surviving the harrowing ordeal, that blinding light sky,
+something terrible faces her again without reason."
+
+say "But still, she had survived it.
+And now she knows for certain that survival may not allow compromise."
+
+say "With this thought in heart and mind, Hikari makes a damning mistake."
+
+stop "tension.ogg" 1.0
+play "ring.ogg" 1.0
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+move "prelude/4.png" 0:-90 0 linear
+
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" 0:-90 0 linear
+
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+
+hide "2black.png" fade(0,linear)
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+hide "3black.png" fade(0,linear)
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+
+say "She reaches for the one piece of glass,
+the one that gave her comfort and direction in the midst of her lowest moment."
+
+say "When she raises it to her chest,
+the hairs on the back of Tairitsu's neck rise up as well."
+
+say "Fear pulsing through her, along with a conviction to never meet with tragedy again,
+Tairitsu closes the distance to Hikari in an instant, without warning,
+ready to once and for all firmly grab hold of her life."
+
+say ""
+
+play "lastBreak.ogg" 4.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.2,linear) normal
+
+wait 10
+
+stop "lastBreak.ogg" 0.9

@@ -1,0 +1,246 @@
+[
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "base",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "base",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "base",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "base",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "dividedheart",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "dividedheart",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "dividedheart",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "dividedheart",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "auxesia",
+      "dataerror",
+      "dreadnought",
+      "astraltale",
+      "carminescythe",
+      "scarletcage",
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "auxesia",
+      "dataerror",
+      "dreadnought",
+      "astraltale",
+      "carminescythe",
+      "scarletcage",
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "auxesia",
+      "dataerror",
+      "dreadnought",
+      "astraltale",
+      "carminescythe",
+      "scarletcage",
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "auxesia",
+      "dataerror",
+      "dreadnought",
+      "astraltale",
+      "carminescythe",
+      "scarletcage",
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "pragmatism",
+      "sheriruth",
+      "axiumcrisis",
+      "etherstrike",
+      "ringedgenesis",
+      "solitarydream",
+      "blrink",
+      "lostdesire"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "pragmatism",
+      "sheriruth",
+      "axiumcrisis",
+      "etherstrike",
+      "ringedgenesis",
+      "solitarydream",
+      "blrink",
+      "lostdesire"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "pragmatism",
+      "sheriruth",
+      "axiumcrisis",
+      "etherstrike",
+      "ringedgenesis",
+      "solitarydream",
+      "blrink",
+      "lostdesire"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "pragmatism",
+      "sheriruth",
+      "axiumcrisis",
+      "etherstrike",
+      "ringedgenesis",
+      "solitarydream",
+      "blrink",
+      "lostdesire"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "world_unlock_scenery_chap1",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

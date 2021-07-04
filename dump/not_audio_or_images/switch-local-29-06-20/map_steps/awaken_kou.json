@@ -1,0 +1,234 @@
+[
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "nirvluce",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "gloryroad",
+    "restrict_id": "gloryroad",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "50"
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "core_crimson_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "40"
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "core_crimson_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "30"
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "core_crimson_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "20"
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "core_crimson_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 54,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_crimson_10",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

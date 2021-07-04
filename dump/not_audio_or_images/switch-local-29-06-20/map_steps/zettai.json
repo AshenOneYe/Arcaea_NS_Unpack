@@ -1,0 +1,241 @@
+[
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "alexandrite",
+      "dement",
+      "bookmaker",
+      "rabbitintheblackroom",
+      "blaster",
+      "darakunosono",
+      "revixy",
+      "vector",
+      "nhelv"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "alexandrite",
+      "dement",
+      "bookmaker",
+      "rabbitintheblackroom",
+      "blaster",
+      "darakunosono",
+      "revixy",
+      "vector",
+      "nhelv"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "alexandrite",
+      "dement",
+      "bookmaker",
+      "rabbitintheblackroom",
+      "blaster",
+      "darakunosono",
+      "revixy",
+      "vector",
+      "nhelv"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "alexandrite",
+      "dement",
+      "bookmaker",
+      "rabbitintheblackroom",
+      "blaster",
+      "darakunosono",
+      "revixy",
+      "vector",
+      "nhelv"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "alexandrite",
+      "dement",
+      "bookmaker",
+      "rabbitintheblackroom",
+      "blaster",
+      "darakunosono",
+      "revixy",
+      "vector",
+      "nhelv"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "pack_zettai",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "character_saya",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "viciousheroism",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption",
+      "viciousheroism"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption",
+      "viciousheroism"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption",
+      "viciousheroism"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption",
+      "viciousheroism"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "antithese",
+      "blackterritory",
+      "corruption",
+      "viciousheroism"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "cyaegha",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

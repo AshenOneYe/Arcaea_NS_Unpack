@@ -1,0 +1,246 @@
+[
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "impurebird",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "crosssoul",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "galaxyfriends",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "badtek",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "modelista",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "alexandrite",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "impurebird",
+      "crosssoul",
+      "galaxyfriends",
+      "badtek",
+      "modelista",
+      "alexandrite"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_generic_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

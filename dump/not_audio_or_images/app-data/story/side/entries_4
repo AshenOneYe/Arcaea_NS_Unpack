@@ -1,0 +1,65 @@
+{
+	"entries": [{
+			"minor": 1,
+			"requiredPack": "shiawase",
+			"storyType": "nvl",
+			"clearSongId": "paradise",
+			"clearCharaId": -1
+		},
+		{
+			"minor": 2,
+			"requiredPack": "shiawase",
+			"requiredMinor": 1,
+			"storyType": "nvl",
+			"clearSongId": "partyvinyl",
+			"clearCharaId": 2
+		},
+		{
+			"minor": 3,
+			"requiredPack": "shiawase",
+			"requiredMinor": 2,
+			"storyType": "nvl",
+			"clearSongId": "flashback",
+			"clearCharaId": 2
+		},
+		{
+			"minor": 4,
+			"requiredPack": "shiawase",
+			"requiredMinor": 3,
+			"storyType": "nvl",
+			"clearSongId": "paradise",
+			"clearCharaId": 2
+		},
+		{
+			"minor": 5,
+			"requiredPack": "shiawase",
+			"requiredMinor": 4,
+			"storyType": "nvl",
+			"clearSongId": "flyburg",
+			"clearCharaId": -1
+		},
+		{
+			"minor": 6,
+			"requiredPack": "shiawase",
+			"requiredMinor": 5,
+			"storyType": "nvl",
+			"clearSongId": "nirvluce",
+			"clearCharaId": 2
+		},
+		{
+			"minor": 7,
+			"requiredPack": "shiawase",
+			"requiredMinor": 6,
+			"storyType": "nvl",
+			"clearSongId": "diode",
+			"clearCharaId": 2
+		},
+		{
+			"minor": 8,
+			"requiredPack": "shiawase",
+			"requiredMinor": 7,
+			"storyType": "nvl",
+			"clearSongId": "gloryroad",
+			"clearCharaId": 2
+		}]
+}

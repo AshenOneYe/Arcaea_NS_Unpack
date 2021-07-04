@@ -1,0 +1,214 @@
+say "结局。"
+
+play "blowing1.ogg" 1.0 loop
+
+show "prelude/bg.jpg" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/bg.jpg" -40:0 0 linear
+move "prelude/bg.jpg" 40:0 4 cubicout
+
+show "prelude/t.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/t.png" -90:0 0 linear
+move "prelude/t.png" 90:0 4 cubicout
+
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" -120:0 0 linear
+move "prelude/glass.png" 120:0 4 cubicout
+
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/over.png" -120:0 0 linear
+move "prelude/over.png" 120:0 4 cubicout
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "black.png" fade(1,linear)
+
+say "被阴影纠缠的少女，目光穿过那扇破碎的窗户，投射到另一段时光之中。
+微笑，回到了她的脸上。"
+
+say "她可真是个无可救药的傻子。
+不，不是那白衣少女。
+是她自己。"
+
+say "那片玻璃中的影像并不是回忆。"
+
+say "当然，这并不现实。
+她所看见的是未来——那个她理应期待万分的未来，
+那个白痴，愚蠢的梦想家。"
+
+show "white40.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "那些玻璃毫无偏差地映照出了她自己的身体被一根参差的玻璃长柱一穿而过的影像。
+那道创伤仿佛要在炙热，苍白的烈焰中将她的衣服与整个身躯撕裂。"
+
+stop "blowing1.ogg" 3.0
+play "memory1.ogg" 1.0 loop
+
+hide "white40.png" fade(1.2,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "空虚荒芜的Arcaea大地，从她的身前和身后延伸到无边无际的地平线。
+带着缠绕双肩的那两股刺眼的炙热火焰，抬起手轻抚着长柱的，
+是那位身披白衣，使她倍感熟悉的少女——尽管在这个角度看不到她的表情。"
+
+say "她，是此时此刻正站在自己面前的少女。
+那名才与她相遇不久的女孩。
+这绝不是回忆：这景象预言着未来将会发生的一切。"
+
+stop "memory1.ogg" 0.5
+
+show "prelude/3.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+hide "white70.png" fade(0,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "white70.png" fade(1.5,linear)
+
+say "面对此景，对立退回了自己的立场，
+并对峙起那段她原先计划彻底无视的真相。"
+
+play "fading.ogg" 1.0 loop
+
+say "她已无所谓自己有没有心怀信念。
+她已不会在这世界中找到任何对她有利的事物。"
+
+say "最后一丝希望也终被墨染，淹没在绝望之中，最终被彻底遗忘。"
+
+say "还有什么事会发生？
+她还期望着什么？
+愚蠢。令人厌烦。盲目的愚蠢。"
+
+say "令人厌烦的努力。
+令人厌烦的回忆。
+令人厌烦的存在。"
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+say "令人厌烦，糟糕得不可理喻——使她作呕。对这一切感到作呕，对她自己感到作呕，
+对这永无止境的嘲讽游戏中所存在的一切事物感到作呕。"
+
+hide "prelude/3.png" fade(0,linear)
+
+say "奇迹？别开玩笑了……"
+
+say "她早已对自己说过。这个世界是地狱。
+她是从种种显示这世界已经死透了的事物得知的：
+在这世界之中，即便天使也终会堕落，而后苏醒为恶魔。"
+
+say "在光芒中的少女就是这样。
+在这被诅咒的终末展开中，就算是她心中原先微不足道的小洞也被残暴地刨开，并迅速扩大——
+荒废，并在刹那间彻底腐朽，只留下一道冰冷的无底深渊。"
+
+say "正当蕴藏其中的黑暗席卷并吞噬少女，尝试扼杀她的思绪之时，
+她清晰地看见了光。"
+
+say "她看见光的视线投向那片碎片——捕捉到她眼中存在的恐慌与那明澈的认知。"
+
+say "这女孩已经知道了。
+而现在，她已无法直视来自对面的视线。
+一言不发，哪怕一切尽在眼底。"
+
+say "你此刻感到紧张吗？是否心情不安？毫不掩饰。
+不可原谅。"
+
+say "那股愤怒扭曲成厌恶与憎恨，如同滚滚黑云般显现于她的双眼之中。"
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+stop "fading.ogg" 2.0
+
+say "邪恶的背叛者；邪恶，邪恶的地方。
+她紧紧抓着她的阳伞，
+越过碎片注视着伫立于原地的光。"
+
+say "仿佛冻结在原地——当然，因为她病态的意图已经被识破了。
+这可真是令人发笑。"
+
+move "prelude/glass.png" 0:30 0 linear
+hide "black.png" fade(2,linear)
+
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+move "2black.png" 0:-140 0 linear
+move "2black.png" 0:140 3.0 cubicout
+
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+move "3black.png" 0:140 0 linear
+move "3black.png" 0:-140 3.0 cubicout
+
+move "prelude/bg.jpg" 0:-60 3.5 cubicout
+move "prelude/t.png" 0:-90 3.5 cubicout
+move "prelude/4.png" 0:-90 3.5 cubicout
+move "prelude/glass.png" 0:-120 3.5 cubicout
+
+say "对立的双眼微闭。
+她抹除了那女孩尝试在她心中种下的一切情感之芽。"
+
+say "结局到来的那一刻，她的心智终于被掏空了。
+而这一刻起，她终于弄清自己应该做些什么。"
+
+say "只是，这是面单向的镜子——其中蕴藏的厌恶与冷淡也是相同。
+光对这片不同寻常的碎片之中所蕴含的内容完全无从知晓。"
+
+hide "prelude/4.png" fade(1,linear)
+
+say "当对立的脸上失去越来越多的血色，
+丝毫未意识到情势的走向——光仅能在困惑中观察着一切。"
+
+play "tension.ogg" 1.0 loop
+
+say "一股突如其来的危机感扩散至身体的每一个角落。尽管她并不理解原由，她却能感受到危机就在眼前。
+事实上，匍匐于大地的暗影如今已翻腾而起，毁灭着它所接触的一切光芒。"
+
+say "黑暗向着她逼近，而她的呼吸变得愈发急促。她不禁朝着后方退了一步。
+她几乎无法相信眼前正在发生的事情。她根本不想去相信。"
+
+say "即使她已于那片耀眼的天空所带来的痛苦折磨中幸存下来，
+某种可怕的事物再次毫无理由地显现于她的面前。"
+
+say "尽管，她仍旧存活了下来。
+而她终究意识到，生存并不是件能够妥协的事情。"
+
+say "心中怀着这样的想法，光犯下了一个天大的错误。"
+
+stop "tension.ogg" 1.0
+play "ring.ogg" 1.0
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+move "prelude/4.png" 0:-90 0 linear
+
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" 0:-90 0 linear
+
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+
+hide "2black.png" fade(0,linear)
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+hide "3black.png" fade(0,linear)
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+
+say "她伸手去拿了那片玻璃——
+那片在她彻底迷失于低谷时，给予她慰藉与方向的玻璃。"
+
+say "就在她将它提至胸前时，
+对立头颈后方的头发也飞扬起来。"
+
+say "恐惧猛烈地冲击着她的全身。伴随着那永远不愿再次遭遇不幸的决意，
+那一刹那，对立在没有任何预警的情况下靠近了光，
+准备彻底夺走她的性命。"
+
+say ""
+
+play "lastBreak.ogg" 4.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.2,linear) normal
+
+wait 10
+
+stop "lastBreak.ogg" 0.9

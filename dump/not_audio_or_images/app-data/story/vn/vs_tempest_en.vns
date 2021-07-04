@@ -1,0 +1,284 @@
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+say "The illusion of an even match shatters, and with its destruction Hikari’s hope finally begins to waver."
+
+play "memoryShift.ogg" 1.0
+
+play "blowing1.ogg" 0.0 loop
+
+volume "blowing1.ogg" 0.3 3.0
+
+show "vs/wglass.jpg" 0.25:1 0.25:1 1.65:1.65 fade(0,sineout) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(2,sineout)
+
+move "vs/wglass.jpg" 400:0 1.1 sineout
+
+say "Without warning, Hikari’s storm flies to Tairitsu’s side, cloaking the other girl in darkness and light.
+As they surround her, her eyes shut for a moment—and when they open again,
+those countless memories unfurl behind her as six gargantuan wings."
+
+hide "black.png" fade(0,linear)
+
+say "Now hanging in the sky in blatant defiance of nature,
+she lays her sharpened eyes on Hikari."
+
+say "A simple look reveals to Hikari that the path to victory has been nearly closed.
+She had thought the girl a beast before, and now she sees her as what she is:
+above, and nigh impossible."
+
+play "woosh.ogg" 2.5
+
+say "Glass rises up behind her like a gigantic sheet: a skylight, shimmering and clear."
+
+say "Below, Hikari has little to nothing to fight what will come. At least, that’s how it feels, but...
+No... The girl in black does not have everything. This can be survived. It can!
+Hikari takes up twenty memories as the window to the heavens breaks."
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.6,sineout) normal
+
+say "At first, only a handful of shards hurtle down at her, but they do so rather... slowly.
+It disarms her. She starts to think, \"this is possible.\"
+As though the elaborate display a moment ago was only that: a display."
+
+play "feeble.ogg" 1.0
+
+say "As before, Hikari shields herself, quickly blocking the falling glass with unshakable focus,
+her eyes darting this way and that to keep measure of the flitting, brilliant crowd.
+It makes her confident—she misses nothing. She allows herself a smile."
+
+hide "vs/wglass.jpg" fade(0,linear)
+
+say "At the least, she’ll be able to run from this. At the least, this won’t be the end."
+
+stop "blowing1.ogg" 0.3
+
+play "stab.ogg" 1.6
+
+show "vs/mid.jpg" 0.5:1 0.5:1 1.3:1.3 fade(0.2,linear) normal
+
+hide "white.png" fade(0,linear)
+
+say "A single piece then flies to the middle of her chest, its delivery interpretable only as a message.
+It had flown faster than any other piece of Arcaea she’d ever seen.
+The girl above speaks to her through this glass shard: \"Enough games.\""
+
+say "\"And enough wasting time. Give up—and die.\""
+
+play "woosh.ogg" 1.0
+
+play "darkamb.ogg" 0.0 loop
+
+volume "darkamb.ogg" 1.0 3.0
+
+hide "vs/mid.jpg" fade(0,linear)
+
+show "vs/bglass.jpg" 1:0 1:0 1.28:1.28 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(2,sineout)
+
+say "The shard cuts through her dress, and Hikari looks into Tairitsu’s eyes.
+The girl in black is smiling now, all the sadness and anger gone from her face.
+And it’s the most frightful thing she’s ever witnessed in her life and in her memories."
+
+say "The shard falls out without having reached her skin."
+
+play "blowing1.ogg" 0.0 loop
+
+volume "blowing1.ogg" 0.2 3.0
+
+say "The broken pane whirls into a side-winding tornado. Its mouth barrels down onto her,
+slicing fabric and skin, but otherwise simply passes by.
+In this is one more message: before the end, the girl in black wants her enemy to know where this began."
+
+play "tunnel.ogg" 1.9
+
+say "Fear overwhelms her. In this riptide of glass, rushing and cutting past her in powerful amounts,
+turning up and swirling as if pulled by a great wind, she is made absolutely afraid.
+So petrified, she stands fast and watches."
+
+say "She stands, watching memories of a filthy world."
+
+say "Memories of pain, betrayal, envy."
+
+say "Death, suffering, and decay."
+
+say "Dark. They are only dark. Wherever it is these shards reflect... she sees little light there.
+Whatever small sparks she sees fade away in an instant.
+This is what the other girl described to her."
+
+say "The vile reflections of places gone that had been tormenting her since her awakening—
+she would now use them to torment another."
+
+play "memoryShift.ogg" 1.0
+
+stop "blowing1.ogg" 6.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+move "vs/bglass.jpg" 0:-2600 2 sineout
+
+say "Glass hooks under Hikari’s sleeves and stabs into her skirt.
+They drag her upward, up into a domain where she can no longer stand."
+
+play "wind.ogg" 0.0 loop
+
+volume "wind.ogg" 0.6 3.0
+
+volume "memory1.ogg" 0.3 5.0
+
+play "thump.ogg" 1.0
+
+say "Tears fill her eyes as an emotion fills her heart: the emotion that comes when recognizing imminent death.
+This is not fear.
+\"Terror\" is too little to describe it."
+
+play "thump.ogg" 1.0
+
+say "Desperation? Hope?
+An awful, arresting feeling."
+
+play "thump.ogg" 1.0
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(16,linear) normal
+
+hide "vs/bglass.jpg" fade(0,linear)
+
+say "Her own memories run through her head. It’s as if she’s searching for one that will stand out—
+one that will inform her that she’s come across something like this in the past,
+and this is how to escape."
+
+stop "wind.ogg" 2.0
+
+show "vs/sky.jpg" 0.5:0.95 0.5:0.95 1.6:1.6 fade(0,linear) normal
+
+show "2black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(0,linear)
+
+say "But nothing comes."
+
+play "blowing1.ogg" 0.0 loop
+
+volume "blowing1.ogg" 0.3 3.0
+
+hide "2black.png" fade(10,linear)
+
+scale "vs/sky.jpg" 1.3:1.3 9 sineout
+
+say "The black storm rages over torso, cutting with little mercy.
+Pure torturous intent, coming closer and closer,
+as if the intent alone would inflict a fatal wound upon her flesh..."
+
+hide "black.png" fade(0,linear)
+
+say "It is unbelievable."
+
+say "The situation is so far beyond anything she’s ever borne witness to,
+whether in her own memories of those of others.
+This disgusting blend of facing the unknown, yet knowing precisely what awaits her on the other side..."
+
+say "Horror.
+Not fear.
+Horrific understanding."
+
+say "There is no control over glass for her here.
+Something, anything—an anomaly—a miracle.
+If something like that appeared, she could make it out. She could step away. She could live."
+
+say "If there was ever a time, it is now, and here."
+
+play "burst.ogg" 1.0
+
+stop "darkamb.ogg" 5.0
+
+move "vs/sky.jpg" 0:1000 2.5 cubicout
+
+show "white40.png" 0.5:0.5 0.5:0.5 2000:960 fade(9,linear) normal
+
+say "The ground below bursts, as if the world itself is rising up to join the hunt.
+It is now.
+Now! A shard will come to save her!"
+
+show "white50.png" 0.5:0.5 0.5:0.5 2000:960 fade(9,linear) normal
+
+say "She prays with all her being for the will of the world to fly to her side and spare her!"
+
+say "For some mechanism of fate, for the wheel of fortune itself,
+to produce a \"god\" that will grant her victorious power!"
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(9,linear) normal
+
+say "Beg for it. Hope for it.
+Hold that piece which once brought you salvation close to your bleeding chest once again.
+That symbol of rescue, of redemption... It will surely—!"
+
+stop "blowing1.ogg" 0.5
+
+play "lastStab.ogg" 1.0
+
+show "vs/tempestissimo.jpg" 0.5:0.5 0.5:0.34 0.84:0.84 fade(0,linear) normal
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+show "red.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "vs/sky.jpg" fade(0,linear)
+
+wait 0.07
+
+hide "red.png" fade(0,linear)
+
+say ""
+
+say "Another shard pierces her body, a hateful stake driving at her heart.
+It does not reach through, does not strike the heart itself. But its message—a final message—does.
+One last message from the girl tormenting her: a simple, merciless message."
+
+hide "white40.png" fade(0,linear)
+
+hide "white50.png" fade(0,linear)
+
+hide "white70.png" fade(0,linear)
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.2,sineout) overlayplus
+
+say "\"No.\""
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 1.0 3.0
+
+hide "black.png" fade(0,linear)
+
+hide "white.png" fade(12,sineout)
+
+say "The almost lethal blade in Hikari’s breast holds the memory of a vast and all-consuming fire."
+
+say "So close to death, her heart thumps, reminding her she’s alive."
+
+say "Her pupils shrink to points."
+
+say "Like that memory of flame, her body burns.
+It burns with a fluid, vicious heat.
+Pain. Agony. Blood—"
+
+say "Her savior shard falls from her hand as she reaches that hand for the terrible wound."
+
+say "And then, a jagged piece of glass whirls out of the tempest and finds the back of that hand."
+
+say "Sound escapes her."
+
+say "Run twice through, her breath has gone as well."
+
+say "Her gaze is steady on the trio of unthinkable sights before her."
+
+say "This reality, horrible and unimaginable as it is, nonetheless \"is\"."
+
+stop "memory1.ogg" 2.0
+
+say "And so her thoughts, too, begin to vanish."

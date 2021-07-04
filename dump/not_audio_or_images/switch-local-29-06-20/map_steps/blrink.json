@@ -1,0 +1,83 @@
+[
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "ringedgenesis",
+    "restrict_type": "song_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "fragment200",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "blrink",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

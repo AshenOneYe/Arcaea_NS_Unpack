@@ -1,0 +1,74 @@
+{
+	"entries": [{
+			"minor": 1,
+			"requiredPack": "core",
+			"storyType": "nvl",
+			"clearSongId": "lumia",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 2,
+			"requiredPack": "core",
+			"requiredMinor": 1,
+			"storyType": "nvl",
+			"clearSongId": "memoryfactory",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 3,
+			"requiredPack": "core",
+			"requiredMinor": 2,
+			"storyType": "nvl",
+			"clearSongId": "pragmatism",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 4,
+			"requiredPack": "rei",
+			"storyType": "nvl",
+			"clearSongId": "mazenine",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 5,
+			"requiredPack": "rei",
+			"requiredMinor": 4,
+			"storyType": "nvl",
+			"clearSongId": "halcyon",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 6,
+			"requiredPack": "rei",
+			"requiredMinor": 5,
+			"storyType": "nvl",
+			"clearSongId": "etherstrike",
+			"alternateSuffix": "ZR",
+			"clearCharaId": 14
+		},
+		{
+			"minor": 7,
+			"requiredPack": "rei",
+			"requiredMinor": 5,
+			"storyType": "nvl",
+			"clearSongId": "etherstrike",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 8,
+			"requiredPack": "rei",
+			"requiredMinor": 7,
+			"storyType": "nvl",
+			"clearSongId": "themessage",
+			"clearCharaId": 0
+		},
+		{
+			"minor": 9,
+			"requiredPack": "rei",
+			"requiredMinor": 8,
+			"storyType": "nvl",
+			"clearSongId": "sulfur",
+			"clearCharaId": 0
+		}
+	]
+}

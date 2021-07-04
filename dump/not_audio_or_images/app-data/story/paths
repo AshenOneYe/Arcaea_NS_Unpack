@@ -1,0 +1,53 @@
+{
+	"paths": [{
+			"storyType": 0,
+			"characterIcon": 0,
+			"characterIconXOffset": -250,
+			"main": 1
+		},
+		{
+			"storyType": 0,
+			"characterIcon": 1,
+			"characterIconXOffset": 250,
+			"main": 2
+		},
+		{
+			"storyType": 0,
+			"main": 100
+		},
+		{
+			"storyType": 2,
+			"main": 101
+		},
+		{
+			"storyType": 1,
+			"characterIcon": 23,
+			"characterIconXOffset": -362,
+			"main": 3
+		},
+		{
+			"storyType": 1,
+			"characterIcon": 2,
+			"characterIconXOffset": 0,
+			"main": 4
+		},
+		{
+			"storyType": 1,
+			"characterIcon": 45,
+			"characterIconXOffset": 362,
+			"main": 5
+		},
+		{
+			"storyType": 1,
+			"characterIcon": 4,
+			"characterIconXOffset": 724,
+			"main": 6
+		},
+		{
+			"storyType": 1,
+			"characterIcon": 13,
+			"characterIconXOffset": 1086,
+			"main": 7
+    }
+	]
+}

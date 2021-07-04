@@ -1,0 +1,317 @@
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(12,linear) normal
+
+play "thump.ogg" 0.0 loop
+
+volume "thump.ogg" 1.0 3.0
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 1.0 3.0
+
+say "And now, instincts begin to lurch, old and forgotten, in the wake of those thoughts."
+
+say "They haven’t yet taken hold, those discarded yet practical sensibilities. They have only stirred.
+She is still afraid.
+She clings to hope by a little finger."
+
+show "2white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.5,linear) normal
+
+say ""
+
+show "vs/bg.jpg" 0.5:0.35 0.5:0.35 1.5:1.5 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+scale "vs/bg.jpg" 1.7:1.7 9 sineout
+
+hide "white.png" fade(9,sineout)
+
+play "glassRain.ogg" 0.0 loop
+
+volume "glassRain.ogg" 1.0 3.0
+
+stop "thump.ogg" 0.5
+
+stop "memory1.ogg" 2
+
+say "Somehow, she manages to pull on ten memories to aid her,
+striking out the needle-glass that had been keeping her in the sky."
+
+play "collapse.ogg" 1.0
+
+move "vs/bg.jpg" 0:50 0.26 sineout
+
+hide "white70.png" fade(0,linear)
+
+say "Ingloriously she drops to the now-deformed ground,
+her chosen pieces afterward hovering over her crumpled, aching body.
+Oddly enough, she finds herself smiling now, too."
+
+hide "2white.png" fade(0,linear)
+
+say "She pushes herself up with her left hand. For all the enmity evident in Tairitsu’s assault,
+she had taken too much pleasure in inflicting torture on her enemy’s body,
+rather than inflicting any sort of mortal blow."
+
+say "Even the shard now in Hikari’s chest,
+so near to her beating heart and flickering with horrid, wrathful flame,
+did not do the deed."
+
+say "Maybe it wasn’t intended to.
+Regardless, Hikari is still alive."
+
+hide "vs/bg.jpg" fade(0,linear)
+
+show "vs/wglass.jpg" 0.6:0.94 0.6:0.94 1.35:1.35 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(3,sineout)
+
+move "vs/wglass.jpg" 600:0 2.5 sineout
+
+play "feeble.ogg" 1.0
+
+say "She feebly sends forth an attack, which is quickly swatted down by the girl flying above her.
+That girl now looks worse than any described devil Hikari has heard of in old memories."
+
+move "vs/wglass.jpg" -900:0 20 sineinout
+
+say "A veritable dark queen, ruling night in a world of day.
+That ecstatic, yet obviously empty smile..."
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(17,sinein) normal
+
+say "Seeing this, Hikari can feel it: how her own feelings are beginning to slip away."
+
+say "Stark reality is sobering her more and more, and rather than dread it,
+as she had been only minutes—no, seconds ago,
+she begins instead to register each fact present to the situation."
+
+say "Slowly—or, as slowly as Tairitsu will allow. Her attack is unending."
+
+play "woosh.ogg" 1.0
+
+say "Shifting her body left and right, guarding her weakest areas with what few memories remain to her,
+Hikari examines their field of battle."
+
+show "vs/arcahv1.jpg" 0.6:1 0.6:1 0.8:0.8 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(4,sineout)
+
+move "vs/arcahv1.jpg" 0:110 6 sineinout
+
+play "wind.ogg" 0.0 loop
+
+volume "wind.ogg" 1.0 3.0
+
+say "It has been torn asunder, and now looks more a wasteland than ever before.
+Ripped, ruined all through, like a town in the aftermath of military bombardment.
+The glass around them is uncountable. The power Tairitsu has is immeasurable."
+
+hide "vs/wglass.jpg" fade(0,linear)
+
+hide "white70.png" fade(0,linear)
+
+say "Hikari herself is weak.
+Not only in terms of strange abilities and control over glass—her body has been run ragged.
+She doesn’t have much left before she falls from weariness alone."
+
+say "Perhaps she could find an anomaly, but say she couldn’t.
+What then?
+She couldn’t, so \"then\" is \"now\"."
+
+say "So?
+How do you go on when the way is completely obstructed?
+Should you...? Go on?"
+
+hide "vs/arcahv1.jpg" fade(0,linear)
+
+play "stab.ogg" 1.0
+
+stop "glassRain.ogg" 0.2
+
+stop "wind.ogg" 0.2
+
+say "Glass strikes her shoulder, shining with light.
+Hikari stares into its reflection.
+So, the other girl can control light too, now. Well..."
+
+show "vs/arcahvcut.jpg" 0:1 0:1 1:1 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(3,sineout)
+
+move "vs/arcahvcut.jpg" -400:0 37 sineout
+
+say "She decides to think over what she’s observed once again.
+She recognizes that she could die here, or she could not.
+These are the two possibilities, and knowing that, she finds herself in acceptance."
+
+hide "vs/arcahvcut.jpg" fade(10,linear)
+
+say "This could be the end."
+
+say "In a moment, this could all be over.
+And while she’d rather it not, she can’t help but echo the idea:
+\"So it goes.\""
+
+say "After thought, hope, and feeling...
+determination is the last to fade from her."
+
+say ""
+
+wait 2
+
+say "This."
+
+say "This..."
+
+say "This is not... a laying down of arms.
+No..."
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(3,linear) overlayplus
+
+play "glassRain.ogg" 0.0 loop
+
+volume "glassRain.ogg" 0.5 3.0
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 0.6 3.0
+
+say "When she pulls the shard from her hand,
+her eyes briefly dazzled from the white flames licking up and searing closed her wound,
+she does not press it to her neck."
+
+say "She would certainly prefer to live... but she would not mind.
+She wouldn’t mind, with the odds being so impossible."
+
+hide "white.png" fade(4,sineout)
+
+say "Hikari stands in the wind of blades, barely a shard in her employ.
+She can’t discern Tairitsu’s face anymore.
+Her domain has become pandemonium, and seeing through it is too difficult."
+
+show "vs/low.jpg" 0.5:0.63 0.5:0.63 1:1 fade(5,sineout) normal
+
+move "vs/low.jpg" 0:370 18 sineout
+
+say "Eventually, while trudging through the flying glass, Hikari notices that
+some segments of the whirlwind are reversing in fits and starts.
+The bizarre movement is so unnatural she genuinely wonders if the girl above her is doing it on purpose."
+
+play "slip.ogg" 1.0
+
+wait 0.1
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(0.4,sineout)
+
+say "It’s reminiscent, she thinks, of a skipping video.
+It isn’t any better or worse than the bullet curtains she’s been facing so far, but it is quite peculiar."
+
+play "fading.ogg" 0.4 loop
+
+say "The earth quakes."
+
+say "She utters a \"Wha...?\" as she feels it.
+The earth, quaking?
+Here?"
+
+show "vs/arcahv1.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(1,sineout)
+
+hide "vs/low.jpg" fade(0,linear)
+
+say "It could be that the ground will break again.
+Thinking that, Hikari shields her face and chest with her arms.
+When nothing comes, she remains curious about the phenomenon."
+
+say "If it wasn’t the girl above her, Tairitsu wouldn’t have noticed it—after all, she was flying now."
+
+say "More of the blade storm is shifting and roiling in rough, rigid movements now.
+She decides to throw a crew of glass the other girl’s way again.
+It passes easily through the waves again, but then it suddenly turns very bright and breaks away."
+
+show "vs/arcahv2.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(7,linear) normal
+
+say "The shards don’t break themselves... They vanish, and the space where they were looks as if it is cracked.
+Once she sees this—once she recognizes what she’s seeing—everything around her enters stasis."
+
+hide "vs/arcahv2.jpg" fade(0.2,linear)
+
+play "ring.ogg" 0.5
+
+play "shine.ogg" 0.3
+
+stop "fading.ogg" 0.2
+
+say "In this instant, the obsidian-glass which had been flying all around her is stuck fast within reality.
+To her, it looks absolutely beautiful."
+
+show "vs/arcahv2.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(3,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(1,sineout)
+
+say "A smile crosses her lips without her wanting. \"How pleasant,\" she whispers, chuckling to herself.
+Something so beautiful here: where she could soon find her grave.
+It’s so bizarre that it is... to laugh. So she does. She makes earnest yet sad, dry laughter..."
+
+stop "memory1.ogg" 2
+
+say "But as motion gradually returns to the objects around her, and to the one above...
+Above...
+The sky...?"
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+play "quake.ogg" 0.15
+
+play "arcahvmini.ogg" 0.15
+
+auto 2.6
+
+say "A fracture splits across it.
+It widens, carving a shape out of heaven, and that immense segment begins to plummet.
+Even more bizarrely, hundreds of images flash across it, blinking rapidly from one to the next."
+
+say "The world begins to fall into strange ruin.
+As Hikari bears witness to this, more satisfaction rises to her smile.
+The storm is still slow, the image—too fantastic."
+
+show "vs/bg.jpg" 0.5:0.56 0.5:0.56 1.5:1.5 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(5,linear)
+
+move "vs/bg.jpg" 0:-970 30 sineinout
+
+say "The sky—the genuine sky, not an artificial one—is falling, stopping, and falling again,
+as if grand pieces of a celestial puzzle are being moved and switched by some befuddled god."
+
+say "And...
+watching it...
+her smile begins to gradually recede."
+
+say "The look in her eyes grows colder, her breath slows,
+and the faint glimmer of excitement provided by this cataclysmic view is snuffed out,
+replaced with objectivity. Her opinion on the disaster destroying all is delivered in a single word."
+
+say "With a little appreciation, in a mostly hollow tone, she says, \"Delightful.\"
+As if the word has any meaning.
+As if the fall has any meaning."
+
+say "As if the world has any meaning."

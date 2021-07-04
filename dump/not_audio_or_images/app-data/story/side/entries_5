@@ -1,0 +1,51 @@
+{
+	"entries": [{
+			"minor": 1,
+			"requiredPack": "dividedheart",
+			"storyType": "nvl",
+			"clearSongId": "bluerose",
+			"clearCharaId": -1
+		},
+		{
+			"minor": 2,
+			"requiredPack": "dividedheart",
+			"requiredMinor": 1,
+			"storyType": "nvl",
+			"clearSongId": "firstsnow",
+			"clearCharaId": 45
+		},
+		{
+			"minor": 3,
+			"requiredPack": "dividedheart",
+			"requiredMinor": 2,
+			"storyType": "nvl",
+			"clearSongId": "bluerose",
+			"clearCharaId": 45
+		},
+		{
+			"minor": 4,
+			"requiredPack": "dividedheart",
+			"requiredMinor": 3,
+			"storyType": "nvl",
+			"clearSongId": "blockedlibrary",
+			"clearCharaId": 45
+		},
+		{
+			"minor": 5,
+			"requiredPack": "dividedheart",
+			"requiredMinor": 4,
+			"storyType": "nvl",
+			"clearSongId": "neokosmo",
+			"clearCharaId": 45,
+			"additionalRequires": ["4-8"]
+		},
+		{
+			"minor": 6,
+			"requiredPack": "dividedheart",
+			"requiredMinor": 5,
+			"storyType": "nvl",
+			"clearSongId": "lightningscrew",
+			"clearCharaId": 45
+		}
+	]
+}

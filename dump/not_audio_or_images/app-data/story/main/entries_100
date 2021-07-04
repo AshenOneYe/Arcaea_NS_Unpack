@@ -1,0 +1,48 @@
+{
+	"entries": [{
+		"minor": 1,
+		"storyType": "vn",
+		"storyData": "meeting",
+		"requiredPack": "yugamu",
+		"clearSongId": "etherstrike",
+		"clearCharaId": 0,
+		"alternatePrefix": "V",
+		"additionalRequires": ["1-9", "2-9"]
+	},
+	{
+		"minor": 2,
+		"storyType": "nvl",
+		"requiredPack": "prelude",
+		"clearSongId": "vindication",
+		"clearCharaId": 1,
+		"alternatePrefix": "V"
+	},
+	{
+		"minor": 3,
+		"storyType": "nvl",
+		"requiredPack": "prelude",
+		"clearSongId": "vindication",
+		"clearCharaId": 0,
+		"requiredMinor": 2,
+		"alternatePrefix": "V"
+	},
+	{
+		"minor": 4,
+		"storyType": "nvl",
+		"requiredPack": "prelude",
+		"clearSongId": "heavensdoor",
+		"clearCharaId": 0,
+		"requiredMinor": 3,
+		"alternatePrefix": "V"
+	},
+	{
+		"minor": 5,
+		"storyType": "vn",
+		"storyData": "prelude",
+		"requiredPack": "prelude",
+		"clearSongId": "ringedgenesis",
+		"clearCharaId": 1,
+		"requiredMinor": 4,
+		"alternatePrefix": "V"
+	}]
+}

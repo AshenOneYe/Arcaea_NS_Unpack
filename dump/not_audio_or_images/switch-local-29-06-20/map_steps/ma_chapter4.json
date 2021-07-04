@@ -1,0 +1,230 @@
+[
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "amygdata",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "altale",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "fallensquare",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "dropdead",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "metallicpunisher",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "maliciousmischance",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_ilith",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

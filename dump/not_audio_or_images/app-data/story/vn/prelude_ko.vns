@@ -1,0 +1,214 @@
+say "끝이다."
+
+play "blowing1.ogg" 1.0 loop
+
+show "prelude/bg.jpg" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/bg.jpg" -40:0 0 linear
+move "prelude/bg.jpg" 40:0 4 cubicout
+
+show "prelude/t.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/t.png" -90:0 0 linear
+move "prelude/t.png" 90:0 4 cubicout
+
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" -120:0 0 linear
+move "prelude/glass.png" 120:0 4 cubicout
+
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/over.png" -120:0 0 linear
+move "prelude/over.png" 120:0 4 cubicout
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "black.png" fade(1,linear)
+
+say "어둠만으로 가득한 그녀가 깨진 유리창을 통해 다른 시간을 가만히 들여다본다.
+그녀가 다시 미소를 짓는다."
+
+say "그녀는 정말 바보가 아닐 수 없다.
+흰옷을 입은 소녀가 아닌,
+검은 옷을 입은 소녀 말이다."
+
+say "유리 조각에 비친 것은 기억이 아니다."
+
+say "그럴 리가 없지.
+그녀가 보고 있는 건 미래다. 그녀가 미리 예상 했어야 하는 미래,
+바보, 어리석은 공상가."
+
+show "white40.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "유리 조각은 그녀를 비췄고, 비춰진 그녀는 날카로운 유리 조각에 찔려 있다.
+상처는 불에 타는 듯한 아픔으로 그녀의 옷과 몸을 고통스럽게 태우는 것 같다."
+
+stop "blowing1.ogg" 3.0
+play "memory1.ogg" 1.0 loop
+
+hide "white40.png" fade(1.2,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "그녀 뒤로는 텅 비어 황량할 뿐인 아르케아의 땅이 광활하게 펼쳐져 있고, 그녀 앞에는
+왠지 모르게 익숙한 모습의 흰옷을 입은 소녀가 서있다.
+비록 소녀의 감정은 알 수 없지만, 두 눈을 감고 한 팔로 기둥을 감싸며 서있는 그 소녀의 후광은 눈이 부실 정도다."
+
+say "그 소녀가 지금 그녀 앞에 서있다.
+그녀가 지금 막 만난 그 소녀.
+이건 기억이 아니다, 앞으로 나아가야 할 미래이다."
+
+stop "memory1.ogg" 0.5
+
+show "prelude/3.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+hide "white70.png" fade(0,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "white70.png" fade(1.5,linear)
+
+say "이를 마주한 타이리츠는 자신을 더욱 숨긴다.
+그리고 그동안 못 본 척 지나쳤던 단 하나의 진실과 맞선다."
+
+play "fading.ogg" 1.0 loop
+
+say "그녀의 신념은 상관이 없었다.
+이 세계에서 그녀는 마음에 드는 걸 찾을 리가 없다."
+
+say "그 마지막 희망은 이제 검게 물들어 절망에 빠졌고, 잊혀졌다."
+
+say "또 무슨 일이 일어나는 거지?
+그녀가 바라던 건 무엇이었을까?
+어리석음. 귀찮음, 눈먼 어리석음."
+
+say "귀찮은 노력.
+귀찮은 기억.
+귀찮은 존재."
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+say "귀찮아. 최악이야. 지겹다. 지겹다. 그녀 자신이 싫증난다.
+끝날 것 같지 않은, 어디서 본듯한 지긋지긋한 상황들이 싫어진다."
+
+hide "prelude/3.png" fade(0,linear)
+
+say "기적? 없어..."
+
+say "그녀는 스스로에게 말했다. 이 세계는 지옥이라고.
+그리고 그녀는 알고 있다. 오래 전 사라진 세상의 깨어져버린 신념들,
+천사들도 언젠가 타락하여 악마의 모습으로 깨어 날 수 있는, 그런 세상이라는 것을."
+
+say "빛의 소녀가 딱 그렇다.
+빌어먹을 마지막 순간에, 그녀의 가슴속 작은 구덩이는 점점 커져간다.
+그 구덩이는 순식간에 모든 것을 헛되이 낭비하고 소멸시킨다. 그리고 그곳에는 차갑고 끝없는 균열만이 남는다."
+
+say "어둠이 살며시 그녀의 내면을 덮고 그녀의 생각을 집어삼켜 버리려 할 때,
+그녀의 눈에 다른 소녀가 보이기 시작한다. 그것도 아주 선명하게."
+
+say "유리 조각에 시선을 고정시킨다. 그러나 그녀의 눈은 불안함으로 가득하다."
+
+say "그녀는 알고 있다.
+지금 그녀는 상대방의 눈도 제대로 바라보지 못하고 있다.
+뻔히 보이면서도 한마디도 못 할 것이다."
+
+say "불안한가? 긴장되나? 태연하군.
+용서할 수 없다."
+
+say "분노는 증오와 혐오로 변하여 눈에서 넘쳐 흘러버린다."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+stop "fading.ogg" 2.0
+
+say "사악한 배신자, 사악하고 사악한 세계.
+그녀는 유리 조각을 통해 그곳에 가만히 서 있는 히카리를 바라보며
+양산을 쥔 손에 힘을 더 준다."
+
+move "prelude/glass.png" 0:30 0 linear
+hide "black.png" fade(2,linear)
+
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+move "2black.png" 0:-140 0 linear
+move "2black.png" 0:140 3.0 cubicout
+
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+move "3black.png" 0:140 0 linear
+move "3black.png" 0:-140 3.0 cubicout
+
+move "prelude/bg.jpg" 0:-60 3.5 cubicout
+move "prelude/t.png" 0:-90 3.5 cubicout
+move "prelude/4.png" 0:-90 3.5 cubicout
+move "prelude/glass.png" 0:-120 3.5 cubicout
+
+say "타이리츠의 악한 의도가 들켜버렸다. 그녀는 그 자리에 얼어붙어 버린다.
+우습다."
+
+say "타이리츠는 눈을 찡그리며 자신 안에 키워왔던
+남은 감정들을 없앤다."
+
+say "결국 그녀에게는 아무 감정도 남지 않게 되고,
+그 순간 자신이 무엇을 해야 할지 깨닫게 된다."
+
+say "그러나 거울은 한곳만 향해 있다. 혐오스럽고 황량한 운명만을.
+히카리는 이 이상한 유리 조각을 볼 수 없다."
+
+hide "prelude/4.png" fade(1,linear)
+
+say "타이리츠의 안색은 점점 어두워지지만
+히카리는 혼란 속에서 지켜볼 수밖에 없다."
+
+play "tension.ogg" 1.0 loop
+
+say "이유는 알 수 없지만, 그녀는 무언가 잘못되어 가고 있다는 느낌을 지울 수가 없다.
+그러나 실은 어둠이 두 소녀의 손길에 의해 하늘로 밀려 올라가며 소멸되는 것처럼 보인다."
+
+say "어둠이 그녀에게 가까이 다가올수록 그녀의 호흡은 점점 짧아진다. 그녀는 뒷걸음질 친다.
+그녀는 그녀의 눈을 믿을 수가 없다. 아니, 전혀 믿고 싶지 않다."
+
+say "그녀는 끔찍한 시련과 눈을 멀게 만들 만큼 눈부신 하늘 아래에서도 살아남았지만,
+아무런 이유도 없이 무언가가 또다시 그녀를 무시무시한 모험 앞에 데려다 놓았다."
+
+say "그러나 그녀는 살아남았다.
+이제야 그녀는 확실히 알게 되었다. 생존을 위한 투쟁에는 타협이 없다는 것을."
+
+say "이런 생각을 가슴에 품고도 히카리는 엄청난 실수를 저지른다."
+
+say "가장 바닥이었던 순간, 그녀에게 안정감을 주고
+삶의 방향을 알려주었던 유리 조각을 향해 하얀 손을 뻗어본다."
+
+stop "tension.ogg" 1.0
+play "ring.ogg" 1.0
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+move "prelude/4.png" 0:-90 0 linear
+
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" 0:-90 0 linear
+
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+
+hide "2black.png" fade(0,linear)
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+hide "3black.png" fade(0,linear)
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+
+say "그녀가 그것을 가슴 언저리까지 가져왔을 때,
+타이리츠의 온몸에도 소름이 돋는다."
+
+say "다시는 비극을 마주하지 않으리라는 확신을 가지고,
+타이리츠는 히카리에게 예고도 없이 다가가,
+마지막으로 한 번만 더 그녀의 삶을 잡아볼 준비를 한다."
+
+say ""
+
+play "lastBreak.ogg" 4.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.2,linear) normal
+
+wait 10
+
+stop "lastBreak.ogg" 0.9

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "core",
+    "type": "fragment",
+    "primary_value": 250
+  },
+  {
+    "id": "yugamu",
+    "type": "story",
+    "primary_value": 2,
+    "secondary_value": 3
+  },
+  {
+    "id": "rei",
+    "type": "story",
+    "primary_value": 1,
+    "secondary_value": 3
+  },
+  {
+    "id": "prelude",
+    "type": "story",
+    "primary_value": 100,
+    "secondary_value": 1
+  },
+  {
+    "id": "vs",
+    "type": "story",
+    "primary_value": 100,
+    "secondary_value": 5
+  },
+  {
+    "id": "shiawase",
+    "type": "map",
+    "primary_value": "shiawase"
+  },
+  {
+    "id": "mirai",
+    "type": "map",
+    "primary_value": "mirai"
+  },
+  {
+    "id": "nijuusei",
+    "type": "map",
+    "primary_value": "nijuusei"
+  },
+  {
+    "id": "zettai",
+    "type": "map",
+    "primary_value": "zettai"
+  },
+  {
+    "id": "omatsuri",
+    "type": "map",
+    "primary_value": "omatsuri"
+  }
+]

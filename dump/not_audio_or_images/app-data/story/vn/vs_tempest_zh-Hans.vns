@@ -1,0 +1,284 @@
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+say "“战斗势均力敌”——这样的美梦破灭了。与此一同瓦解的，还有光那终于开始动摇的希望。"
+
+play "memoryShift.ogg" 1.0
+
+play "blowing1.ogg" 0.0 loop
+
+volume "blowing1.ogg" 0.3 3.0
+
+show "vs/wglass.jpg" 0.25:1 0.25:1 1.65:1.65 fade(0,sineout) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(2,sineout)
+
+move "vs/wglass.jpg" 400:0 1.1 sineout
+
+say "原本由光指引的风暴，毫无任何先兆地朝着对立的侧面刮去。阴影与光芒交错，层叠掩埋起那女孩的身姿。
+就此碎片缠绕身体之际，她的双眼忽地紧紧闭上——而就在片刻后，当双目再次睁开之际，
+那无数错杂的回忆，在她的背后形成了六只巨大的羽翼。"
+
+hide "black.png" fade(0,linear)
+
+say "届时，她浑身散发着对整个自然界的公然蔑视，浮于上空，
+将尖锐的视线刺入光的瞳孔。"
+
+say "单单一个眼神便足以让光心知肚明，她基本已经失去了所有胜算。
+光曾经错以为面前那女孩是一头野兽；此刻，自己终于认清了那女孩的身份：
+高高在上，绝对无法触及的存在。"
+
+play "woosh.ogg" 2.5
+
+say "玻璃碎片在对立的背后升起，这场面好似一张巨型的帘幕：一扇清晰的，宏光闪烁的天窗。"
+
+say "位于下方的光，几乎没有任何东西可以用来抗衡即将到来的一切。至少，这就是她的第一感觉。但是……
+不……那纯黑的少女还未拥有一切。她可以在这里活下来。必定可以！
+那扇通往天国的窗户碎裂之际，光从中取下了二十枚记忆。"
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.6,sineout) normal
+
+say "最初，只有寥寥几枚碎片朝着她飞驰而去。可是，它们却显得极为……迂缓。
+这让她卸下了重担。她开始在心中默念：“可能性必然存在。”
+就好像顷刻前目睹的那一幕仅仅是这种事情：一场表演。"
+
+play "feeble.ogg" 1.0
+
+say "如同彼时一样，光将自己稳固地防御起来，潜心贯注地抵挡着坠落而下的碎玻璃。
+她的目光不断左右横扫，时不时地确认着那群光芒万丈的碎片正处于什么方位。
+这让她拾回了充足的信心——她没有遗失任何事物。她默许一丝笑容出现在自己的脸上。"
+
+hide "vs/wglass.jpg" fade(0,linear)
+
+say "就算迎来最坏的局势，至少她可以从这里顺利逃走。至少这并不会是属于自己的终点。"
+
+stop "blowing1.ogg" 0.3
+
+play "stab.ogg" 1.6
+
+show "vs/mid.jpg" 0.5:1 0.5:1 1.3:1.3 fade(0.2,linear) normal
+
+hide "white.png" fade(0,linear)
+
+say "于是，一片玻璃飞向了自己的胸口正中央。它的到来，只能被理解为试图向自己传递一则信息。
+它的飞行速度，比她曾见到的任何Arcaea都要快上数倍。
+正位于上方的另一名女孩，通过这片玻璃碎片，向她说道：“玩够了。”"
+
+say "“也不要浪费我的时间了。早点投降——然后死。”"
+
+play "woosh.ogg" 1.0
+
+play "darkamb.ogg" 0.0 loop
+
+volume "darkamb.ogg" 1.0 3.0
+
+hide "vs/mid.jpg" fade(0,linear)
+
+show "vs/bglass.jpg" 1:0 1:0 1.28:1.28 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(2,sineout)
+
+say "那枚玻璃碎片从她的裙边穿透而过。而光，则望向了对立的双眼。
+那身着黑衣的女孩，此刻正微微笑着。她的脸上，再也见不到一丝忧愤的阴云。
+但那却是她毕生的记忆中，最恐怖的事物。"
+
+say "那一枚碎片并未接触到光的身体，而是摔落在地面上。"
+
+play "blowing1.ogg" 0.0 loop
+
+volume "blowing1.ogg" 0.2 3.0
+
+say "毁坏的天窗开始旋转起来，逐渐形成一柱倾斜的龙卷。它的血盆大口正准备将她的身体吞噬，
+割裂了布料与皮肤，但只做到这一步为止，便飞离她的肉体。
+这场面，显然阐释着另一则信息：在迎来结局之前，那纯黑的少女想要自己的敌人清楚一切从何而始。"
+
+play "tunnel.ogg" 1.9
+
+say "恐惧席卷了她的每个细胞。玻璃组成的激流，以庞大的数量呼啸、切割着她的身体，
+就像被劲风牵扯般转动着身躯。她陷入了极度害怕的状态。
+好似一尊石像，她只是呆呆地站在原地，注视着一切。"
+
+say "她伫立在原地，注视着属于一个污秽世界的回忆。"
+
+say "刻画着痛苦、背叛、嫉妒的回忆。"
+
+say "殒命、暴虐、凋零。"
+
+say "黑暗。只是纯粹的黑暗。不论这些碎片究竟反射了何处的风景……她从中都近乎见不到一丝光芒。
+不论是多么渺小的火花，都会在转瞬间消逝。
+那女孩，也曾将这一画面这样描述给自己。"
+
+say "从苏醒以来，便一直蹂躏着她。那些污秽至极的倒影——
+此刻，她将用相同的事物去蹂躏另一个人。"
+
+play "memoryShift.ogg" 1.0
+
+stop "blowing1.ogg" 6.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+move "vs/bglass.jpg" 0:-2600 2 sineout
+
+say "玻璃碎片将光的衣袖从里侧勾起，刺入她的长裙。
+它们将她拉至上方——直到自己再也无法倚靠双足站立。"
+
+play "wind.ogg" 0.0 loop
+
+volume "wind.ogg" 0.6 3.0
+
+volume "memory1.ogg" 0.3 5.0
+
+play "thump.ogg" 1.0
+
+say "就像泪水已经盈眶般，那一股情感也满溢着自己的内心：在人们意识到自己即将死去时，便会来临的情感。
+这并不是畏惧。
+“恐怖”这种词，毫无用以形容的权利。"
+
+play "thump.ogg" 1.0
+
+say "心灰意冷？满怀希望？
+那种令她感到恐惧的，将自己拘束的感觉。"
+
+play "thump.ogg" 1.0
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(16,linear) normal
+
+hide "vs/bglass.jpg" fade(0,linear)
+
+say "届时涌入她脑中的，是属于她本人的回忆。就好像她在试图寻找其中的某一段；一段显得出众的回忆——
+一段能够告知她，自己曾在过去遭遇过类似的噩运，并且成功将其克服——如此的回忆。
+从中，她能学到该怎样逃走。"
+
+stop "wind.ogg" 2.0
+
+show "vs/sky.jpg" 0.5:0.95 0.5:0.95 1.6:1.6 fade(0,linear) normal
+
+show "2black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(0,linear)
+
+say "并不存在。"
+
+play "blowing1.ogg" 0.0 loop
+
+volume "blowing1.ogg" 0.3 3.0
+
+hide "2black.png" fade(10,linear)
+
+scale "vs/sky.jpg" 1.3:1.3 9 sineout
+
+say "黑色的风暴狂吼着侵袭着自己的躯体——不带一丝怜悯地切割着她。
+残虐，如此单纯的意图。不断地接近、接近……
+好似这意愿本身，就足以在她身上留下致命伤痕。"
+
+hide "black.png" fade(0,linear)
+
+say "不可置信。"
+
+say "这样的场面，早已超脱了她从诞生至今所亲眼见证的任何事物；
+自己亲身经历的，抑或是属于其他人的。
+混杂着这种令人厌恶的，面对未知事物时才会出现的感觉，但又对静候着自己的事物心知肚明……"
+
+say "惊骇。
+并不是畏惧。
+这般惊骇的领悟。"
+
+say "这里不存在任何受她指挥的玻璃碎片。
+随便什么，不管什么都好——异象——奇迹。
+随便哪件事情发生了，都会是她的救命稻草。她就能趁机逃逸。她就能活下去。"
+
+say "若这般展开必然发生；此刻、此处，便是最佳时机。"
+
+play "burst.ogg" 1.0
+
+stop "darkamb.ogg" 5.0
+
+move "vs/sky.jpg" 0:1000 2.5 cubicout
+
+show "white40.png" 0.5:0.5 0.5:0.5 2000:960 fade(9,linear) normal
+
+say "下方的大地开始崩裂，看着就像世界本身也想要加入这场猎杀。
+正是此刻。
+此刻！会有一枚碎片前来拯救她！"
+
+show "white50.png" 0.5:0.5 0.5:0.5 2000:960 fade(9,linear) normal
+
+say "她真诚地祈祷着——全心全意地祷告，祈求世界的意愿，为帮助她而站到自己的身旁！"
+
+say "命运女神也好，幸运之轮也罢，无论是谁——
+纵然是捏造出一位“神明”，赐予她足以创造胜利的力量！"
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(9,linear) normal
+
+say "哀求着。期望着。
+紧紧握住那片曾经将你救赎的存在，再度贴在你那染血的胸前。
+拯救的象征。象征着灵魂的赎身……它将必然——！"
+
+stop "blowing1.ogg" 0.5
+
+play "lastStab.ogg" 1.0
+
+show "vs/tempestissimo.jpg" 0.5:0.5 0.5:0.34 0.84:0.84 fade(0,linear) normal
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+show "red.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "vs/sky.jpg" fade(0,linear)
+
+wait 0.07
+
+hide "red.png" fade(0,linear)
+
+say ""
+
+say "又一片碎片穿透了她的身体，将那憎恶的火桩捅入了她的心脏。
+尽管它并未直接伤及她的心脏。但它所怀揣的讯息——那终末的讯息——已经做到了。
+从那残虐着她的女孩那里传来的，临终的讯息：简略，冷血。"
+
+hide "white40.png" fade(0,linear)
+
+hide "white50.png" fade(0,linear)
+
+hide "white70.png" fade(0,linear)
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.2,sineout) overlayplus
+
+say "“不。”"
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 1.0 3.0
+
+hide "black.png" fade(0,linear)
+
+hide "white.png" fade(12,sineout)
+
+say "那闯入光的心脏，几乎将她置于死地的利刃，届时只向她呈现出这般回忆——熊熊燃烧，吞噬一切的烈火。"
+
+say "触手可及的死亡。她的心脏猛地悸动了一下，让她意识到自己仍然活着。"
+
+say "她的瞳孔缩小，如同墨点。"
+
+say "就像那映射烈火的记忆一般，她的身体仿佛被火焰灼烧。
+伴随着流淌于空气中的邪恶高温，灼烧着。
+疼痛。痛苦。鲜血——"
+
+say "尝试将手伸向那可怕的伤口时，手中的救赎碎片也摔落下去。"
+
+say "接着，一枚锯齿状的碎片，从暴风雨中席卷过来，刺中了她的手背。"
+
+say "已经发不出任何声音了。"
+
+say "身体也被刺中了两次。如今，她就连呼吸也做不到了。"
+
+say "她的视线凝固于面前由不可思议的画面所组成的三重奏。"
+
+say "此般现实。如此地骇人而难以想象，但确实“如此”。"
+
+stop "memory1.ogg" 2.0
+
+say "她的思维，也逐渐开始消逝。"

@@ -1,0 +1,238 @@
+[
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "battlenoone",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "laqryma",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "einherjar",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "izana",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "core_generic_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "battlenoone",
+      "laqryma",
+      "einherjar",
+      "izana"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "battlenoone",
+      "laqryma",
+      "einherjar",
+      "izana"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "battlenoone",
+      "laqryma",
+      "einherjar",
+      "izana"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "battlenoone",
+      "laqryma",
+      "einherjar",
+      "izana"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "saikyostronger",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

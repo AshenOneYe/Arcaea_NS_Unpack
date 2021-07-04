@@ -1,0 +1,86 @@
+[
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "sheriruth",
+      "pragmatism"
+    ],
+    "restrict_type": "song_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "solitarydream",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

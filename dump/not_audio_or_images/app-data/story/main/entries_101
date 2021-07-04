@@ -1,0 +1,73 @@
+{
+	"entries": [{
+		"minor": 1,
+		"storyType": "nvl",
+		"requiredPack": "vs",
+		"clearSongId": "equilibrium",
+		"clearCharaId": -1,
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 2,
+		"storyType": "nvl",
+		"requiredPack": "vs",
+		"clearSongId": "antagonism",
+		"clearCharaId": 1,
+		"requiredMinor": 1,
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 3,
+		"storyType": "nvl",
+		"requiredPack": "vs",
+		"clearSongId": "equilibrium",
+		"clearCharaId": 0,
+		"requiredMinor": 2,
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 4,
+		"storyType": "nvl",
+		"requiredPack": "vs",
+		"clearSongId": "ifi",
+		"clearCharaId": 0,
+		"requiredMinor": 3,
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 5,
+		"storyType": "nvl",
+		"requiredPack": "vs",
+		"clearSongId": "dantalion",
+		"clearCharaId": 1,
+		"requiredMinor": 4,
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 6,
+		"storyType": "nvl",
+		"requiredPack": "vs",
+		"clearSongId": "lostdesire",
+		"clearCharaId": 1,
+		"requiredMinor": 5,
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 7,
+		"storyType": "vn",
+		"storyData": "vs_tempest",
+		"requiredPack": "vs",
+		"requiredMinor": 6,
+		"unlockedSongId": "tempestissimo",
+		"alternatePrefix": "VS"
+	},
+	{
+		"minor": 8,
+		"storyType": "vn",
+		"storyData": "vs_arcahv",
+		"requiredPack": "vs",
+		"requiredMinor": 7,
+		"unlockedSongId": "arcahv",
+		"alternatePrefix": "VS"
+	}]
+}

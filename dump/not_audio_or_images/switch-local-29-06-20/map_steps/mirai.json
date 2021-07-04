@@ -1,0 +1,246 @@
+[
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "oblivia",
+      "rise",
+      "vexaria",
+      "babaroque",
+      "grimheart",
+      "snowwhite",
+      "chronostasis",
+      "ignotus",
+      "qualia",
+      "gekka"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "oblivia",
+      "rise",
+      "vexaria",
+      "babaroque",
+      "grimheart",
+      "snowwhite",
+      "chronostasis",
+      "ignotus",
+      "qualia",
+      "gekka"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "oblivia",
+      "rise",
+      "vexaria",
+      "babaroque",
+      "grimheart",
+      "snowwhite",
+      "chronostasis",
+      "ignotus",
+      "qualia",
+      "gekka"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "oblivia",
+      "rise",
+      "vexaria",
+      "babaroque",
+      "grimheart",
+      "snowwhite",
+      "chronostasis",
+      "ignotus",
+      "qualia",
+      "gekka"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "oblivia",
+      "rise",
+      "vexaria",
+      "babaroque",
+      "grimheart",
+      "snowwhite",
+      "chronostasis",
+      "ignotus",
+      "qualia",
+      "gekka"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "pack_mirai",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "character_lethe",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "genesis",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart",
+      "genesis"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart",
+      "genesis"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart",
+      "genesis"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart",
+      "genesis"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "blossoms",
+      "romancewars",
+      "moonheart",
+      "genesis"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "lethaeus",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

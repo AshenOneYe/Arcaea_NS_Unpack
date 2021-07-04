@@ -1,0 +1,52 @@
+[
+  {
+    "capture": 178,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 175,
+    "reward_bundle": "",
+    "restrict_id": "nijuusei",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "fragment178",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "fragment175",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "repeat_times": 5,
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "singularity",
+    "restrict_type": "song_id"
+  },
+  {
+    "repeat_times": 10,
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "singularity",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_luna",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

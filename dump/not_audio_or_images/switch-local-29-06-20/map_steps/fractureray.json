@@ -1,0 +1,101 @@
+[
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "fractureray",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 2,
+    "reward_bundle": "",
+    "restrict_id": "etherstrike",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 3,
+    "reward_bundle": "",
+    "restrict_id": "halcyon",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "sulfur",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 5,
+    "reward_bundle": "",
+    "restrict_id": "themessage",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 6,
+    "reward_bundle": "",
+    "restrict_id": "mazenine",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 7,
+    "reward_bundle": "",
+    "restrict_id": "mazenine",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 8,
+    "reward_bundle": "",
+    "restrict_id": "themessage",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 9,
+    "reward_bundle": "",
+    "restrict_id": "sulfur",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 10,
+    "reward_bundle": "",
+    "restrict_id": "halcyon",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 20,
+    "reward_bundle": "",
+    "restrict_id": "etherstrike",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 30,
+    "reward_bundle": "",
+    "restrict_id": "fractureray",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 40,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 60,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_hikari_fracture",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

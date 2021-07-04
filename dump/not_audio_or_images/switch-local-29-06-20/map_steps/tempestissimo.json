@@ -1,0 +1,44 @@
+[
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "tempestissimo",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "vs",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_tairitsu_tempest",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

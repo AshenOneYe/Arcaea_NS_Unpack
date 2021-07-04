@@ -1,0 +1,248 @@
+[
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "lethaeus",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 47,
+    "reward_bundle": "corpssansorganes",
+    "restrict_id": "corpssansorganes",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 48,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 45,
+    "reward_bundle": "core_ambivalent_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 46,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 45,
+    "reward_bundle": "core_ambivalent_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 47,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 48,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 47,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 46,
+    "reward_bundle": "core_ambivalent_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 48,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 45,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 45,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 50,
+    "reward_bundle": "core_ambivalent_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 47,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 45,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_ambivalent_10",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

@@ -1,0 +1,83 @@
+show "meeting/bg.jpg" 0.5:0.5 0.5:0.5 1.05:1.05 fade(4,linear) normal
+move "meeting/bg.jpg" 0:40 0 linear
+move "meeting/bg.jpg" 0:-40 4 cubicout
+
+play "wind.ogg" 1.0 loop
+
+say "这座废墟与其他废墟都呈现出相同的景象，
+但被光芒环抱的少女仍然在路过时注意到它，走进了其中。"
+
+play "steps.ogg" 0.7
+
+say "她开始疑惑这些废墟究竟是何物，以及它们为何存在于此——
+疑惑她一直以来游荡的这个世界是否也存在过往，
+亦或者这些被严重破坏的风景线只因巧合存在。"
+
+say "她认为自己必须思考此事，而不是屈服于愚昧的极乐。
+若她想要得到一个理由，这可能也会帮助她进一步了解这个世界。
+或许这里……是另一个世界的对立面？"
+
+say "她曾于Arcaea中目睹过类似的景象，但这也使她质疑这个世界的某处
+存不存在尚未成为废墟、依然耸立的高塔与建筑。
+也许她只是还没找寻到它们……"
+
+say "这座废墟看起来曾经庞大而金碧辉煌。
+这必然曾是一个美丽的地方，吸引着大量的人前来，她这样想。
+如此光彩的过去若存在，那真的十分遗憾。"
+
+say "如今那儿只有她一个人——移动于排排长凳与破损的烛台之中。"
+
+say "如今那儿只有她一个人——接着她眨了下眼，猛然发现这里实际上还有一个人。"
+
+play "thump.ogg" 0.7
+
+show "meeting/tairitsu.png" 1:0 1.05:0 1:1 fade(0.9,sineout) normal
+move "meeting/tairitsu.png" 60:0 0 linear
+move "meeting/tairitsu.png" -60:0 2.5 cubicout
+
+show "meeting/hikari.png" 0:0 0:0 1:1 fade(0.9,sineout) normal
+move "meeting/hikari.png" -100:0 0 linear
+move "meeting/hikari.png" 100:0 2 cubicout
+
+show "meeting/bars.png" 1:0 1:0 1:1 fade(0.9,sineout) normal
+move "meeting/bars.png" 100:0 0 linear
+move "meeting/bars.png" -100:0 2.0 cubicout
+
+show "meeting/fx-l.png" 0:0 0:0 1:1 fade(0.9,sineout) normal
+move "meeting/fx-l.png" -170:0 0 linear
+move "meeting/fx-l.png" 170:0 3.5 cubicout
+
+show "meeting/fx-r.png" 1:0 1:0 1:1 fade(0.9,sineout) normal
+move "meeting/fx-r.png" 120:0 0 linear
+move "meeting/fx-r.png" -120:0 3.5 cubicout
+
+say "还有一个人，静静地站在她的左方，那一堵损毁的墙壁前。"
+
+say "曾经的她，会开心地微笑起来，毫无防备地亲近对方。
+而现在，她困惑地盯着那被阴影笼罩的女孩，
+但却未必没有怀着那让她无法抑制地颤抖的欣喜之情。"
+
+say "回忆的景象之外，于这个世界之中，就在她的眼前——有一名人类。
+一直以来她都是独自一人，而现在这里出现了另一个人：
+一个活生生的，有着呼吸的人。"
+
+say "另一位少女并没有注意到她，只是手握阳伞继续熟睡。
+她那黑暗的身影显得与这闪闪发亮的世界格格不入。
+这突兀的景象使她以为自己正处于梦境中，又或者瞧见了另一段苏醒的回忆。"
+
+say "她张开嘴说话，而另一名少女也恢复意识，睁开了双眼。"
+
+say "象征着被遗忘的悲伤与邪恶事物的她睁开了双眼，
+眼前是这早已改变的，一身雪白衣裳的少女。"
+
+say "让身披光芒的少女感到舒心的那阵阵呼吸声很快就停止了；
+那背负黑暗的少女眯起眼睛，嘴唇微张，似乎有着疑问。
+但她最后只是倒吸了一口气，眉头上扬，将伞柄握得更紧了。"
+
+say "一股难以控制的扭曲狂喜由她心中一涌而出，但凌驾之上的是空前的渴望。
+这份情感显现于她的面庞，而象征混沌的少女向那象征光明的少女
+献出了一抹真诚、无法抑制的微笑。"
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+say ""

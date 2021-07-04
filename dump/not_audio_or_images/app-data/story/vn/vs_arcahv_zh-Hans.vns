@@ -1,0 +1,317 @@
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(12,linear) normal
+
+play "thump.ogg" 0.0 loop
+
+volume "thump.ogg" 1.0 3.0
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 1.0 3.0
+
+say "而此刻，就在彻底失去思考能力后，光的求生本能终于开始运作——那种古老，曾被遗忘的本能反应。"
+
+say "只是那些客观实用的求生本能，却被光悉数抛弃。它们最后也只是“开始运作”罢了。
+她依然感到恐惧。
+几乎是只用一根小拇指，却仍牢牢扣住的希望。"
+
+show "2white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.5,linear) normal
+
+say ""
+
+show "vs/bg.jpg" 0.5:0.35 0.5:0.35 1.5:1.5 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+scale "vs/bg.jpg" 1.7:1.7 9 sineout
+
+hide "white.png" fade(9,sineout)
+
+play "glassRain.ogg" 0.0 loop
+
+volume "glassRain.ogg" 1.0 3.0
+
+stop "thump.ogg" 0.5
+
+stop "memory1.ogg" 2
+
+say "几乎是莫名其妙地，她居然成功将十枚回忆召唤至自己身旁，
+把那些将她身体固定于半空中的细针状玻璃皆数撞开。"
+
+play "collapse.ogg" 1.0
+
+move "vs/bg.jpg" 0:50 0.26 sineout
+
+hide "white70.png" fade(0,linear)
+
+say "以如此不光彩的方式，摔落到扭曲崩裂的地面上，
+随后，她所选中的碎片们，围着她伤痕累累的身体绕起圈来。
+足够奇怪的是，她发现今朝的自己也同样微笑着。"
+
+hide "2white.png" fade(0,linear)
+
+say "她借助左臂将身子撑了起来。从对立的攻击中透露的敌意清晰可辨，
+可她过于享受摧残自己敌人的肉体，
+以至于迟迟未下任何杀手。"
+
+say "哪怕是在此刻存留于光胸腔中的碎片，
+是那么靠近她那跳动的心脏，让她经受了那么耀眼，骇人，愤怒的烈焰——
+哪怕已经做到这一步，却仍未致命。"
+
+say "或许这并不是对立的初衷。
+但不管怎么回事，光清楚自己仍然活着。"
+
+hide "vs/bg.jpg" fade(0,linear)
+
+show "vs/wglass.jpg" 0.6:0.94 0.6:0.94 1.35:1.35 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(3,sineout)
+
+move "vs/wglass.jpg" 600:0 2.5 sineout
+
+play "feeble.ogg" 1.0
+
+say "她虚弱地送出了一波攻势，却被上方正翱翔于空的那位女孩轻而易举地扑灭。
+光所听闻的古老回忆中，完全不存在像那女孩一般可怕的恶魔。"
+
+move "vs/wglass.jpg" -900:0 20 sineinout
+
+say "她是名副其实的女王，在这白昼的世界中统治着黑夜。
+那丝展露着狂喜的微笑，却空虚得毋庸置疑……"
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(17,sinein) normal
+
+say "望见这幅景象后，光也终于能体会到相同的事物：自己心中的所有情感，是如何迈向毁灭的。"
+
+say "鲜明的现实只会让她变得愈发清醒，而不是使她更加畏缩，
+譬如她在几分钟前的心理状态——不，几秒前。
+她开始认知起当今形势中存在的每一件事实。"
+
+say "缓慢地——或者说，是在条件允许的情况下，尽可能缓慢地认知着事态。对立的攻势，在此期间从未停歇。"
+
+play "woosh.ogg" 1.0
+
+say "将身体左右挪移，用仅剩的回忆去保护自己肉体最脆弱的部位。
+同时，光观察着二人如今的战场。"
+
+show "vs/arcahv1.jpg" 0.6:1 0.6:1 0.8:0.8 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(4,sineout)
+
+move "vs/arcahv1.jpg" 0:110 6 sineinout
+
+play "wind.ogg" 0.0 loop
+
+volume "wind.ogg" 1.0 3.0
+
+say "面前的景象是如此残败不堪。现在的这里，比从前的任何时间都更像一片“荒原”。
+被撕裂的地面，处处都只留下残亘断瓦。这里简直是一座被严重轰炸过的城镇。
+环绕着她们二人的玻璃根本无法计数。对立所拥有的力量更是不可估量。"
+
+hide "vs/wglass.jpg" fade(0,linear)
+
+hide "white70.png" fade(0,linear)
+
+say "光的自身，太弱小了。
+并不只是指代自己控制玻璃碎片的能力——衣衫褴褛的她，浑身本就受满了伤。
+她早就没剩下多少耐力——光是疲劳便足以战胜她仅剩的神智。"
+
+say "也许她仍可能找到一场异象，但此刻只可假设她做不到。
+所以在这之后，她又得去寻找什么？
+她做不到。既然她做不到，那就不存在任何假设的必要。"
+
+say "于是？
+前进的道路都彻底毁了，你还怎么向前走？
+再者，你甚至……该向前走吗？"
+
+hide "vs/arcahv1.jpg" fade(0,linear)
+
+play "stab.ogg" 1.0
+
+stop "glassRain.ogg" 0.2
+
+stop "wind.ogg" 0.2
+
+say "玻璃闪耀着光芒，冲击着她的双肩。
+光凝视着玻璃反射的画面。
+所以，那个女孩现在和她一样，也能控制光芒了。那好……"
+
+show "vs/arcahvcut.jpg" 0:1 0:1 1:1 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(3,sineout)
+
+move "vs/arcahvcut.jpg" -400:0 37 sineout
+
+say "她再度企图重新思考自己所观测到的一切。
+她明白自己可能会死在这里，但也可能不会。
+留给她的只有这两个可能性。知晓这一事实后，她发现自己逐渐认同了自己的命运。"
+
+hide "vs/arcahvcut.jpg" fade(10,linear)
+
+say "这里确实可以是她生命的终点。"
+
+say "只需刹那间的功夫，这一切就都能落幕。
+而每当她祈求这不要变成事实的时候，她却做不了任何事。她只能重复这样的想法：
+“别无他路可走。”"
+
+say "在丢失了思维、希望与感官之后……
+意志是最后离开她的事物。"
+
+say ""
+
+wait 2
+
+say "还没有。"
+
+say "还没有……"
+
+say "还没有……到屈服的时候。
+不要……"
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(3,linear) overlayplus
+
+play "glassRain.ogg" 0.0 loop
+
+volume "glassRain.ogg" 0.5 3.0
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 0.6 3.0
+
+say "当她将先前刺入手中的碎片狠狠拔出后，
+燃起的纯白火舌瞬间便吞噬了她的伤口，不禁使她一阵眼花目眩。
+她并未将手按压在自己的脖子上。"
+
+say "她显然会宁可活下去……但她并不会介意。
+她不会介意，毕竟奇迹发生的可能性是那么渺小。"
+
+hide "white.png" fade(4,sineout)
+
+say "光直立于刀刃的狂风之中。听从她指挥的碎片，近乎不存在。
+她已经无法再辨认出对立的脸。
+她所身处的区域已经骚动不堪。若想让视线穿透这些碎片，实在是过于艰难。"
+
+show "vs/low.jpg" 0.5:0.63 0.5:0.63 1:1 fade(5,sineout) normal
+
+move "vs/low.jpg" 0:370 18 sineout
+
+say "最终，就在试图缓慢穿过飞舞的玻璃时，
+她留意到风暴的某些部分正在整齐地逆旋。
+这样不自然的怪异现象，让她自心底怀疑这是不是上面那女孩的有意之举。"
+
+play "slip.ogg" 1.0
+
+wait 0.1
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(0.4,sineout)
+
+say "就像是正在跳帧的视频，她如此联想。
+尽管与自己曾遭遇的弹幕相比，这种现象并没有好坏上的区别。但它的确显得过于古怪了。"
+
+play "fading.ogg" 0.4 loop
+
+say "地面猛烈震荡起来。"
+
+say "感觉到这一迹象知识，她脱口而出一句“什……”
+地面在……震动？
+就在这儿？"
+
+show "vs/arcahv1.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(1,sineout)
+
+hide "vs/low.jpg" fade(0,linear)
+
+say "很有可能是地表将要再一次开裂。
+这个念头浮现的瞬间，光便用手掌挡住脸庞，顺势用手臂护住了胸前。
+但之后并没有任何事情发生，而她仍旧对这突发现象保持着十足的好奇心。"
+
+say "如果这不是上面那女孩的所作所为，那她也自然不会察觉到这件事——毕竟，现在的她仍在天上飞。"
+
+say "现在的这片刀刃风暴之中，只存在更多的碎片正以那粗糙死板的路径呼啸翻腾。
+她决定再将一队碎片掷入另外那名女孩的路径上。
+那些碎片——它们轻而易举地穿透了风暴的波浪，但却忽然发出诡异的强光，接着便崩坏消逝。"
+
+show "vs/arcahv2.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(7,linear) normal
+
+say "碎片本身并没有损毁……它们只是凭空消失，在原处留下了好似裂痕的空间。
+而就在她目睹这一迹象后——就在她意识到自己看到了什么东西的那一瞬间——所有的事物都陷入了静止状态。"
+
+hide "vs/arcahv2.jpg" fade(0.2,linear)
+
+play "ring.ogg" 0.5
+
+play "shine.ogg" 0.3
+
+stop "fading.ogg" 0.2
+
+say "在这顷刻间，那些本围绕着她盘旋的黑曜石玻璃也被牢牢牵制于原地。
+对她而言，这幅画面是那么美不胜收。"
+
+show "vs/arcahv2.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(3,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(1,sineout)
+
+say "一抹截然不受自己意愿所控的微笑，令她的嘴角微微上扬。“多么令人愉快啊。”她这样低语道，咯咯地笑着。
+这里存在着某种极为美丽的事物：哪怕这里很快便会立起自己的坟墓。
+这真是奇异到令人……发笑。她的确笑出了声。她发出了如此真心诚意，却这般悲伤，这般干枯的笑声……"
+
+stop "memory1.ogg" 2
+
+say "只是，就在周遭的场景逐渐回归正常，流动的时间也终于回到位于上方的那名女……
+位于……上方……
+……天空？"
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+play "quake.ogg" 0.15
+
+play "arcahvmini.ogg" 0.15
+
+auto 2.6
+
+say "一道裂痕瞬间出现于天空之上。
+那裂缝急剧扩宽，逐渐刻画出宛若天堂般的轮廓。紧接着，那巨大的断层开始下坠。
+更令人感到离奇的是，数百张画面正在它的表面上流窜，接连扑闪着光辉。"
+
+say "整个世界都渐渐开始堕落为一片古怪的残骸。
+光在将这一幕尽收眼底之际，脸上的微笑也变得更加满足。
+暴风雨仍转动得极为缓慢。这幅画面——真的太梦幻了。"
+
+show "vs/bg.jpg" 0.5:0.56 0.5:0.56 1.5:1.5 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(5,linear)
+
+move "vs/bg.jpg" 0:-970 30 sineinout
+
+say "那片天空——那片货真价实的天空，绝非人造物体——正在坠落。忽然完全停止，接着再度坠落，
+好似一幅天文拼图的碎片正被某位醉酒的神明肆意移动着。"
+
+say "并且……
+注视着这幅景象……
+她的微笑开始逐渐逝去。"
+
+say "她的眼神变得冰冷，呼吸也逐渐变慢，
+因这种灾难性的画面而点亮的微弱激情，也终于熄灭——
+被客观思绪所完全替代。对于这场即将毁灭万物的灾难，她只传达出了单单一个词语。"
+
+say "语气中带着一丝微弱的赞扬，更多的却是空洞。她说道：
+“太美妙了”
+就好像这个词语存在任何意义。就好像那场崩塌存在任何意义。"
+
+say "就好像这世界存在任何意义。"

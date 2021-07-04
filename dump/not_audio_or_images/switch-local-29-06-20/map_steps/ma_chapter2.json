@@ -1,0 +1,230 @@
+[
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "callmyname",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "dottodot",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "bethere",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "feelssoright",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "phantasia",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_2",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "mahoroba",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_ayu",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

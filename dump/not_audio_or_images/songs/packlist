@@ -1,0 +1,166 @@
+{
+  "packs": [
+    {
+      "id": "base",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Arcaea"
+      },
+      "description_localized": {
+        "en": "",
+        "ja": ""
+      }
+    },
+    {
+      "id": "dividedheart",
+      "plus_character": -1,
+      "custom_banner": false,
+      "name_localized": {
+        "en": "Divided Heart"
+      },
+      "description_localized": {
+        "en": ""
+      }
+    },
+    {
+      "id": "core",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Eternal Core"
+      },
+      "description_localized": {
+        "en": "Unlock the Eternal Core to access\nArcaea's Original Songs cache.\n\nExperience a tale of Light and Conflict\nas Tairitsu and Hikari find themselves\nin a lost, broken world.",
+        "ja": "オリジナル曲を開放する拡張パック\n『エターナルコア』をアンロックし\nアーケアの失われた世界で\n『光』と『対立』が奏でる物語を\nあなた自身の力で探求しよう！",
+        "ko": "Arcaea의 부서져 잃어버린 세계에서\n'Hikari'와 'Tairitsu'가 연주하는\n'빛'과 '대립'의 이야기를 들어주세요.\n\nArcaea의 오리지널 음악이\nEternal Core에 수록되어 있습니다.",
+        "zh-Hant": "解開永恆核心的封印，\n接受秘術之地Arcaea原創樂曲的洗禮。\n\n你將與對立和光一同探索一個失落的破碎世界，\n在充滿衝突的旅程往光明邁進。",
+        "zh-Hans": "解开永恒核心的封印，\n探索Arcaea的宝贵原创乐曲。\n\n你将与光和对立一同探索那失落的破碎世界\n等待着你的将会是光芒与混沌的无尽纠缠。"
+      }
+    },
+    {
+      "id": "yugamu",
+      "plus_character": 6,
+      "name_localized": {
+        "en": "Vicious Labyrinth"
+      },
+      "description_localized": {
+        "en": "A tide of sorrow sweeps over the world of Arcaea.\n\nExperience Tairitsu's torments as she pursues\nthe deeper, twisted pasts that await\nas well as a treacherous anomaly\nthat lies hidden...\nFeaturing intense, challenging songs",
+        "ja": "アーケアの世界に、悲しみの波が広がる...\n\n先に待ち受けているのは、危険な「アノマリー」。\n対立が追求するその深く、ねじれた過去を体験せよ...\n\n激しくも、挑戦的な楽曲をご用意しました",
+        "ko": "아르케아의 세계에 슬픔의 물결이 몰아치고 있습니다..\n\n타이리츠의 고통을 직면하게 된 이상현상 속에서\n뒤틀린 과거의 슬픔을 더욱 깊이 경험해보세요.\n\n혼돈 속에서 발견한 더욱 강렬하고 도전적인 악곡을 소개합니다. ",
+        "zh-Hant": "Arcaea的世界為憂傷所淹沒。\n隨著對立探索扭曲的塵封往事以及潛伏的惡毒異象，\n體驗她所經歷的苦難...\n\n緊湊、充滿挑戰的旋律將接踵而來。",
+        "zh-Hans": "哀伤的潮汐冲刷着Arcaea的世界。\n跟随对立探索扭曲的尘封往事以及那潜伏的恶毒异象，\n体验她所经历的苦难...\n\n紧凑、挑战性极高的旋律将接踵而至。"
+      }
+    },
+    {
+      "id": "rei",
+      "plus_character": 14,
+      "name_localized": {
+        "en": "Luminous Sky"
+      },
+      "description_localized": {
+        "en": "The skies of Arcaea brighten overhead.\n\nExperience an intense story of light\nas Hikari journeys into the realm of\nthe mind and memories, not knowing\nof the ending that awaits her,\nnor the anomaly that could be her salvation...",
+        "ja": "頭上に燦めくArcaeaで編まれた空。\n\nいまだ知り得ぬ終幕へと続く、光の記憶と\n心の目覚めを巡る苛烈な旅に旅立ちましょう。\n\n終焉の淵で待つアノマリー、はたしてそれは\n彼女にとっての救いとなるかーー？",
+        "ko": "Arcaea의 하늘이 머리 위를 비춥니다\n\n그녀를 기다리고 있는 알수없는 결말,\n하지만 구원의 기회가 될 수 있는\n그녀의 이상을 향해..\n\n'히카리'와 함께 마음속에 있는,\n추억과 감정이라는 강렬한 빛을 경험해보세요\n신나고 어려운 곡들이 준비되어 있습니다",
+        "zh-Hant": "Arcaea的天空正在頭頂閃閃發光。\n\n跟隨已經踏入精神領域的光，\n穿梭于情感與回憶之中，\n體驗那有關光明的緊張而又激烈的故事。\n她並不知曉那正靜待她的結局，\n也對那可能成為她的救贖的異象毫不知情……",
+        "zh-Hans": "Arcaea的天空在头顶闪闪发亮。\n\n跟随已经踏入精神领域的光，\n穿梭于情感与回忆之中，\n体验那关于光明的紧张而又激烈的故事。\n她并不知晓那正静待着她的结局，\n也对那可能成为她的救赎的异象毫不知情……"
+      }
+    },
+    {
+      "id": "prelude",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Adverse Prelude"
+      },
+      "description_localized": {
+        "en": "A meandering journey,\nan impossible meeting.\nOne is of light, the other conflict—\nand now their fates intertwine.\n\nFive new monumental songs stand ready,\nwherever this meeting may lead...",
+        "ja": "果てなき旅路の最中、\n叶い得なかった邂逅。\n一方は白き少女、もう一方には黒き少女。\n―――――そして今、2つの宿命が1つに交わる。\n\nここに在りしは不朽の楽曲が5つ、\n邂逅が導くのはいずこなりや？",
+        "ko": "정처없는 여정,\n있을 수 없는 만남.\n하나의 빛과, 또 다른 대립,\n그리고 지금, 뒤얽히는 그들의 운명.\n\n새롭게 준비된 상징적인 5곡들,\n이 만남이 이끌어가는 곳 어디든..",
+        "zh-Hant": "一段蜿蜒曲折的旅途，\n一場不可思議的邂逅。\n一由光芒環抱，一則纏繞紛爭——\n少女們的命運，將於此刻交織。\n\n五首重量級的全新樂曲，\n將隨這場相遇席捲而來……",
+        "zh-Hans": "一段蜿蜒曲折的旅途，\n一场不可思议的邂逅。\n一由光芒环抱，一则缠绕纷争——\n少女们的命运，将于此刻交织。\n\n五首重量级的全新乐曲，\n将随这场相遇席卷而来……"
+      }
+    },
+    {
+      "id": "vs",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Black Fate"
+      },
+      "description_localized": {
+        "en": "A storm fast approaches.\nReconciliation may not be possible.\nIs this the only destiny afforded them?\nWhat truth will they find at the end of their paths?\n\nA continuation of the main story of Arcaea.\nIt's suggested to play other main story packs first.",
+        "ja": "嵐は来る――すぐに近くまで。\n和解はきっと、できないかもしれない。\nこれが唯一、許される運命なのだろうか。\n選んだ道の先、二人が見出す真実とは――。\n\nArcaeaメインストーリーの続編です。\nここまでの物語をクリアの後、購入を推奨します。",
+        "ko": "빠르게 다가오는 폭풍.\n아마도 불가능해 보이는 화해.\n이것이 그들에게 주어진 유일한 운명인가?\n그 여정의 끝자락에서 발견하게 될 진리는 무엇인가?\n\n이어지는 아르케아의 메인 스토리.\n다른 메인 스토리 팩을 먼저 플레이 해보시길 추천드립니다.",
+        "zh-Hant": "一場暴風雨正呼嘯而來。\n妥協的可能性，或許並不存在。\n一切，真的只是命中註定嗎？\n在終點站等待著少女們的，究竟是怎樣的真理？\n\n韻律源點主線故事的下一篇章。\n在此之前，強烈建議先遊玩過去的故事包。",
+        "zh-Hans": "一场暴风雨正呼啸而来。\n妥协的可能性，或许并不存在。\n一切，真的只是命中注定吗？\n在终点站等待着少女们的，究竟是怎样的真理？\n\n韵律源点主线故事的下一篇章。\n在此之前，强烈建议先游玩过去的故事包。"
+      }
+    },
+    {
+      "id": "shiawase",
+      "plus_character": 2,
+      "name_localized": {
+        "en": "Crimson Solace"
+      },
+      "description_localized": {
+        "en": "Join Kou as she explores a lost,\nyet familiar, joyful world.\n\nSee the brighter side of the world\nof Arcaea with brand new, original \nsongs in the midst of a haven\ndyed in Crimson.",
+        "ja": "ーーそれはどこか懐かしくも楽しげで、\nしかし今は失われた世界。\n\n新規書き下ろし楽曲多数！\n紅い安息に沈んだ欠片たちをめぐりながら、\nアーケアの明るい世界を旅しましょう。\n新しい仲間、”紅(コウ)”と共に。",
+        "ko": "그때는 정말 따스하고 즐거웠던,\n하지만 지금은 기억속에만 남아있는 아름다웠던 세계..\n\n연분홍 빛으로 가득 찬\n안식의 땅이 있던 그곳에서\nArcaea의 눈부셨던 새로운 세계를 보여주기위해\n'Kou'가 당신을 기다리고 있습니다 ",
+        "zh-Hant": "和紅一起探索這個仍舊帶來歡樂、\n讓你倍感熟悉的失落世界。\n\n在全新的原創曲目以及緋紅所渲染的時空裡，\n迎接秘術之地的光明。",
+        "zh-Hans": "和红一起探索这仍旧存在欢乐、\n会让你倍感熟悉的失落世界。\n\n在全新的原创曲目以及绯红所渲染的时空中，\n迎接Arcaea的光明。"
+      }
+    },
+    {
+      "id": "mirai",
+      "plus_character": 4,
+      "name_localized": {
+        "en": "Ambivalent Vision"
+      },
+      "description_localized": {
+        "en": "The past lies foggy and shrouded\nin a world of ambivalent memories...\nJoin Lethe to experience her conflicting\nview of the past and future world.\n\nImprove your Arcaea skills in this pack,\nbalanced for both new and experienced players.",
+        "ja": "過去の世界は、ぼんやりとした\n思い出の霧に覆われている...\nレーテーと共に、過去と未来の世界の\n相反する時の流れを覗きに行こう。\n\n初心者にも経験者にも楽しめるように作られた\n新しいパックで、君のスキルを磨こう！",
+        "ko": "과거의 세계에 대한 기억은\n안개처럼 흐린 기억만 남아 있습니다..\n과거와 미래의 세계가 서로 뒤바뀌는\n혼돈의 틈을 Lethe와 함께 경험해보세요.\n\n초심자부터 숙련자까지 모두가 즐길 수 있는 곡들입니다.\n새로운 뮤직팩에서 실력을 키워보세요!",
+        "zh-Hant": "過去埋藏在充滿矛盾的回憶裡...\n和忘卻一同探尋時間軸的兩極——過去和未來。\n\n無論是新手還是老手，\n都能在秘術之地提升自己的技巧。",
+        "zh-Hans": "过去的世界，埋藏在充满矛盾的回忆之中……\n和忘却一同探寻时间轴的两极——过去与未来。\n\n无论你的水平如何，\n相信你都可以在Arcaea的世界提升自己的技巧。"
+      }
+    },
+    {
+      "id": "nijuusei",
+      "plus_character": 11,
+      "name_localized": {
+        "en": "Binary Enfold"
+      },
+      "description_localized": {
+        "en": "Dive into unexplored, vibrant worlds\nguided by the twins ‘Eto’ and ‘Luna’.\n\nJoin ‘Eto’ in traveling distant memories\nand face ‘Luna’s merciless challenge…",
+        "ja": "不思議な双子「エト」と「ルナ」に連れられて、\n未知で鮮烈な新世界に飛び込みましょう。\n\nエトの遠い記憶を巡る旅と、\nルナの無慈悲な試練に挑むために。",
+        "ko": "쌍둥이 '에토', '루나' 와 함께\n활기찬 미지의 세계로 빠져봅시다\n\n'에토'와 함께 머나먼 추억속으로,\n그리고 '루나'의 무모한 도전...",
+        "zh-Hant": "在雙子“愛托”和“露娜”的領導下\n躍入那些充滿活力的未知世界中。\n\n與愛托一起在悠遠的回憶中旅行，\n并面對露娜無情的挑戰……",
+        "zh-Hans": "在双子“爱托”和“露娜”的带领下\n跃入那些充满活力的未知世界中。\n\n与爱托一起在悠远的回忆中旅行，\n并面对露娜无情的挑战……"
+      }
+    },
+    {
+      "id": "omatsuri",
+      "plus_character": 30,
+      "name_localized": {
+        "en": "Sunset Radiance"
+      },
+      "description_localized": {
+        "en": "Wishes granted, and dreams fulfilled.\nA festival spans the day and reaches\ninto the night: a celebration of sound...\n\nJoin Kanae as you walk from song to song—\nall five of them winners of Arcaea Song Contest 2019!",
+        "ja": "願いは聞き入れられ、そして夢々は叶えられた。\n祭りは一日行われ、音の祭典を連れて\n夜へと続く勢いだ。\n\n叶永(かなえ)を連れて曲から曲へ。\nArcaea楽曲コンテスト2019の勝者がここに5つ！",
+        "ko": "인정받은 소원, 이루어진 꿈.\n축복하는 환호 속에서,\n축제는 하루종일 계속 되고..\n\n카나에와 함께 2019 아르케아 곡 콘테스트의\n우승작들을 하나하나씩 확인해 봅시다.",
+        "zh-Hant": "眾喣均求天遂。驀然回首，盡如人意。\n綺懷縈繞蒼穹。燈火輝煌，晝夜不息。\n這場喧鬧的慶典，將於此刻拉開帷幕。\n\n在群願的陪伴下，漫步於韻律與樂章的繁華街市——\n沉醉於五首《韻律源點2019年歌曲競賽》的優勝作品。",
+        "zh-Hans": "众喣均求天遂。蓦然回首，尽如人意。\n绮怀萦绕苍穹。灯火辉煌，昼夜不息。\n这场喧闹的庆典，将于此刻拉开帷幕。\n\n在群愿的陪伴下，漫步于韵律与乐章的繁华街市——\n沉醉于五首《韵律源点2019年歌曲竞赛》的优胜作品。"
+      }
+    },    
+    {
+      "id": "zettai",
+      "plus_character": 23,
+      "name_localized": {
+        "en": "Absolute Reason"
+      },
+      "description_localized": {
+        "en": "Memories are windows into realities,\nmysteries waiting to be unraveled...\n\nTake a journey in ruthless search of\nthe ultimate truth with an enigmatic girl\nduring five all-new, hardcore songs!",
+        "ja": "想い出は現実への窓。\n解明を待つ謎が君を呼ぶ…。\n\n究極の真実を求め、\n謎めいた少女と慈悲なき旅路を往こう。\n新しい5つのハードな曲を超えて。",
+        "ko": "추억은 현실을 바라보는 창문같은 것,\n미스터리가 풀리기를 기다리는..\n\n완전히 새로워진 5곡의 하드코어 곡으로\n수수께끼 같은 소녀와 함께 근본적인 진실을\n찾아 떠나는 무자비한 여행을 떠나봅시다!",
+        "zh-Hant": "記憶，是通往尚未被揭曉之 \n真實與奧秘的窗戶…… \n\n與一名神秘少女一起， \n在一次探索究極真實的無情旅途中 \n邂逅五首全新的硬核樂曲！ ",
+        "zh-Hans": "记忆，是通往尚未被揭晓之\n真实与奥秘的窗户……\n\n与一名神秘少女一起，\n在一次探索究极真实的无情旅途中\n邂逅五首全新的硬核曲目！"
+      }
+    }
+  ]
+}

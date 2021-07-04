@@ -1,0 +1,82 @@
+show "meeting/bg.jpg" 0.5:0.5 0.5:0.5 1.05:1.05 fade(4,linear) normal
+move "meeting/bg.jpg" 0:40 0 linear
+move "meeting/bg.jpg" 0:-40 4 cubicout
+
+play "wind.ogg" 1.0 loop
+
+say "폐허는 다른 광경처럼 매우 흔하게 보였지만, 빛의 소녀는
+발걸음을 옮기며 주의를 기울였다."
+
+play "steps.ogg" 0.7
+
+say "그녀는 무엇이 파괴되었으며 왜 그곳에 있는지,
+지금 그녀가 헤매고 있는 세상이 과거를 가지고 있는지,
+또는 처참한 광경들은 단순한 우연일 뿐인지 궁금해했다."
+
+say "그녀는 알지 못하는 행복감에 굴복하지 않고 이 의문에 대해 생각해야만 한다고 느꼈다.
+만약 그녀가 이유를 원한다면, 그마저도 이 세상을 알아가는 것에 도움이 될 것이다.
+이건 또 다른 세상인 걸까?"
+
+say "그녀는 아르케아를 통해 보이는 것들을 그렇게 생각했고,
+탑과 건물들이 부서지지 않은 상태의 이 세상은 어떨까라는 궁금증을 자아냈다.
+그런 세상을 볼 기회가 생긴다면..."
+
+say "파괴된 흔적을 보아 강력하고 거대한 힘이었음을 짐작할 수 있다.
+그녀는 파괴되기 전의 이곳은 분명히 많은 사람들이 찾아오는 아름다운 장소였을 거라고 생각했다.
+그리고 그런 과거가 있다면, 이는 유감스러운 일일 것이다."
+
+say "그곳에는 오직 그녀뿐이었고, 그녀는 의자와 부서진 양초 사이로 걸어갔다."
+
+say "그러다 그녀는 갑자기 느껴진 인기척 때문에 깜짝 놀라고 말았다."
+
+play "thump.ogg" 0.7
+
+show "meeting/tairitsu.png" 1:0 1.05:0 1:1 fade(0.9,sineout) normal
+move "meeting/tairitsu.png" 60:0 0 linear
+move "meeting/tairitsu.png" -60:0 2.5 cubicout
+
+show "meeting/hikari.png" 0:0 0:0 1:1 fade(0.9,sineout) normal
+move "meeting/hikari.png" -100:0 0 linear
+move "meeting/hikari.png" 100:0 2 cubicout
+
+show "meeting/bars.png" 1:0 1:0 1:1 fade(0.9,sineout) normal
+move "meeting/bars.png" 100:0 0 linear
+move "meeting/bars.png" -100:0 2.0 cubicout
+
+show "meeting/fx-l.png" 0:0 0:0 1:1 fade(0.9,sineout) normal
+move "meeting/fx-l.png" -170:0 0 linear
+move "meeting/fx-l.png" 170:0 3.5 cubicout
+
+show "meeting/fx-r.png" 1:0 1:0 1:1 fade(0.9,sineout) normal
+move "meeting/fx-r.png" 120:0 0 linear
+move "meeting/fx-r.png" -120:0 3.5 cubicout
+
+say "그녀의 왼편에 있는 부서진 벽 뒤에 누군가 서 있었던 것이다."
+
+say "예전의 그녀라면 순진하게 미소를 지었겠지만, 이번에는 그러지 않았다.
+그림자에 가려진 소녀를 바라보는 그녀는 혼란스러웠다.
+하지만 기쁨을 감출 수는 없었다."
+
+say "기억이 아닌, 여기 이 세상과 그녀의 눈앞에 다른 사람이 있었기 때문이다.
+오랫동안 혼자 걸어온 그녀의 앞에,
+다른 생명체, 숨을 쉬는 사람이 나타난 것이다."
+
+say "하지만 그 소녀는 그녀를 눈치채지 못했다. 소녀는 파라솔 아래에서 잠을 청하고 있었기 때문이다.
+그녀의 어두운 형상은 세상과는 확연히 달랐고, 먼 곳에서도 밝게 빛났으며,
+그래서 그녀는 그 소녀가 아마 꿈 아니면 걸어 다니는 기억이라고 착각을 했다."
+
+say "그녀는 입을 열고 말을 걸어보았다. 그러자 그 소녀도 정신을 차리고 눈을 떴다."
+
+say "슬픔과 악을 잊어버리고 잠이 들었던 그녀가 깨어나,
+그녀 앞에 있는 새하얀 소녀를 바라보았다."
+
+say "그 빛나는 숨결에서 새어 나오는 안도감은 그리 오래가지 않았고,
+어둠의 소녀는 눈이 부신 상태로 질문을 하려는 것처럼 보였다.
+하지만 그녀는 질문 대신 눈썹을 추켜올렸고, 파라솔 손잡이를 더욱 힘껏 잡았다."
+
+say "그녀의 마음으로부터 뒤틀린 기쁨이 흘러나왔고, 멈출 수 없었다.
+기쁨은 그녀의 얼굴을 타고 올라갔으며, 혼돈의 소녀는 빛의 소녀에게 숨길 수 없는 미소를 보였다."
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+say ""

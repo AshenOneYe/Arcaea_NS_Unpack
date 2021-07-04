@@ -1,0 +1,317 @@
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(12,linear) normal
+
+play "thump.ogg" 0.0 loop
+
+volume "thump.ogg" 1.0 3.0
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 1.0 3.0
+
+say "그리고 지금, 오래되고 잊혀진 생각에 의해 본능이 요동치기 시작했다."
+
+say "하지만 잊혀졌지만 실제와도 같은 감정들을 아직 크게 요동치지 않았다. 그저 흔들릴 뿐이었다.
+그녀는 여전히 두려워했다.
+그녀는 작은 손가락으로 희망을 놓지 않았다."
+
+show "2white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.5,linear) normal
+
+say ""
+
+show "vs/bg.jpg" 0.5:0.35 0.5:0.35 1.5:1.5 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+scale "vs/bg.jpg" 1.7:1.7 9 sineout
+
+hide "white.png" fade(9,sineout)
+
+play "glassRain.ogg" 0.0 loop
+
+volume "glassRain.ogg" 1.0 3.0
+
+stop "thump.ogg" 0.5
+
+stop "memory1.ogg" 2
+
+say "그녀는 자신을 구하기 위해 어떻게든 10가지 정도의 추억들을 긁어모았고
+하늘에서 그녀를 지키고 있던 바늘과 같은 유리 조각에 주먹을 휘둘렸다."
+
+play "collapse.ogg" 1.0
+
+move "vs/bg.jpg" 0:50 0.26 sineout
+
+hide "white70.png" fade(0,linear)
+
+say "그녀는 곧 기형의 지면으로 추락했고
+그녀가 선택한 조각들은 그 후 그녀의 아픈 몸을 맴돌았다.
+이상하게도, 그녀 역시 지금 웃고 있는 자신을 발견했다."
+
+hide "2white.png" fade(0,linear)
+
+say "그녀는 왼손으로 자신의 몸을 일으켰다. 타이리츠의 대상이 된 적에게,
+그녀는 상대에게 치명타를 가하는 것보다
+적의 몸을 고문하는 것에 재미를 느꼈다."
+
+say "심지어 지금 히카리의 가슴에 있는 조각 조차도
+그녀의 심장에 가까워지며 격렬한 불꽃과 함께 불탔지만,
+마무리는 하지 않았다."
+
+say "의도하지 않았던 걸 수도 있다.
+어쨌든 히카리는 아직 살아 있었다."
+
+hide "vs/bg.jpg" fade(0,linear)
+
+show "vs/wglass.jpg" 0.6:0.94 0.6:0.94 1.35:1.35 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(3,sineout)
+
+move "vs/wglass.jpg" 600:0 2.5 sineout
+
+play "feeble.ogg" 1.0
+
+say "소녀는 힘 없이 공격을 지시했고, 그 공격은 그녀 위를 날며 빠르게 공격했다.
+그 소녀는 이제 히카리가 예전 기억의 이야기 속에서 들었던 악마보다 더욱 사악해 보였다."
+
+move "vs/wglass.jpg" -900:0 20 sineinout
+
+say "하루의 세계에서 밤을 지배하는 진정한 어둠의 여왕.
+황홀하면서도 분명한 텅 빈 미소..."
+
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(17,sinein) normal
+
+say "이를 본 히카리는 자신의 감정이 사라지는 것을 느낄 수 있었다."
+
+say "냉혹한 현실은 그녀의 단지 몇 분, 몇 초 전의 두려움보다
+더욱 그녀를 냉정하게 하였다.
+그녀는 이 상황에 각 사실을 대입하기 시작했다."
+
+say "천천히, 타이리츠가 허락하는 한 천천히. 그녀의 공격은 끝이 없었다."
+
+play "woosh.ogg" 1.0
+
+say "그녀의 몸은 좌우로 움직이며 기억이 얼마 남지 않는 가장 약한 부분을 지켰고,
+히카리는 그들의 전장을 살폈다."
+
+show "vs/arcahv1.jpg" 0.6:1 0.6:1 0.8:0.8 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(4,sineout)
+
+move "vs/arcahv1.jpg" 0:110 6 sineinout
+
+play "wind.ogg" 0.0 loop
+
+volume "wind.ogg" 1.0 3.0
+
+say "전장은 산산이 조각났으며, 이제는 그 어느 때보다 황무지처럼 보였다.
+군사 폭격이 지나간 마을처럼 모든 것이 파괴되었다.
+그들 주위의 유리는 셀 수 없었다. 타이리츠의 힘도 헤아릴 수 없었다."
+
+hide "vs/wglass.jpg" fade(0,linear)
+
+hide "white70.png" fade(0,linear)
+
+say "히카리 자신도 매우 약해져 있었다.
+이상한 능력과 유리 조각에 대한 통제뿐만 아니라 그녀의 몸도 녹초가 되어 있었다.
+그녀는 피로함으로 혼자가 되어 떨어지기까지 얼마 남지 않았다."
+
+say "그녀는 아마 이상함을 느꼈을 테지만, 할 수 없다고 할 것이다.
+그렇다면 그다음은?
+그녀는 아무것도 할 수 없기 때문에 ‘그다음’은 ‘지금’이 되었다."
+
+say "그래서?
+길이 완전히 막히게 되면 어떻게 해야 할까?
+계속... 가야만 할까?"
+
+hide "vs/arcahv1.jpg" fade(0,linear)
+
+play "stab.ogg" 1.0
+
+stop "glassRain.ogg" 0.2
+
+stop "wind.ogg" 0.2
+
+say "유리 조각이 빛나며 그녀의 어깨를 스친다.
+히카리는 반사된 빛을 바라보았다.
+다른 소녀는 이제 빛도 통제할 수 있다. 음..."
+
+show "vs/arcahvcut.jpg" 0:1 0:1 1:1 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(3,sineout)
+
+move "vs/arcahvcut.jpg" -400:0 37 sineout
+
+say "그녀는 자신이 관찰한 내용을 다시 한번 생각해보기로 했다.
+자신이 여기서 살아남을지 죽을지...
+확률은 반반이었고, 그녀는 이 사실을 받아들였다."
+
+hide "vs/arcahvcut.jpg" fade(10,linear)
+
+say "이게 마지막이 될 수도 있다."
+
+say "순간에 모든 것이 끝날 수도 있다.
+그리고 그러지 않는 한, 도울 수 없었지만 생각이 계속 울리고 있었다.
+“그래, 해보자.”"
+
+say "‘생각’, ‘희망’, ‘느낌’ 이후...
+‘결심’이 마지막으로 그녀에게서 사라졌다."
+
+say ""
+
+wait 2
+
+say "이것."
+
+say "이것이..."
+
+say "이건... 항복하는 것이 아니다.
+결코..."
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(3,linear) overlayplus
+
+play "glassRain.ogg" 0.0 loop
+
+volume "glassRain.ogg" 0.5 3.0
+
+play "memory1.ogg" 0.0 loop
+
+volume "memory1.ogg" 0.6 3.0
+
+say "그녀는 손에 있는 조각을 잡았고
+그러자 하얀 불꽃과 함께 그녀의 눈이 잠시 빛나며 상처 가까이까지 타기 시작했다.
+그녀는 그것을 목까지 누르지 않았다."
+
+say "그녀는 확실히 살고 싶었지만... 신경 쓰지 않았다.
+그녀는 불가능한 확률도 신경 쓰지 않았다."
+
+hide "white.png" fade(4,sineout)
+
+say "히카리는 간신히 자신의 조각 앞에 설 수 있었다.
+그녀는 더 이상 타이리츠의 얼굴을 식별할 수 없었다.
+그녀의 영역에는 대혼란이 발생했으며, 그것을 통해 보는 것은 너무 어려웠다."
+
+show "vs/low.jpg" 0.5:0.63 0.5:0.63 1:1 fade(5,sineout) normal
+
+move "vs/low.jpg" 0:370 18 sineout
+
+say "결국 유리 조각을 뚫고 가는 동안 히카리는 회오리의 일부분이 역방향으로 돌기 시작했다는 것을 깨달았다.
+기괴한 움직임이 너무나 부자연스러웠기 때문에 그녀는 자신 위에 있는 소녀가 의도적으로 움직이고
+있는 건지 진심으로 궁금했다."
+
+play "slip.ogg" 1.0
+
+wait 0.1
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) overlayplus
+
+hide "white.png" fade(0.4,sineout)
+
+say "그녀는 건너뛰는 영상을 연상시킨다고 생각했다.
+그녀가 지금까지 직면했던 총알 세례보다 낫거나 나쁘지는 않았지만, 꽤 이상했다."
+
+play "fading.ogg" 0.4 loop
+
+say "지진이었다."
+
+say "“뭐지...?” 그녀가 말했다.
+지, 지진?
+여기에?"
+
+show "vs/arcahv1.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(1,sineout)
+
+hide "vs/low.jpg" fade(0,linear)
+
+say "지면이 다시 부서질 수도 있었다.
+그런 생각을 하며 히카리는 팔로 얼굴과 가슴을 보호했다.
+아무 일도 일어나지 않는다면 그녀는 이 현상에 대해 여전히 궁금해할 것이다."
+
+say "그리고 타이리츠는 지금 날고 있기 때문에 그녀가 아니었다면 알아차리지 못했을 것이다."
+
+say "이제 검날폭풍은 더욱 매섭게 변화하여 거세게 움직이고 있었다.
+그녀는 다른 소녀에게 다시 유리 조각들을 던지기로 결심했다.
+그 조각들은 다시 쉽게 폭풍을 통과했지만 갑자기 빛나며 부서졌다."
+
+show "vs/arcahv2.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(7,linear) normal
+
+say "조각들은 스스로 부서지지 못하는데... 그것들이 사라진 후 마치 금이 간 공간 같은 것이 보였다.
+일단 그녀가 이것을 보고 인식하면 주변의 모든 것이 멈췄다."
+
+hide "vs/arcahv2.jpg" fade(0.2,linear)
+
+play "ring.ogg" 0.5
+
+play "shine.ogg" 0.3
+
+stop "fading.ogg" 0.2
+
+say "그리고 그 순간 그녀의 주변을 날고 있던 흑요석 조각들이 현실 속에 빠르게 갇혔다.
+그녀에게 이 광경은 절대적으로 아름다웠다."
+
+show "vs/arcahv2.jpg" 0.5:0.5 0.5:0.5 0.85:0.85 fade(3,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(1,sineout)
+
+say "그녀가 원치 않아도 입가에는 미소가 지어졌다. “아름다워.” 그녀는 자신에게 속삭였다.
+여기는 그녀가 곧 무덤을 찾을 수 있는 아름다운 곳이 있었다.
+하지만 너무 특이해서... 웃음마저 나왔다. 그래서 웃어버렸다. 그녀는 진지하면서도 슬프고 건조한 웃음을 지었다."
+
+stop "memory1.ogg" 2
+
+say "그러나 움직임이 점차 그녀 주변의 물체로 돌아갔고, 그리고 위에 있는...
+위에...
+하늘...?"
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+play "quake.ogg" 0.15
+
+play "arcahvmini.ogg" 0.15
+
+auto 2.6
+
+say "하늘을 가로질러 균열이 일어났다.
+그 균열은 마치 천국을 그리며 넓게 퍼졌고, 마침내 거대한 부분이 곤두박질치기 시작했다.
+이후 더욱 기괴하게 수많은 이미지가 그곳을 가로질러 빛났고, 하나하나 빠르게 깜빡였다."
+
+say "세상은 이상한 파멸에 빠지기 시작했다.
+그리고 이 광경을 지켜볼수록 히카리는 더 만족하는 미소를 지었다.
+폭풍은 여전히 느렸고, 이미지는 너무 환상적이었다."
+
+show "vs/bg.jpg" 0.5:0.56 0.5:0.56 1.5:1.5 fade(0,linear) normal
+
+show "white.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+
+hide "white.png" fade(5,linear)
+
+move "vs/bg.jpg" 0:-970 30 sineinout
+
+say "하늘, 인공이 아닌 진짜 하늘이 무너졌다. 잠시 멈추듯 잠잠해졌지만 다시 무너지기 시작했다.
+천상의 퍼즐 조각이 움직이는 것처럼, 엉뚱한 신이 장난을 치는 것처럼."
+
+say "그리고...
+바라보고 있었다.
+그녀의 미소는 점차 사라지기 시작했다."
+
+say "눈이 차가워지고 숨이 느려지기 시작했다.
+그리고 이 대격변에 의해 일어난 흥분에 대한 희미한 빛이 사라지자
+객관성으로 대체되었다. 모든 것을 파괴하는 재난에 대한 그녀의 의견은 단 한마디로 전해졌다."
+
+say "약간의 감사함과 함께 그녀는 나지막한 목소리로 말했다.
+“기뻐.”
+마치 그 말에 의미가 있는 것처럼. 파멸에 의미가 있는 것처럼."
+
+say "세상에 의미가 있는 것처럼."

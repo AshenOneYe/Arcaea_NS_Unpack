@@ -1,0 +1,52 @@
+{
+	"entries": [{
+			"minor": 1,
+			"requiredPack": "zettai",
+			"storyType": "nvl",
+			"clearSongId": "antithese",
+			"clearCharaId": -1
+		},
+		{
+			"minor": 2,
+			"requiredPack": "zettai",
+			"requiredMinor": 1,
+			"storyType": "nvl",
+			"clearSongId": "corruption",
+			"clearCharaId": -1
+		},
+		{
+			"minor": 3,
+			"requiredPack": "zettai",
+			"requiredMinor": 2,
+			"storyType": "vn",
+			"storyData": "zettai",
+			"clearSongId": "blackterritory",
+			"clearCharaId": 23
+		},
+		{
+			"minor": 4,
+			"requiredPack": "zettai",
+			"requiredMinor": 3,
+			"storyType": "nvl",
+			"clearSongId": "cyaegha",
+			"clearCharaId": 23
+		},
+		{
+			"minor": 5,
+			"requiredPack": "zettai",
+			"requiredMinor": 4,
+			"storyType": "nvl",
+			"clearSongId": "antithese",
+			"alternateSuffix": "0",
+			"clearCharaId": 23
+		},
+		{
+			"minor": 6,
+			"requiredPack": "zettai",
+			"requiredMinor": 5,
+			"storyType": "nvl",
+			"clearSongId": "viciousheroism",
+			"alternateSuffix": "5",
+			"clearCharaId": 23
+		}]
+}

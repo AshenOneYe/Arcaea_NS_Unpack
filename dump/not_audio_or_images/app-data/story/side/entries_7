@@ -1,0 +1,25 @@
+{
+	"entries": [{
+		"requiredPack": "",
+		"minor": 1,
+		"storyType": "nvl",
+		"clearSongId": "astraltale",
+		"clearCharaId": 13
+	},
+	{
+		"requiredPack": "",
+		"minor": 2,
+		"requiredMinor": 1,
+		"storyType": "nvl",
+		"clearSongId": "carminescythe",
+		"clearCharaId": 13
+	},
+	{
+		"requiredPack": "",
+		"minor": 3,
+		"requiredMinor": 2,
+		"storyType": "nvl",
+		"clearSongId": "scarletcage",
+		"clearCharaId": 13
+	}]
+}

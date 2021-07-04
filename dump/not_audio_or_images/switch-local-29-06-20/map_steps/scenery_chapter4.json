@@ -1,0 +1,230 @@
+[
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "zettai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "zettai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "zettai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "zettai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "amygdata",
+      "altale",
+      "fallensquare",
+      "dropdead",
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "amygdata",
+      "altale",
+      "fallensquare",
+      "dropdead",
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "amygdata",
+      "altale",
+      "fallensquare",
+      "dropdead",
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "amygdata",
+      "altale",
+      "fallensquare",
+      "dropdead",
+      "metallicpunisher",
+      "maliciousmischance"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "nirvluce",
+      "gloryroad",
+      "lethaeus",
+      "corpssansorganes",
+      "memoryforest",
+      "singularity",
+      "viciousheroism",
+      "cyaegha",
+      "melodyoflove",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "nirvluce",
+      "gloryroad",
+      "lethaeus",
+      "corpssansorganes",
+      "memoryforest",
+      "singularity",
+      "viciousheroism",
+      "cyaegha",
+      "melodyoflove",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "nirvluce",
+      "gloryroad",
+      "lethaeus",
+      "corpssansorganes",
+      "memoryforest",
+      "singularity",
+      "viciousheroism",
+      "cyaegha",
+      "melodyoflove",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 24,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "nirvluce",
+      "gloryroad",
+      "lethaeus",
+      "corpssansorganes",
+      "memoryforest",
+      "singularity",
+      "viciousheroism",
+      "cyaegha",
+      "melodyoflove",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "world_unlock_scenery_chap4",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

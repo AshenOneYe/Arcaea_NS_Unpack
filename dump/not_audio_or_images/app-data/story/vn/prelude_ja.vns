@@ -1,0 +1,215 @@
+say "終焉だ。"
+
+play "blowing1.ogg" 1.0 loop
+
+show "prelude/bg.jpg" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/bg.jpg" -40:0 0 linear
+move "prelude/bg.jpg" 40:0 4 cubicout
+
+show "prelude/t.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(0,linear) normal scale
+move "prelude/t.png" -90:0 0 linear
+move "prelude/t.png" 90:0 4 cubicout
+
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" -120:0 0 linear
+move "prelude/glass.png" 120:0 4 cubicout
+
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/over.png" -120:0 0 linear
+move "prelude/over.png" 120:0 4 cubicout
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "black.png" fade(1,linear)
+
+say "影に飾られた少女がその壊れた窓の先、別の時間をじっと見る。
+すると、笑顔が戻ってきた。"
+
+say "彼女はなんと愚かだったのか。
+白い少女ではない、違う。
+彼女だ。"
+
+say "硝片の映す視界は記憶などではない。"
+
+say "当たり前だ、違うに決まっている。
+彼女が見ていたのは一つの未来、来ると予測していた通りの未来。
+愚かで、蒙昧な空想家の成れの果てだ。"
+
+show "white40.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "硝片が見せたのは紛う事なく自身の姿で、硝片で形作られた刺々しい柱で貫かれている。
+その傷は彼女の衣服をも焦がし、体は灼け付くような白い炎に呑まれつつあった。"
+
+stop "blowing1.ogg" 3.0
+play "memory1.ogg" 1.0 loop
+
+hide "white40.png" fade(1.2,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(1.5,linear) normal
+
+say "貫かれた黒の彼女の背後には、伸びるように広がる貧弱かつ不毛なアーケアの土壌。
+その眼前には、肩の辺りで眩むほどの灼熱が輝く、白くその身を装ったひどく見慣れた少女が、
+掲げるようにその手で柱を扱っていた。しかしその表情はといえば、死角になって窺うことができない。"
+
+say "それは今、眼前に立つ少女。
+遭ったばかりのその彼女。
+これは記憶などではなく、来るべき未来の視界。"
+
+stop "memory1.ogg" 0.5
+
+show "prelude/3.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+hide "white70.png" fade(0,linear)
+show "white70.png" 0.5:0.5 0.5:0.5 2000:960 fade(0,linear) normal
+hide "white70.png" fade(1.5,linear)
+
+say "対立はこれを見て、その心中へと引き返すと、
+無視すると決意したばかりの、唯一の真実へと対峙する。"
+
+play "fading.ogg" 1.0 loop
+
+say "決意に意味などなかった。
+この世界で、自身にとって善きことを見出すことなどありえない。"
+
+say "最後の希望は黒に染まり、絶望に呑まれ、忘却へと棄てられた。"
+
+say "他に何が起きるというのか？
+何を望んでいたというのか？
+愚かだ。途方もなく愚かだった。"
+
+say "愚かしい努力。
+愚かしい記憶。
+愚かしい存在。"
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) overlay scale
+
+say "愚かで、惨めで、反吐が出る。
+こんなことには虫唾が走る、こんな自分には怖気が立つ、
+何よりもこんな果てしなく馬鹿げたオママゴトにはうんざりだ。"
+
+hide "prelude/3.png" fade(0,linear)
+
+say "奇跡？ そんなものはないわ……"
+
+say "自身にそう言い聞かせてきたはずだろう。この世は地獄だと。
+そしてこの破綻して死に往く世界を知れば、ある日天使でさえも堕落して、
+悪魔として覚醒するだろう。"
+
+say "あの白の少女だってそうなのだ。
+この最後の致命的な局面で、ただの胸中の窪みだったものが、穿たれて広げられたのだ。
+それは冷徹で底なしの裂け目となり、一瞬で潰れ完全に腐食してしまった。"
+
+say "内なる闇が湧き出で彼女の内から染めていき、思考を絞めつけていく最中、
+その姿がはっきりと見えた。"
+
+say "硝片を射抜くように見つめるその視線からは、明らかな恐慌が見て取れた。"
+
+say "あの娘は知っている。
+だから今彼女は向こう側に目を向けることもできず、
+はっきり見えているのにもかかわらず言葉を発さないのだ。"
+
+say "感じているのは狼狽？ それとも動揺？ それを臆面もなく？
+許せない、許せないわ。"
+
+say "激情は憎悪へと捩れ、嫌悪を撒き散らしながらその双眸へと伝わっていく。"
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(1,linear) normal
+
+stop "fading.ogg" 2.0
+
+say "卑劣な裏切り者。悪辣で、不快な場所。
+日傘の柄の握りをぎりぎりと強めると、
+硝片を通して、直立したままの光を見つめた。"
+
+say "縫い付けられたようにその場に立っている、当然だ、隠していた自身の悪意が露見したのだ。
+その無様は嘲笑に値するだろう。"
+
+move "prelude/glass.png" 0:30 0 linear
+hide "black.png" fade(2,linear)
+
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+move "2black.png" 0:-140 0 linear
+move "2black.png" 0:140 3.0 cubicout
+
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+move "3black.png" 0:140 0 linear
+move "3black.png" 0:-140 3.0 cubicout
+
+move "prelude/bg.jpg" 0:-60 3.5 cubicout
+move "prelude/t.png" 0:-90 3.5 cubicout
+move "prelude/4.png" 0:-90 3.5 cubicout
+move "prelude/glass.png" 0:-120 3.5 cubicout
+
+say "対立のその双眸は細く絞られ、自身の内で芽吹いていた感情を切除した。
+あの少女が彼女の内で育てようとした、それを。"
+
+say "かくして永久に、彼女は虚ろになった。
+そうして、為せばならぬことを理解した。"
+
+say "だが鏡はいまだ一方通行で、また自身のその怒りもまた然り。
+光は未だこの奇妙な硝片の中を見通せずにいた。"
+
+hide "prelude/4.png" fade(1,linear)
+
+say "困惑の中、白の少女は見つめることしかできない。
+対立の表情から色という色が増々失われていくことにも気づけぬまま。"
+
+play "tension.ogg" 1.0 loop
+
+say "なぜかわからぬままに、危機感が募っていく感覚だけが確かにそこにあった。
+現に、辺りには影が伸びつつあるようで、光は間もなくそれにより果てつつあった。"
+
+say "暗闇が近くなるにつれ、彼女の息は短く詰められていく。思わず後ずさる。
+ほぼ信じられず、また明らかに信じたくもないようだ。"
+
+say "光の天蓋という耐え難い苦難を乗り越えたとしても、
+またしても彼女は、理不尽にもなんらかの災禍に晒されようとしている。"
+
+say "だがそれでも、生き残ってきたのだ。
+そして、生存のため、妥協を赦さぬ状況であることだけは、確信できた。"
+
+say "心中にてそのような思考を巡らせたことで、光は致命的な過ちを犯してしまう。"
+
+stop "tension.ogg" 1.0
+play "ring.ogg" 1.0
+
+show "prelude/4.png" 0.5:0.5 0.5:0.5 0.9:0.9 fade(1,linear) normal scale
+move "prelude/4.png" 0:-90 0 linear
+
+hide "prelude/glass.png" fade(0,linear)
+show "prelude/glass.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+move "prelude/glass.png" 0:-90 0 linear
+
+hide "prelude/over.png" fade(0,linear)
+show "prelude/over.png" 0.5:0.5 0.5:0.5 1:1 fade(0,linear) normal scale
+
+hide "2black.png" fade(0,linear)
+show "2black.png" 0:0 0:0 2000:170 fade(0,linear) normal
+hide "3black.png" fade(0,linear)
+show "3black.png" 0:1 0:1 2000:170 fade(0,linear) normal
+
+say "かつて低迷の中で、
+安らぎと道標を与えてくれた硝片の一つに手を伸ばす。"
+
+say "おもむろにそれを胸元へと引き寄せたとき、
+対立の項近くの毛髪が逆立つ。"
+
+say "もう悲劇には遭うまいという決意と共に、自身の内で怖気が走る。
+その時、一度で彼女の生命を全て捉えようと、
+警告もないままに対立は、光との距離を一瞬でゼロにした。"
+
+say ""
+
+play "lastBreak.ogg" 4.0
+
+show "black.png" 0.5:0.5 0.5:0.5 2000:960 fade(0.2,linear) normal
+
+wait 10
+
+stop "lastBreak.ogg" 0.9

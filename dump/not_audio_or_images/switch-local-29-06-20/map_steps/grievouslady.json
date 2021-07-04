@@ -1,0 +1,98 @@
+[
+  {
+    "capture": 20,
+    "reward_bundle": "",
+    "restrict_id": "axiumcrisis",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 18,
+    "reward_bundle": "",
+    "restrict_id": "conflict",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 16,
+    "reward_bundle": "",
+    "restrict_id": "iconoclast",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 14,
+    "reward_bundle": "",
+    "restrict_id": "trappola",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 12,
+    "reward_bundle": "",
+    "restrict_id": "soundwitch",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 10,
+    "reward_bundle": "",
+    "restrict_id": "soundwitch",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 8,
+    "reward_bundle": "",
+    "restrict_id": "trappola",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 6,
+    "reward_bundle": "",
+    "restrict_id": "iconoclast",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 4,
+    "reward_bundle": "",
+    "restrict_id": "conflict",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 2,
+    "reward_bundle": "",
+    "restrict_id": "axiumcrisis",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "grievouslady",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "grievouslady",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "grievouslady",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "grievouslady",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 30,
+    "reward_bundle": "",
+    "restrict_id": "grievouslady",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_tairitsu_grievous_lady",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

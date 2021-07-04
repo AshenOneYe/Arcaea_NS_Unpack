@@ -1,0 +1,4468 @@
+[
+   {
+      "difficulty": 0,
+      "song_id": "aiueoon",
+      "rating": 3.5,
+      "song_hash": "ba4a0000084f590cad4d3145ecdb1d8e",
+      "max_combo": 436
+   },
+   {
+      "difficulty": 1,
+      "song_id": "aiueoon",
+      "rating": 6.5,
+      "song_hash": "6f1096d235bf2cce7f709458daee031f",
+      "max_combo": 623
+   },
+   {
+      "difficulty": 2,
+      "song_id": "aiueoon",
+      "rating": 9.5,
+      "song_hash": "e24bc3da26c19df7fab7fbffcc6080e3",
+      "max_combo": 989
+   },
+   {
+      "difficulty": 0,
+      "song_id": "alexandrite",
+      "rating": 4.5,
+      "song_hash": "1702cca869b993ba4bada5686ffff933",
+      "max_combo": 507
+   },
+   {
+      "difficulty": 1,
+      "song_id": "alexandrite",
+      "rating": 7.0,
+      "song_hash": "3e01f8a1f493ff0be41d173be07b1dab",
+      "max_combo": 699
+   },
+   {
+      "difficulty": 2,
+      "song_id": "alexandrite",
+      "rating": 10.0,
+      "song_hash": "d8bbf28c18141d842d1c761bf8de8e56",
+      "max_combo": 1040
+   },
+   {
+      "difficulty": 0,
+      "song_id": "alicealamode",
+      "rating": 2.5,
+      "song_hash": "f769b433d0eb08fd7bcc80f0a2879f86",
+      "max_combo": 436
+   },
+   {
+      "difficulty": 1,
+      "song_id": "alicealamode",
+      "rating": 6.5,
+      "song_hash": "1bf69ff340f7160bd8746dbbdf9eb7a9",
+      "max_combo": 618
+   },
+   {
+      "difficulty": 2,
+      "song_id": "alicealamode",
+      "rating": 9.2,
+      "song_hash": "cd9490ecf41ca6738155132a9076c708",
+      "max_combo": 872
+   },
+   {
+      "difficulty": 0,
+      "song_id": "alicessuitcase",
+      "rating": 3.5,
+      "song_hash": "a515cebe1799fa1b4033810a1c41670d",
+      "max_combo": 644
+   },
+   {
+      "difficulty": 1,
+      "song_id": "alicessuitcase",
+      "rating": 6.0,
+      "song_hash": "fc6618ddd6690739a25a7b63366349d8",
+      "max_combo": 660
+   },
+   {
+      "difficulty": 2,
+      "song_id": "alicessuitcase",
+      "rating": 9.1,
+      "song_hash": "e330259d22ace23feadcd05b9ae32516",
+      "max_combo": 999
+   },
+   {
+      "difficulty": 0,
+      "song_id": "altale",
+      "rating": 2.5,
+      "song_hash": "2caea57a26e1a2d2ccf918d2128c1642",
+      "max_combo": 357
+   },
+   {
+      "difficulty": 1,
+      "song_id": "altale",
+      "rating": 5.5,
+      "song_hash": "cab5541852a2f295b99577168186dd32",
+      "max_combo": 424
+   },
+   {
+      "difficulty": 2,
+      "song_id": "altale",
+      "rating": 9.7,
+      "song_hash": "7e9365483177d24fea500d9a1d3add7c",
+      "max_combo": 690
+   },
+   {
+      "difficulty": 0,
+      "song_id": "amazingmightyyyy",
+      "rating": 4.5,
+      "song_hash": "3c7a90e6e15ef03ff4c874e0b6c55641",
+      "max_combo": 624
+   },
+   {
+      "difficulty": 1,
+      "song_id": "amazingmightyyyy",
+      "rating": 7.5,
+      "song_hash": "31a9f4e250e7a836950677b441e037a5",
+      "max_combo": 776
+   },
+   {
+      "difficulty": 2,
+      "song_id": "amazingmightyyyy",
+      "rating": 10.7,
+      "song_hash": "e40765646181f2f85e92d6f9b46f4c1a",
+      "max_combo": 1249
+   },
+   {
+      "difficulty": 0,
+      "song_id": "amygdata",
+      "rating": 4.0,
+      "song_hash": "ade3e37a27eecd9151f79f3d77054985",
+      "max_combo": 504
+   },
+   {
+      "difficulty": 1,
+      "song_id": "amygdata",
+      "rating": 7.5,
+      "song_hash": "565b30bf8d8efd97f55be9a71cf110a5",
+      "max_combo": 711
+   },
+   {
+      "difficulty": 2,
+      "song_id": "amygdata",
+      "rating": 9.6,
+      "song_hash": "1976c727490b5cf907972fbfc98efcfb",
+      "max_combo": 1199
+   },
+   {
+      "difficulty": 0,
+      "song_id": "anokumene",
+      "rating": 2.5,
+      "song_hash": "27210a07fb818df7b0f94c05ddf6503d",
+      "max_combo": 412
+   },
+   {
+      "difficulty": 1,
+      "song_id": "anokumene",
+      "rating": 6.5,
+      "song_hash": "f72d1f8d19021e1bf092c1775a364b4b",
+      "max_combo": 588
+   },
+   {
+      "difficulty": 2,
+      "song_id": "anokumene",
+      "rating": 9.2,
+      "song_hash": "cf32868ff90e5c0b00af308b0cb42e15",
+      "max_combo": 851
+   },
+   {
+      "difficulty": 0,
+      "song_id": "antagonism",
+      "rating": 4.5,
+      "song_hash": "160ae65e33238946bbb7d6a88790ee73",
+      "max_combo": 431
+   },
+   {
+      "difficulty": 1,
+      "song_id": "antagonism",
+      "rating": 7.5,
+      "song_hash": "7f06577df84a68003bd9c5803bb73b8c",
+      "max_combo": 738
+   },
+   {
+      "difficulty": 2,
+      "song_id": "antagonism",
+      "rating": 9.9,
+      "song_hash": "fac0e28ff958be2cbd163e7bd8a7f1fe",
+      "max_combo": 1142
+   },
+   {
+      "difficulty": 0,
+      "song_id": "antithese",
+      "rating": 2.0,
+      "song_hash": "7aa662bddba1a58c9393c45df5074cc8",
+      "max_combo": 845
+   },
+   {
+      "difficulty": 1,
+      "song_id": "antithese",
+      "rating": 5.0,
+      "song_hash": "6a382b2c81e78713ce95883ba80a90d4",
+      "max_combo": 826
+   },
+   {
+      "difficulty": 2,
+      "song_id": "antithese",
+      "rating": 8.8,
+      "song_hash": "00f68013fc2a69036a99267067b6257c",
+      "max_combo": 877
+   },
+   {
+      "difficulty": 0,
+      "song_id": "aprilshowers",
+      "rating": 2.0,
+      "song_hash": "fc994f5a065c66484d615f8458e85ade",
+      "max_combo": 363
+   },
+   {
+      "difficulty": 1,
+      "song_id": "aprilshowers",
+      "rating": 5.5,
+      "song_hash": "791e7a52d60681003ea31dac91bbe582",
+      "max_combo": 544
+   },
+   {
+      "difficulty": 2,
+      "song_id": "aprilshowers",
+      "rating": 8.3,
+      "song_hash": "f4b326f9f4118616e2ce8ccd2c28b350",
+      "max_combo": 697
+   },
+   {
+      "difficulty": 0,
+      "song_id": "arcahv",
+      "rating": 4.5,
+      "song_hash": "fbd66aee7dad3ed0afee5818d982ca67",
+      "max_combo": 818
+   },
+   {
+      "difficulty": 1,
+      "song_id": "arcahv",
+      "rating": 7.5,
+      "song_hash": "1d7c78257902178c6248871d4fabfa92",
+      "max_combo": 884
+   },
+   {
+      "difficulty": 2,
+      "song_id": "arcahv",
+      "rating": 9.9,
+      "song_hash": "b6718426b22bff982a3d0225bfa4022b",
+      "max_combo": 1065
+   },
+   {
+      "difficulty": 0,
+      "song_id": "astraltale",
+      "rating": 4.5,
+      "song_hash": "7519b5ed15bb94b27526760f3b983dcc",
+      "max_combo": 445
+   },
+   {
+      "difficulty": 1,
+      "song_id": "astraltale",
+      "rating": 7.0,
+      "song_hash": "da95f9a556aae0ba2f5ffd9d1105af2e",
+      "max_combo": 642
+   },
+   {
+      "difficulty": 2,
+      "song_id": "astraltale",
+      "rating": 9.6,
+      "song_hash": "e8f22b0393faf517e3f4956abafaf13f",
+      "max_combo": 884
+   },
+   {
+      "difficulty": 0,
+      "song_id": "aterlbus",
+      "rating": 4.0,
+      "song_hash": "a7ebf288b3d03be3950e919dd30f6c63",
+      "max_combo": 505
+   },
+   {
+      "difficulty": 1,
+      "song_id": "aterlbus",
+      "rating": 7.0,
+      "song_hash": "74078cad6e12cc39940dcfe46686feb1",
+      "max_combo": 668
+   },
+   {
+      "difficulty": 2,
+      "song_id": "aterlbus",
+      "rating": 10.2,
+      "song_hash": "db548051a5bac7ed7a005750bb952d9e",
+      "max_combo": 1030
+   },
+   {
+      "difficulty": 0,
+      "song_id": "attraqtia",
+      "rating": 4.0,
+      "song_hash": "023784f87078ade0f5f41037abf211d0",
+      "max_combo": 732
+   },
+   {
+      "difficulty": 1,
+      "song_id": "attraqtia",
+      "rating": 7.5,
+      "song_hash": "f10f59ab3416e109b7adeae7656df9d5",
+      "max_combo": 1002
+   },
+   {
+      "difficulty": 2,
+      "song_id": "attraqtia",
+      "rating": 10.4,
+      "song_hash": "7c0531ca68c3ba90fc2b2db69fa57de2",
+      "max_combo": 1433
+   },
+   {
+      "difficulty": 0,
+      "song_id": "auxesia",
+      "rating": 3.5,
+      "song_hash": "c6b55aa22a069938ca0d257ff5795e44",
+      "max_combo": 385
+   },
+   {
+      "difficulty": 1,
+      "song_id": "auxesia",
+      "rating": 6.5,
+      "song_hash": "e7b8d4ff3e4e42df63a8dc4f933cb951",
+      "max_combo": 648
+   },
+   {
+      "difficulty": 2,
+      "song_id": "auxesia",
+      "rating": 9.3,
+      "song_hash": "bc35c72d99e3b4ea65f01e81349fab19",
+      "max_combo": 1000
+   },
+   {
+      "difficulty": 0,
+      "song_id": "avantraze",
+      "rating": 3.5,
+      "song_hash": "6c7b913a435b4ea35ed597d6f2120f50",
+      "max_combo": 580
+   },
+   {
+      "difficulty": 1,
+      "song_id": "avantraze",
+      "rating": 6.5,
+      "song_hash": "2c4ce6cec9a0e17402222375def0f6be",
+      "max_combo": 727
+   },
+   {
+      "difficulty": 2,
+      "song_id": "avantraze",
+      "rating": 9.6,
+      "song_hash": "cfdf5d1b189cea14b8745e0459fff48d",
+      "max_combo": 1125
+   },
+   {
+      "difficulty": 0,
+      "song_id": "axiumcrisis",
+      "rating": 5.5,
+      "song_hash": "ff26d7705a80e935a96c4465e518b1e9",
+      "max_combo": 685
+   },
+   {
+      "difficulty": 1,
+      "song_id": "axiumcrisis",
+      "rating": 8.5,
+      "song_hash": "9af46cd7c66b7894029895831dcc84af",
+      "max_combo": 1065
+   },
+   {
+      "difficulty": 2,
+      "song_id": "axiumcrisis",
+      "rating": 10.9,
+      "song_hash": "87e10750745d03257b1ce92ca63cb7c9",
+      "max_combo": 1094
+   },
+   {
+      "difficulty": 0,
+      "song_id": "babaroque",
+      "rating": 3.0,
+      "song_hash": "59fa8350f1cbc386eb40214169d1afba",
+      "max_combo": 402
+   },
+   {
+      "difficulty": 1,
+      "song_id": "babaroque",
+      "rating": 6.5,
+      "song_hash": "02c9d47d738873e7d38db7d9994ff6c3",
+      "max_combo": 645
+   },
+   {
+      "difficulty": 2,
+      "song_id": "babaroque",
+      "rating": 8.5,
+      "song_hash": "89fbfdc47d7d6dc4109035491002500c",
+      "max_combo": 808
+   },
+   {
+      "difficulty": 0,
+      "song_id": "badtek",
+      "rating": 4.0,
+      "song_hash": "538b64a50ef71d648a4edac2655af516",
+      "max_combo": 532
+   },
+   {
+      "difficulty": 1,
+      "song_id": "badtek",
+      "rating": 7.0,
+      "song_hash": "6eaa156ea55950cbf835593cdb5d81ca",
+      "max_combo": 595
+   },
+   {
+      "difficulty": 2,
+      "song_id": "badtek",
+      "rating": 9.7,
+      "song_hash": "494b850292ad3208ca42924b9bedbc54",
+      "max_combo": 916
+   },
+   {
+      "difficulty": 0,
+      "song_id": "battlenoone",
+      "rating": 3.5,
+      "song_hash": "6a9359429646a7d138e4dd7444d40274",
+      "max_combo": 476
+   },
+   {
+      "difficulty": 1,
+      "song_id": "battlenoone",
+      "rating": 6.5,
+      "song_hash": "96c0f334d59a365dbb517ca80a08423f",
+      "max_combo": 677
+   },
+   {
+      "difficulty": 2,
+      "song_id": "battlenoone",
+      "rating": 9.7,
+      "song_hash": "2eba9e710027d2172ae3273d1f80802c",
+      "max_combo": 1042
+   },
+   {
+      "difficulty": 0,
+      "song_id": "besideyou",
+      "rating": 2.5,
+      "song_hash": "5183e05451bfb15320eb5f52c8ec5c11",
+      "max_combo": 526
+   },
+   {
+      "difficulty": 1,
+      "song_id": "besideyou",
+      "rating": 6.0,
+      "song_hash": "9660c930be21b46f0548d001ddc796d9",
+      "max_combo": 634
+   },
+   {
+      "difficulty": 2,
+      "song_id": "besideyou",
+      "rating": 8.7,
+      "song_hash": "a420147829f9425e9afb928e41ee44f8",
+      "max_combo": 703
+   },
+   {
+      "difficulty": 0,
+      "song_id": "bethere",
+      "rating": 4.0,
+      "song_hash": "fd78028ced757a60c912529123623807",
+      "max_combo": 592
+   },
+   {
+      "difficulty": 1,
+      "song_id": "bethere",
+      "rating": 7.5,
+      "song_hash": "6b2c9f6edb54b9715d8991895902d182",
+      "max_combo": 792
+   },
+   {
+      "difficulty": 2,
+      "song_id": "bethere",
+      "rating": 9.4,
+      "song_hash": "6ebf7ffd933cb76529ddd78ae7e5908b",
+      "max_combo": 982
+   },
+   {
+      "difficulty": 0,
+      "song_id": "blacklotus",
+      "rating": 3.0,
+      "song_hash": "f55523732e807d9838c1d887d0e97be6",
+      "max_combo": 653
+   },
+   {
+      "difficulty": 1,
+      "song_id": "blacklotus",
+      "rating": 6.5,
+      "song_hash": "5bf7b313cb118e28c20b7fbccc41bd56",
+      "max_combo": 687
+   },
+   {
+      "difficulty": 2,
+      "song_id": "blacklotus",
+      "rating": 9.7,
+      "song_hash": "49b4a542a28207dc761e2325b0b1dd95",
+      "max_combo": 965
+   },
+   {
+      "difficulty": 0,
+      "song_id": "blackterritory",
+      "rating": 3.0,
+      "song_hash": "41178b67ab15efbfeafa9967cb81e082",
+      "max_combo": 627
+   },
+   {
+      "difficulty": 1,
+      "song_id": "blackterritory",
+      "rating": 7.5,
+      "song_hash": "41648ca4b8ccf6cfcc83d4f40d6a0444",
+      "max_combo": 785
+   },
+   {
+      "difficulty": 2,
+      "song_id": "blackterritory",
+      "rating": 9.7,
+      "song_hash": "1e950959491132353e6d591e5010d93a",
+      "max_combo": 1195
+   },
+   {
+      "difficulty": 0,
+      "song_id": "blaster",
+      "rating": 4.0,
+      "song_hash": "4df06497158067ed86633dde2c14ed1c",
+      "max_combo": 571
+   },
+   {
+      "difficulty": 1,
+      "song_id": "blaster",
+      "rating": 7.0,
+      "song_hash": "032f1661a101ba40785e87037c228c64",
+      "max_combo": 635
+   },
+   {
+      "difficulty": 2,
+      "song_id": "blaster",
+      "rating": 9.3,
+      "song_hash": "955ff6a115f59af066adec19adcf49c8",
+      "max_combo": 1002
+   },
+   {
+      "difficulty": 0,
+      "song_id": "blockedlibrary",
+      "rating": 3.5,
+      "song_hash": "5968680399a5b4cb7f1b7ee1d339abb5",
+      "max_combo": 449
+   },
+   {
+      "difficulty": 1,
+      "song_id": "blockedlibrary",
+      "rating": 6.5,
+      "song_hash": "b670768d58a8cc4ef2408a8c4fd0233f",
+      "max_combo": 622
+   },
+   {
+      "difficulty": 2,
+      "song_id": "blockedlibrary",
+      "rating": 9.3,
+      "song_hash": "df9f79c8aa1f9c7c47d32db35016d3c1",
+      "max_combo": 854
+   },
+   {
+      "difficulty": 0,
+      "song_id": "blossoms",
+      "rating": 1.0,
+      "song_hash": "8e32305a83991a62ce696f97fb44900d",
+      "max_combo": 275
+   },
+   {
+      "difficulty": 1,
+      "song_id": "blossoms",
+      "rating": 4.0,
+      "song_hash": "c8bc1bed33eb7241fb4038fbc70f85fd",
+      "max_combo": 383
+   },
+   {
+      "difficulty": 2,
+      "song_id": "blossoms",
+      "rating": 7.0,
+      "song_hash": "f4c8c1b7e754a8325774940af916e3c6",
+      "max_combo": 655
+   },
+   {
+      "difficulty": 0,
+      "song_id": "blrink",
+      "rating": 3.5,
+      "song_hash": "6cf4d4c3e96a790fdac28f363c5ae9cb",
+      "max_combo": 400
+   },
+   {
+      "difficulty": 1,
+      "song_id": "blrink",
+      "rating": 7.5,
+      "song_hash": "21d737569ed472fb5ef144aee589046e",
+      "max_combo": 683
+   },
+   {
+      "difficulty": 2,
+      "song_id": "blrink",
+      "rating": 9.7,
+      "song_hash": "4779fa3e76b06e4dc46de246bfc44b7e",
+      "max_combo": 1015
+   },
+   {
+      "difficulty": 0,
+      "song_id": "bluerose",
+      "rating": 2.0,
+      "song_hash": "a05c8aafb76662b687f051317d04168a",
+      "max_combo": 595
+   },
+   {
+      "difficulty": 1,
+      "song_id": "bluerose",
+      "rating": 5.5,
+      "song_hash": "889adfaf525c8e8adc482e896defb839",
+      "max_combo": 669
+   },
+   {
+      "difficulty": 2,
+      "song_id": "bluerose",
+      "rating": 9.1,
+      "song_hash": "cbe791ec63c355a755f7b12d11c8f8b6",
+      "max_combo": 955
+   },
+   {
+      "difficulty": 0,
+      "song_id": "bookmaker",
+      "rating": 4.5,
+      "song_hash": "78571b9cf7da9a67c4134a0f5b558fcb",
+      "max_combo": 538
+   },
+   {
+      "difficulty": 1,
+      "song_id": "bookmaker",
+      "rating": 6.5,
+      "song_hash": "4c9dd8a77281283e1ce925de0fc01f59",
+      "max_combo": 728
+   },
+   {
+      "difficulty": 2,
+      "song_id": "bookmaker",
+      "rating": 8.3,
+      "song_hash": "f8cb3f97e4f07c87349e7eb78d320f53",
+      "max_combo": 1124
+   },
+   {
+      "difficulty": 0,
+      "song_id": "brandnewworld",
+      "rating": 2.0,
+      "song_hash": "d4b5a5aa84409e11b7cd15e45a685cc9",
+      "max_combo": 322
+   },
+   {
+      "difficulty": 1,
+      "song_id": "brandnewworld",
+      "rating": 4.0,
+      "song_hash": "01a7a24dbde7d237d67e77809a3f435c",
+      "max_combo": 432
+   },
+   {
+      "difficulty": 2,
+      "song_id": "brandnewworld",
+      "rating": 7.5,
+      "song_hash": "75164237049a467e7bf245ea3e4a82fa",
+      "max_combo": 787
+   },
+   {
+      "difficulty": 0,
+      "song_id": "buchigireberserker",
+      "rating": 5.0,
+      "song_hash": "83d4f2ddfdd00b661b69a92842fe6003",
+      "max_combo": 850
+   },
+   {
+      "difficulty": 1,
+      "song_id": "buchigireberserker",
+      "rating": 8.6,
+      "song_hash": "288ef6f2493851ee5974f28e03fd9b4d",
+      "max_combo": 1046
+   },
+   {
+      "difficulty": 2,
+      "song_id": "buchigireberserker",
+      "rating": 10.9,
+      "song_hash": "1766ecbc044f00f140be0c7e8d7fb5ab",
+      "max_combo": 1412
+   },
+   {
+      "difficulty": 0,
+      "song_id": "callmyname",
+      "rating": 3.5,
+      "song_hash": "2c570ed1c08c1ace79d7c07f221256d4",
+      "max_combo": 591
+   },
+   {
+      "difficulty": 1,
+      "song_id": "callmyname",
+      "rating": 6.0,
+      "song_hash": "16c98fd1393252c2b92c579e1dbf9e6c",
+      "max_combo": 653
+   },
+   {
+      "difficulty": 2,
+      "song_id": "callmyname",
+      "rating": 8.7,
+      "song_hash": "c7f0a095bd3f426e414be7de3aceb224",
+      "max_combo": 921
+   },
+   {
+      "difficulty": 0,
+      "song_id": "carminescythe",
+      "rating": 4.0,
+      "song_hash": "483e1843dde3bf0096e227447796c921",
+      "max_combo": 493
+   },
+   {
+      "difficulty": 1,
+      "song_id": "carminescythe",
+      "rating": 7.5,
+      "song_hash": "244d0a2c6ddba3aadb2d84a35bc40c95",
+      "max_combo": 710
+   },
+   {
+      "difficulty": 2,
+      "song_id": "carminescythe",
+      "rating": 9.6,
+      "song_hash": "3047d75c0f37600bd496a118079ef9c1",
+      "max_combo": 1164
+   },
+   {
+      "difficulty": 0,
+      "song_id": "chelsea",
+      "rating": 3.0,
+      "song_hash": "c1ae5ce96f4677ffa0b744b31170452a",
+      "max_combo": 388
+   },
+   {
+      "difficulty": 1,
+      "song_id": "chelsea",
+      "rating": 6.0,
+      "song_hash": "a60aa3914c6cd38044484bedaac373cb",
+      "max_combo": 503
+   },
+   {
+      "difficulty": 2,
+      "song_id": "chelsea",
+      "rating": 8.5,
+      "song_hash": "9b00668275e728eb1ad22174afe5a79a",
+      "max_combo": 650
+   },
+   {
+      "difficulty": 0,
+      "song_id": "chronostasis",
+      "rating": 3.5,
+      "song_hash": "eadcfffbdd41093a14d41ce60967dabc",
+      "max_combo": 619
+   },
+   {
+      "difficulty": 1,
+      "song_id": "chronostasis",
+      "rating": 7.5,
+      "song_hash": "6953930f600164214ed0ccddd528c1ba",
+      "max_combo": 812
+   },
+   {
+      "difficulty": 2,
+      "song_id": "chronostasis",
+      "rating": 9.1,
+      "song_hash": "bed78e739015a28a7bbf90d510476f58",
+      "max_combo": 916
+   },
+   {
+      "difficulty": 0,
+      "song_id": "climax",
+      "rating": 4.5,
+      "song_hash": "f4c7918cf4c50af94d664163ae78bf1e",
+      "max_combo": 773
+   },
+   {
+      "difficulty": 1,
+      "song_id": "climax",
+      "rating": 7.5,
+      "song_hash": "ebd746d493cff904c3b7b2df6da44804",
+      "max_combo": 988
+   },
+   {
+      "difficulty": 2,
+      "song_id": "climax",
+      "rating": 10.6,
+      "song_hash": "19d7529aa7573f142d8c5455652407bf",
+      "max_combo": 1367
+   },
+   {
+      "difficulty": 0,
+      "song_id": "clotho",
+      "rating": 2.0,
+      "song_hash": "c8f727cb4d7771826e729b7e934eef31",
+      "max_combo": 519
+   },
+   {
+      "difficulty": 1,
+      "song_id": "clotho",
+      "rating": 5.0,
+      "song_hash": "c94bd19b4598defddcfd4750f871be55",
+      "max_combo": 745
+   },
+   {
+      "difficulty": 2,
+      "song_id": "clotho",
+      "rating": 7.5,
+      "song_hash": "7401c92561d277851a1117141748aaf5",
+      "max_combo": 1021
+   },
+   {
+      "difficulty": 0,
+      "song_id": "conflict",
+      "rating": 4.5,
+      "song_hash": "4c196c3513fa6346f1ac4b4079658a57",
+      "max_combo": 520
+   },
+   {
+      "difficulty": 1,
+      "song_id": "conflict",
+      "rating": 7.5,
+      "song_hash": "9fe7ce84c85b4ec5791e28f9e2968aaf",
+      "max_combo": 731
+   },
+   {
+      "difficulty": 2,
+      "song_id": "conflict",
+      "rating": 10.1,
+      "song_hash": "458f8ffb1353df3cbfb51a8a4b4c72f7",
+      "max_combo": 1056
+   },
+   {
+      "difficulty": 0,
+      "song_id": "corpssansorganes",
+      "rating": 4.5,
+      "song_hash": "ef6d7fb1b390c7339196163a8c065d98",
+      "max_combo": 438
+   },
+   {
+      "difficulty": 1,
+      "song_id": "corpssansorganes",
+      "rating": 7.5,
+      "song_hash": "a6718bea1dfa2806a9de23f9d4f37f9f",
+      "max_combo": 615
+   },
+   {
+      "difficulty": 2,
+      "song_id": "corpssansorganes",
+      "rating": 10.6,
+      "song_hash": "1c0287a59439190b6a6c61b8cbbd6e25",
+      "max_combo": 1077
+   },
+   {
+      "difficulty": 0,
+      "song_id": "corruption",
+      "rating": 3.0,
+      "song_hash": "e80ed4c2905fd8237068a9b07eeea209",
+      "max_combo": 664
+   },
+   {
+      "difficulty": 1,
+      "song_id": "corruption",
+      "rating": 6.5,
+      "song_hash": "e726c46b4a80c198ab43436eea13bfe0",
+      "max_combo": 847
+   },
+   {
+      "difficulty": 2,
+      "song_id": "corruption",
+      "rating": 9.9,
+      "song_hash": "db84c562d959dc1d4a346dcd1d092a55",
+      "max_combo": 1293
+   },
+   {
+      "difficulty": 0,
+      "song_id": "crossover",
+      "rating": 4.0,
+      "song_hash": "18294a02f3df11f32889591e15567e4b",
+      "max_combo": 653
+   },
+   {
+      "difficulty": 1,
+      "song_id": "crossover",
+      "rating": 6.5,
+      "song_hash": "9383cfc7c83142887ca54a533bad3872",
+      "max_combo": 810
+   },
+   {
+      "difficulty": 2,
+      "song_id": "crossover",
+      "rating": 9.4,
+      "song_hash": "5f718dc5b84101c25163f45e82565e7d",
+      "max_combo": 1094
+   },
+   {
+      "difficulty": 0,
+      "song_id": "crosssoul",
+      "rating": 4.0,
+      "song_hash": "62fef2520e240ccd98eb5ad7b8104a54",
+      "max_combo": 606
+   },
+   {
+      "difficulty": 1,
+      "song_id": "crosssoul",
+      "rating": 7.0,
+      "song_hash": "59c708b6b96e5138aa32abf2966ee64f",
+      "max_combo": 823
+   },
+   {
+      "difficulty": 2,
+      "song_id": "crosssoul",
+      "rating": 9.4,
+      "song_hash": "71d1bd56fce5c511b29b4fbeacf10a5b",
+      "max_combo": 1081
+   },
+   {
+      "difficulty": 0,
+      "song_id": "cyaegha",
+      "rating": 5.5,
+      "song_hash": "bb395c1cc49392dc4211abe2e1897ac6",
+      "max_combo": 760
+   },
+   {
+      "difficulty": 1,
+      "song_id": "cyaegha",
+      "rating": 8.4,
+      "song_hash": "f803f33c0e158f7bfcfc636a7c4545f7",
+      "max_combo": 984
+   },
+   {
+      "difficulty": 2,
+      "song_id": "cyaegha",
+      "rating": 10.8,
+      "song_hash": "6beb51117cfba1ecbd02e119aeef980d",
+      "max_combo": 1368
+   },
+   {
+      "difficulty": 0,
+      "song_id": "cyanine",
+      "rating": 4.0,
+      "song_hash": "20ce8591c14cc17f6fd6f749f873604d",
+      "max_combo": 661
+   },
+   {
+      "difficulty": 1,
+      "song_id": "cyanine",
+      "rating": 7.5,
+      "song_hash": "6ee3e9c23074bc548f37807aeda7ded0",
+      "max_combo": 947
+   },
+   {
+      "difficulty": 2,
+      "song_id": "cyanine",
+      "rating": 10.6,
+      "song_hash": "3b0f4d22c3c560203e40e02d371b2b5a",
+      "max_combo": 1171
+   },
+   {
+      "difficulty": 0,
+      "song_id": "cyberneciacatharsis",
+      "rating": 4.0,
+      "song_hash": "780734de9b91c780a8b4219f42023521",
+      "max_combo": 377
+   },
+   {
+      "difficulty": 1,
+      "song_id": "cyberneciacatharsis",
+      "rating": 7.0,
+      "song_hash": "7034bade0a9f4a02a54d070cf86e9728",
+      "max_combo": 655
+   },
+   {
+      "difficulty": 2,
+      "song_id": "cyberneciacatharsis",
+      "rating": 9.5,
+      "song_hash": "dc8059fa50ced1d41ae35637ae5a1617",
+      "max_combo": 946
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dandelion",
+      "rating": 2.5,
+      "song_hash": "a24541d0eeef310291e2ea1fb373d76a",
+      "max_combo": 391
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dandelion",
+      "rating": 6.0,
+      "song_hash": "595b494277d9d21c7d87bd203b2c0300",
+      "max_combo": 698
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dandelion",
+      "rating": 8.5,
+      "song_hash": "030ed16c0ed14d18191db446048848bb",
+      "max_combo": 921
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dantalion",
+      "rating": 5.0,
+      "song_hash": "634876267bf9d19ebb89aa4074b6f4c0",
+      "max_combo": 731
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dantalion",
+      "rating": 8.2,
+      "song_hash": "10595060e896f4c864a0e28ebec455c8",
+      "max_combo": 843
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dantalion",
+      "rating": 10.8,
+      "song_hash": "0184659541afc98d5ccab03625a27cbb",
+      "max_combo": 1476
+   },
+   {
+      "difficulty": 0,
+      "song_id": "darakunosono",
+      "rating": 2.0,
+      "song_hash": "e99ada5680fb4234183ca60028c25154",
+      "max_combo": 535
+   },
+   {
+      "difficulty": 1,
+      "song_id": "darakunosono",
+      "rating": 7.0,
+      "song_hash": "ca1d9e2edf5b4975ea3c00433b9951aa",
+      "max_combo": 585
+   },
+   {
+      "difficulty": 2,
+      "song_id": "darakunosono",
+      "rating": 9.6,
+      "song_hash": "33de23ecd9edd7ad156f532c6b319c98",
+      "max_combo": 1061
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dataerror",
+      "rating": 3.0,
+      "song_hash": "6fdf67cde92b7e3ff3a3731472155ed2",
+      "max_combo": 502
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dataerror",
+      "rating": 7.0,
+      "song_hash": "b08a3da6e8015b0cabf75c7542aaff7d",
+      "max_combo": 785
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dataerror",
+      "rating": 9.5,
+      "song_hash": "a27cb90d580dae0adca63790751c7225",
+      "max_combo": 955
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dazzlehop",
+      "rating": 3.5,
+      "song_hash": "c2b75331f7a62380f36bbe9384d8cd9c",
+      "max_combo": 561
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dazzlehop",
+      "rating": 6.0,
+      "song_hash": "c4402152c60f011c01a1701f5bf20114",
+      "max_combo": 571
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dazzlehop",
+      "rating": 9.7,
+      "song_hash": "d2ef97ad6238c2381fc3ff5b5972bec1",
+      "max_combo": 1022
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dement",
+      "rating": 3.5,
+      "song_hash": "6dd225ebd0ddd14f1b6e588a0701c977",
+      "max_combo": 548
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dement",
+      "rating": 6.0,
+      "song_hash": "6099fa6611dee161a9c5da9f26d89ddc",
+      "max_combo": 756
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dement",
+      "rating": 7.5,
+      "song_hash": "60993a3835218f7a17339c0ebe58e89c",
+      "max_combo": 970
+   },
+   {
+      "difficulty": 3,
+      "song_id": "dement",
+      "rating": 9.9,
+      "song_hash": "9e63f0a9e3ec104eae887f43de4eb358",
+      "max_combo": 1040
+   },
+   {
+      "difficulty": 0,
+      "song_id": "diode",
+      "rating": 2.5,
+      "song_hash": "95a1a9133d3122fb2ace65a2c86eb463",
+      "max_combo": 452
+   },
+   {
+      "difficulty": 1,
+      "song_id": "diode",
+      "rating": 5.5,
+      "song_hash": "ed5f5dd53db16442c86badebdbcd55af",
+      "max_combo": 472
+   },
+   {
+      "difficulty": 2,
+      "song_id": "diode",
+      "rating": 8.1,
+      "song_hash": "11aedfeab20bdb0b8510d6e6b1813978",
+      "max_combo": 709
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dottodot",
+      "rating": 3.0,
+      "song_hash": "dd17a2c01bc5ad659274522bbfef12fb",
+      "max_combo": 453
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dottodot",
+      "rating": 6.0,
+      "song_hash": "c30ecca7991b3a10640146230851bd47",
+      "max_combo": 522
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dottodot",
+      "rating": 8.3,
+      "song_hash": "0032199483c02951f1c02d2b240d47d9",
+      "max_combo": 739
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dreadnought",
+      "rating": 4.0,
+      "song_hash": "dbc15b94aae1877d61fe539135641797",
+      "max_combo": 715
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dreadnought",
+      "rating": 7.0,
+      "song_hash": "342887595377eb2bd49b6236a7603bfa",
+      "max_combo": 897
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dreadnought",
+      "rating": 9.8,
+      "song_hash": "0f6f587b846560a053265e4e718ef041",
+      "max_combo": 1099
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dreamgoeson",
+      "rating": 1.5,
+      "song_hash": "7e2797b265c693e9343eb2abab8fc66e",
+      "max_combo": 532
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dreamgoeson",
+      "rating": 5.0,
+      "song_hash": "0ca34a99bdc81fd95948f36ac22b555e",
+      "max_combo": 751
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dreamgoeson",
+      "rating": 7.5,
+      "song_hash": "61af0131705b5af5e7f477ebc05a5cd1",
+      "max_combo": 719
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dreaminattraction",
+      "rating": 4.5,
+      "song_hash": "789441b78d4baef767fcf44e2fa0fc59",
+      "max_combo": 592
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dreaminattraction",
+      "rating": 7.0,
+      "song_hash": "c569cb9b403455a7671f167bd1fe7f02",
+      "max_combo": 785
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dreaminattraction",
+      "rating": 9.6,
+      "song_hash": "fb1c9daa0bc9c4863b86c9e1a5464969",
+      "max_combo": 1129
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dropdead",
+      "rating": 1.5,
+      "song_hash": "ade5c0c8aa37e6786d9a605dc578e2a7",
+      "max_combo": 44
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dropdead",
+      "rating": 9.5,
+      "song_hash": "75fe739cfd526af8b957ce7c03d50d43",
+      "max_combo": 1323
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dropdead",
+      "rating": 9.1,
+      "song_hash": "794829f11947c4b959b330719d3516ab",
+      "max_combo": 823
+   },
+   {
+      "difficulty": 0,
+      "song_id": "dxfullmetal",
+      "rating": 3.0,
+      "song_hash": "8bdb0fc98a56e24cb61eebc425a8c09b",
+      "max_combo": 327
+   },
+   {
+      "difficulty": 1,
+      "song_id": "dxfullmetal",
+      "rating": 6.0,
+      "song_hash": "b680a869e31d9d6d071c314d2cd78219",
+      "max_combo": 556
+   },
+   {
+      "difficulty": 2,
+      "song_id": "dxfullmetal",
+      "rating": 9.8,
+      "song_hash": "c739f6ab3d3fe3b424e52c7ac5814e44",
+      "max_combo": 808
+   },
+   {
+      "difficulty": 0,
+      "song_id": "eccentrictale",
+      "rating": 2.0,
+      "song_hash": "e9ee251d83aa1eaffc2b18b4bcf64538",
+      "max_combo": 313
+   },
+   {
+      "difficulty": 1,
+      "song_id": "eccentrictale",
+      "rating": 5.5,
+      "song_hash": "f87242fc76337570c8431c63b1c67c32",
+      "max_combo": 483
+   },
+   {
+      "difficulty": 2,
+      "song_id": "eccentrictale",
+      "rating": 8.4,
+      "song_hash": "b47be8e16b7cb2c465a38c5478cb9af4",
+      "max_combo": 732
+   },
+   {
+      "difficulty": 0,
+      "song_id": "einherjar",
+      "rating": 4.0,
+      "song_hash": "582bccb142468936731165084b1b0b5c",
+      "max_combo": 582
+   },
+   {
+      "difficulty": 1,
+      "song_id": "einherjar",
+      "rating": 7.0,
+      "song_hash": "fbdebc2915b3bed22afa5e4d1d4d898f",
+      "max_combo": 767
+   },
+   {
+      "difficulty": 2,
+      "song_id": "einherjar",
+      "rating": 9.8,
+      "song_hash": "1dc4ca92d33bea14a822b2c3c878bf19",
+      "max_combo": 1159
+   },
+   {
+      "difficulty": 0,
+      "song_id": "empireofwinter",
+      "rating": 3.5,
+      "song_hash": "0c521d698bdf74b2a6c1676c3ce7cc79",
+      "max_combo": 484
+   },
+   {
+      "difficulty": 1,
+      "song_id": "empireofwinter",
+      "rating": 6.5,
+      "song_hash": "0a6396dcb454bcc8f0c986aa9678cd62",
+      "max_combo": 662
+   },
+   {
+      "difficulty": 2,
+      "song_id": "empireofwinter",
+      "rating": 9.0,
+      "song_hash": "d14fef462926cbfef91e67c86ed18f8b",
+      "max_combo": 920
+   },
+   {
+      "difficulty": 0,
+      "song_id": "equilibrium",
+      "rating": 3.5,
+      "song_hash": "ef09f1e041d7b87e6743bd96121219ed",
+      "max_combo": 587
+   },
+   {
+      "difficulty": 1,
+      "song_id": "equilibrium",
+      "rating": 6.5,
+      "song_hash": "03f65744f4e188009a44aebdcbb88a2f",
+      "max_combo": 724
+   },
+   {
+      "difficulty": 2,
+      "song_id": "equilibrium",
+      "rating": 9.4,
+      "song_hash": "89a9ddccad9e9d973da4204454a3063a",
+      "max_combo": 951
+   },
+   {
+      "difficulty": 0,
+      "song_id": "espebranch",
+      "rating": 3.5,
+      "song_hash": "83af0e921fd763c68192b2bab18482fa",
+      "max_combo": 624
+   },
+   {
+      "difficulty": 1,
+      "song_id": "espebranch",
+      "rating": 6.0,
+      "song_hash": "56f6282726cae8225baeef80be2d7584",
+      "max_combo": 757
+   },
+   {
+      "difficulty": 2,
+      "song_id": "espebranch",
+      "rating": 9.6,
+      "song_hash": "3eb4d6b52db459a96b614cf8977edda6",
+      "max_combo": 1058
+   },
+   {
+      "difficulty": 0,
+      "song_id": "essenceoftwilight",
+      "rating": 4.5,
+      "song_hash": "edd963854a9264bbde974fc272c84c9b",
+      "max_combo": 556
+   },
+   {
+      "difficulty": 1,
+      "song_id": "essenceoftwilight",
+      "rating": 7.0,
+      "song_hash": "8a3c95f63393af1c2aff31e378bdfca1",
+      "max_combo": 767
+   },
+   {
+      "difficulty": 2,
+      "song_id": "essenceoftwilight",
+      "rating": 9.1,
+      "song_hash": "691f82a844b6aff868023ca2c80d22ff",
+      "max_combo": 1204
+   },
+   {
+      "difficulty": 0,
+      "song_id": "etherstrike",
+      "rating": 5.5,
+      "song_hash": "25a810a1ad2754191e494a152c58764b",
+      "max_combo": 659
+   },
+   {
+      "difficulty": 1,
+      "song_id": "etherstrike",
+      "rating": 8.3,
+      "song_hash": "79451cc445aa6509e220dd9276c2b008",
+      "max_combo": 837
+   },
+   {
+      "difficulty": 2,
+      "song_id": "etherstrike",
+      "rating": 10.3,
+      "song_hash": "ab57856b1eacb3aff3d914dd21d40726",
+      "max_combo": 1170
+   },
+   {
+      "difficulty": 0,
+      "song_id": "evoltex",
+      "rating": 2.0,
+      "song_hash": "f509ae1e746bdc6d630ac5ec57c09831",
+      "max_combo": 297
+   },
+   {
+      "difficulty": 1,
+      "song_id": "evoltex",
+      "rating": 7.0,
+      "song_hash": "b3e36798410d0f6b44e0cd18947c7a84",
+      "max_combo": 627
+   },
+   {
+      "difficulty": 2,
+      "song_id": "evoltex",
+      "rating": 8.9,
+      "song_hash": "01689cb0fa75bd20a0ec635f9ac34316",
+      "max_combo": 775
+   },
+   {
+      "difficulty": 0,
+      "song_id": "faintlight",
+      "rating": 3.0,
+      "song_hash": "2ffa1f38a95d2bda353d7a1ab08d4684",
+      "max_combo": 587
+   },
+   {
+      "difficulty": 1,
+      "song_id": "faintlight",
+      "rating": 6.0,
+      "song_hash": "acf791ba95c27ab80eba0483ecdba500",
+      "max_combo": 711
+   },
+   {
+      "difficulty": 2,
+      "song_id": "faintlight",
+      "rating": 9.1,
+      "song_hash": "61c759e4a4ace035e0cafd03c8781f4d",
+      "max_combo": 809
+   },
+   {
+      "difficulty": 0,
+      "song_id": "fairytale",
+      "rating": 1.0,
+      "song_hash": "92e686d88ca2ff47cb2ef4798caffe83",
+      "max_combo": 336
+   },
+   {
+      "difficulty": 1,
+      "song_id": "fairytale",
+      "rating": 3.5,
+      "song_hash": "fccd6143fb0ed01c69c018c9923362b5",
+      "max_combo": 511
+   },
+   {
+      "difficulty": 2,
+      "song_id": "fairytale",
+      "rating": 7.0,
+      "song_hash": "410a626480b844ef2b155a7ade9d1915",
+      "max_combo": 782
+   },
+   {
+      "difficulty": 3,
+      "song_id": "fairytale",
+      "rating": 9.5,
+      "song_hash": "15855c23558ca8b9e848dcacbbaf72e2",
+      "max_combo": 932
+   },
+   {
+      "difficulty": 0,
+      "song_id": "fallensquare",
+      "rating": 3.0,
+      "song_hash": "439571f6be9add26eda860b7dfcf6729",
+      "max_combo": 316
+   },
+   {
+      "difficulty": 1,
+      "song_id": "fallensquare",
+      "rating": 7.0,
+      "song_hash": "a0c3c08914ca2731123aa9d070824125",
+      "max_combo": 486
+   },
+   {
+      "difficulty": 2,
+      "song_id": "fallensquare",
+      "rating": 9.6,
+      "song_hash": "b277fe11f302ead08cf9204dd5018aee",
+      "max_combo": 703
+   },
+   {
+      "difficulty": 0,
+      "song_id": "feelssoright",
+      "rating": 3.5,
+      "song_hash": "e857e4a1dd0c85d7cf5ef21a0d5afa02",
+      "max_combo": 594
+   },
+   {
+      "difficulty": 1,
+      "song_id": "feelssoright",
+      "rating": 6.5,
+      "song_hash": "52209c0052c8510e428309bbbc2df790",
+      "max_combo": 636
+   },
+   {
+      "difficulty": 2,
+      "song_id": "feelssoright",
+      "rating": 9.3,
+      "song_hash": "b84a5ae450e3adae85baaa15cb5e7e65",
+      "max_combo": 947
+   },
+   {
+      "difficulty": 0,
+      "song_id": "felis",
+      "rating": 4.0,
+      "song_hash": "7fdc703556a91fabaec21cfa7e5c4c42",
+      "max_combo": 463
+   },
+   {
+      "difficulty": 1,
+      "song_id": "felis",
+      "rating": 7.5,
+      "song_hash": "edb6b36465f1f68baf6af54a844dc2c7",
+      "max_combo": 624
+   },
+   {
+      "difficulty": 2,
+      "song_id": "felis",
+      "rating": 10.4,
+      "song_hash": "4495aa6cb0c781a0670a36238625a620",
+      "max_combo": 1153
+   },
+   {
+      "difficulty": 0,
+      "song_id": "filament",
+      "rating": 4.5,
+      "song_hash": "de3a141c58e1a3a508f68c52894d3c02",
+      "max_combo": 582
+   },
+   {
+      "difficulty": 1,
+      "song_id": "filament",
+      "rating": 7.5,
+      "song_hash": "5f4a4e8c307a4f68c9c3e39063924467",
+      "max_combo": 780
+   },
+   {
+      "difficulty": 2,
+      "song_id": "filament",
+      "rating": 9.7,
+      "song_hash": "52d7bb7cc0238087d9adbfb3115ac065",
+      "max_combo": 991
+   },
+   {
+      "difficulty": 0,
+      "song_id": "firstsnow",
+      "rating": 2.5,
+      "song_hash": "22e87553e4886e8e5a133dafe4038011",
+      "max_combo": 366
+   },
+   {
+      "difficulty": 1,
+      "song_id": "firstsnow",
+      "rating": 4.5,
+      "song_hash": "64aa009adb8303792dd8a229bf2374cc",
+      "max_combo": 442
+   },
+   {
+      "difficulty": 2,
+      "song_id": "firstsnow",
+      "rating": 7.5,
+      "song_hash": "783feeb6ee4b59353ed375435c7416ff",
+      "max_combo": 578
+   },
+   {
+      "difficulty": 0,
+      "song_id": "flashback",
+      "rating": 2.0,
+      "song_hash": "2ca43c40ea395ec6dac56389d53b7c07",
+      "max_combo": 356
+   },
+   {
+      "difficulty": 1,
+      "song_id": "flashback",
+      "rating": 5.0,
+      "song_hash": "d19688178a8dcafd0a4d7c3bf4dc70bc",
+      "max_combo": 488
+   },
+   {
+      "difficulty": 2,
+      "song_id": "flashback",
+      "rating": 8.8,
+      "song_hash": "cb0dd1157a6057fc725782129b49bac8",
+      "max_combo": 856
+   },
+   {
+      "difficulty": 0,
+      "song_id": "flyburg",
+      "rating": 3.0,
+      "song_hash": "f2686a43c833f4fe5ea0975f6e292e15",
+      "max_combo": 413
+   },
+   {
+      "difficulty": 1,
+      "song_id": "flyburg",
+      "rating": 6.0,
+      "song_hash": "3f51887016d21f107509b2b849540c89",
+      "max_combo": 650
+   },
+   {
+      "difficulty": 2,
+      "song_id": "flyburg",
+      "rating": 9.0,
+      "song_hash": "e9216db38dd880283277f78521a15f19",
+      "max_combo": 930
+   },
+   {
+      "difficulty": 0,
+      "song_id": "fractureray",
+      "rating": 6.0,
+      "song_hash": "ba67e46abe72d4162ae39ae1f0c72b72",
+      "max_combo": 983
+   },
+   {
+      "difficulty": 1,
+      "song_id": "fractureray",
+      "rating": 9.5,
+      "song_hash": "682866d67b534bf80ea73e58486f23bb",
+      "max_combo": 1343
+   },
+   {
+      "difficulty": 2,
+      "song_id": "fractureray",
+      "rating": 11.2,
+      "song_hash": "5b670a7dd60a874e5c5c2c36925082d0",
+      "max_combo": 1279
+   },
+   {
+      "difficulty": 0,
+      "song_id": "freefall",
+      "rating": 4.0,
+      "song_hash": "7398920cfd770f9297a07b222c47d36a",
+      "max_combo": 589
+   },
+   {
+      "difficulty": 1,
+      "song_id": "freefall",
+      "rating": 7.0,
+      "song_hash": "8360759cee1ebf12d01b39d955bbb38e",
+      "max_combo": 782
+   },
+   {
+      "difficulty": 2,
+      "song_id": "freefall",
+      "rating": 8.6,
+      "song_hash": "7f01a3d89eb1f06009c56d8708560f09",
+      "max_combo": 1023
+   },
+   {
+      "difficulty": 0,
+      "song_id": "galaxyfriends",
+      "rating": 3.5,
+      "song_hash": "9f83ff08087fc6e4b70bffbef92218e7",
+      "max_combo": 474
+   },
+   {
+      "difficulty": 1,
+      "song_id": "galaxyfriends",
+      "rating": 6.0,
+      "song_hash": "46ddb580e1bb374b1fb3a60db8f76e4f",
+      "max_combo": 572
+   },
+   {
+      "difficulty": 2,
+      "song_id": "galaxyfriends",
+      "rating": 9.8,
+      "song_hash": "a4d2afa558084f1dc7727c5dce1a7d52",
+      "max_combo": 1013
+   },
+   {
+      "difficulty": 0,
+      "song_id": "garakuta",
+      "rating": 4.5,
+      "song_hash": "e45497d752ff1b9838b24c4cbf914979",
+      "max_combo": 444
+   },
+   {
+      "difficulty": 1,
+      "song_id": "garakuta",
+      "rating": 6.5,
+      "song_hash": "c06334e3dab07e3e3daa9ad362a5d24f",
+      "max_combo": 572
+   },
+   {
+      "difficulty": 2,
+      "song_id": "garakuta",
+      "rating": 10.4,
+      "song_hash": "5ccf978f9628471366c38490936a7441",
+      "max_combo": 1035
+   },
+   {
+      "difficulty": 0,
+      "song_id": "gekka",
+      "rating": 4.0,
+      "song_hash": "227619da2e207be117828985fc9b9103",
+      "max_combo": 559
+   },
+   {
+      "difficulty": 1,
+      "song_id": "gekka",
+      "rating": 6.0,
+      "song_hash": "49618f90de192bbbfcf4304da7cbf849",
+      "max_combo": 628
+   },
+   {
+      "difficulty": 2,
+      "song_id": "gekka",
+      "rating": 8.6,
+      "song_hash": "f2dc6378b322c8418d8952b300df594e",
+      "max_combo": 817
+   },
+   {
+      "difficulty": 0,
+      "song_id": "genesis",
+      "rating": 2.0,
+      "song_hash": "e644c8661c5bccf3118c73626a123b97",
+      "max_combo": 275
+   },
+   {
+      "difficulty": 1,
+      "song_id": "genesis",
+      "rating": 5.5,
+      "song_hash": "61f815a2960618a5b32e488a0f1a6b3e",
+      "max_combo": 399
+   },
+   {
+      "difficulty": 2,
+      "song_id": "genesis",
+      "rating": 8.2,
+      "song_hash": "39313df60fcfdd201fce3fcf0fef9bdc",
+      "max_combo": 713
+   },
+   {
+      "difficulty": 0,
+      "song_id": "givemeanightmare",
+      "rating": 3.5,
+      "song_hash": "5256a8a4da6d25dd2bc1514ebdd6cfc5",
+      "max_combo": 676
+   },
+   {
+      "difficulty": 1,
+      "song_id": "givemeanightmare",
+      "rating": 5.5,
+      "song_hash": "5ea1754c2db8dde96a9b8e10bb682552",
+      "max_combo": 817
+   },
+   {
+      "difficulty": 2,
+      "song_id": "givemeanightmare",
+      "rating": 9.0,
+      "song_hash": "050ab342a0e8125458c1ac74f019a6bb",
+      "max_combo": 948
+   },
+   {
+      "difficulty": 0,
+      "song_id": "gloryroad",
+      "rating": 4.5,
+      "song_hash": "049eea3a24c6079570b2ab55be3adfa5",
+      "max_combo": 868
+   },
+   {
+      "difficulty": 1,
+      "song_id": "gloryroad",
+      "rating": 7.0,
+      "song_hash": "06c3d510b04514e23c10552ba2c7634b",
+      "max_combo": 999
+   },
+   {
+      "difficulty": 2,
+      "song_id": "gloryroad",
+      "rating": 10.6,
+      "song_hash": "12ba0efaa38a5dc909e258f3ee750b72",
+      "max_combo": 1479
+   },
+   {
+      "difficulty": 0,
+      "song_id": "glow",
+      "rating": 4.0,
+      "song_hash": "2165401acb11d49f060a19ef00c7bd70",
+      "max_combo": 504
+   },
+   {
+      "difficulty": 1,
+      "song_id": "glow",
+      "rating": 7.0,
+      "song_hash": "fcaa5ec4d03e80e06762dc00fb66984e",
+      "max_combo": 666
+   },
+   {
+      "difficulty": 2,
+      "song_id": "glow",
+      "rating": 9.3,
+      "song_hash": "e68b469e88e7aa9cac3b13e5aa5f33ab",
+      "max_combo": 916
+   },
+   {
+      "difficulty": 0,
+      "song_id": "goodtek",
+      "rating": 4.0,
+      "song_hash": "db688a63e3cb2fe5d547203f6c707cd3",
+      "max_combo": 449
+   },
+   {
+      "difficulty": 1,
+      "song_id": "goodtek",
+      "rating": 6.5,
+      "song_hash": "3641be1f593e4500a744a22012faedf0",
+      "max_combo": 632
+   },
+   {
+      "difficulty": 2,
+      "song_id": "goodtek",
+      "rating": 9.3,
+      "song_hash": "5a8158ea48bb8ae30e22d32681dfc422",
+      "max_combo": 968
+   },
+   {
+      "difficulty": 3,
+      "song_id": "goodtek",
+      "rating": 9.8,
+      "song_hash": "45486cb29633e987eaf9bb01f655c7c9",
+      "max_combo": 1103
+   },
+   {
+      "difficulty": 0,
+      "song_id": "gothiveofra",
+      "rating": 3.0,
+      "song_hash": "c8d12197a52f0a75e3695329b57f94b5",
+      "max_combo": 322
+   },
+   {
+      "difficulty": 1,
+      "song_id": "gothiveofra",
+      "rating": 6.5,
+      "song_hash": "55e78fb4ae8f279fd47492f546c03e42",
+      "max_combo": 509
+   },
+   {
+      "difficulty": 2,
+      "song_id": "gothiveofra",
+      "rating": 9.8,
+      "song_hash": "5b5ac55d9eb2c02ae2cb401bb300739a",
+      "max_combo": 794
+   },
+   {
+      "difficulty": 0,
+      "song_id": "gou",
+      "rating": 5.5,
+      "song_hash": "284d98057a29c00a540dac6638bbd570",
+      "max_combo": 814
+   },
+   {
+      "difficulty": 1,
+      "song_id": "gou",
+      "rating": 8.5,
+      "song_hash": "01df64d55a115a496e4dfcf1ebac1269",
+      "max_combo": 1070
+   },
+   {
+      "difficulty": 2,
+      "song_id": "gou",
+      "rating": 10.8,
+      "song_hash": "6b464d4513d8dd4d0573b554bc41cfef",
+      "max_combo": 1522
+   },
+   {
+      "difficulty": 0,
+      "song_id": "grievouslady",
+      "rating": 6.5,
+      "song_hash": "25f4fe6979f1200083d4f2cc26879421",
+      "max_combo": 956
+   },
+   {
+      "difficulty": 1,
+      "song_id": "grievouslady",
+      "rating": 9.3,
+      "song_hash": "5e62b770704d1a35da4acb175ed6f9e0",
+      "max_combo": 1194
+   },
+   {
+      "difficulty": 2,
+      "song_id": "grievouslady",
+      "rating": 11.3,
+      "song_hash": "65208879becbcbe155fba840e571b0ed",
+      "max_combo": 1450
+   },
+   {
+      "difficulty": 0,
+      "song_id": "grimheart",
+      "rating": 2.5,
+      "song_hash": "500bc0106411427f01ad87d5dfff08f4",
+      "max_combo": 728
+   },
+   {
+      "difficulty": 1,
+      "song_id": "grimheart",
+      "rating": 5.0,
+      "song_hash": "ecc667046e21edf83e3ec4da679d1d34",
+      "max_combo": 699
+   },
+   {
+      "difficulty": 2,
+      "song_id": "grimheart",
+      "rating": 8.6,
+      "song_hash": "e37285ae61230542e77df78a086397ab",
+      "max_combo": 959
+   },
+   {
+      "difficulty": 0,
+      "song_id": "guardina",
+      "rating": 4.0,
+      "song_hash": "b07611bb9947a36672e9db79e50d703b",
+      "max_combo": 507
+   },
+   {
+      "difficulty": 1,
+      "song_id": "guardina",
+      "rating": 7.5,
+      "song_hash": "492a3fbc2cae1c185742590af30e2676",
+      "max_combo": 678
+   },
+   {
+      "difficulty": 2,
+      "song_id": "guardina",
+      "rating": 10.5,
+      "song_hash": "4f31cf2422cf291c3c3fe2b30dfe3a7a",
+      "max_combo": 1120
+   },
+   {
+      "difficulty": 0,
+      "song_id": "halcyon",
+      "rating": 5.5,
+      "song_hash": "661e8dabe5694cceaf0756b8a7457913",
+      "max_combo": 662
+   },
+   {
+      "difficulty": 1,
+      "song_id": "halcyon",
+      "rating": 8.2,
+      "song_hash": "e1ca06debeda7090ef77c680a13f0070",
+      "max_combo": 943
+   },
+   {
+      "difficulty": 2,
+      "song_id": "halcyon",
+      "rating": 10.7,
+      "song_hash": "4f051ae8f1e5b11e5148abd1f0f1d289",
+      "max_combo": 1227
+   },
+   {
+      "difficulty": 0,
+      "song_id": "hallofmirrors",
+      "rating": 3.0,
+      "song_hash": "3448f53a950979a9901d9c1c72cf6ec2",
+      "max_combo": 535
+   },
+   {
+      "difficulty": 1,
+      "song_id": "hallofmirrors",
+      "rating": 5.5,
+      "song_hash": "0cd12430c58543e748b9eeab2f12f09e",
+      "max_combo": 553
+   },
+   {
+      "difficulty": 2,
+      "song_id": "hallofmirrors",
+      "rating": 8.2,
+      "song_hash": "fbc053b15ebdf462512a64a154e15523",
+      "max_combo": 898
+   },
+   {
+      "difficulty": 0,
+      "song_id": "harutopia",
+      "rating": 1.0,
+      "song_hash": "334ecce32bcb2b39914b08473a278228",
+      "max_combo": 444
+   },
+   {
+      "difficulty": 1,
+      "song_id": "harutopia",
+      "rating": 4.5,
+      "song_hash": "4782e219ba081550580cee7cc1e3b8a0",
+      "max_combo": 706
+   },
+   {
+      "difficulty": 2,
+      "song_id": "harutopia",
+      "rating": 8.5,
+      "song_hash": "d5908c268d61077c00ae0ae71de58cad",
+      "max_combo": 1061
+   },
+   {
+      "difficulty": 0,
+      "song_id": "hearditsaid",
+      "rating": 3.5,
+      "song_hash": "d88cab9694290f3cbc17f0146858e058",
+      "max_combo": 510
+   },
+   {
+      "difficulty": 1,
+      "song_id": "hearditsaid",
+      "rating": 6.0,
+      "song_hash": "b4094ccb7ec05a667c8b37aa7421793b",
+      "max_combo": 664
+   },
+   {
+      "difficulty": 2,
+      "song_id": "hearditsaid",
+      "rating": 8.1,
+      "song_hash": "0f34e2c5ecda8e11d4a44e74f0071d75",
+      "max_combo": 864
+   },
+   {
+      "difficulty": 0,
+      "song_id": "heartjackin",
+      "rating": 3.0,
+      "song_hash": "5dc4b99cfe087f6eadfa346d553e1fbe",
+      "max_combo": 506
+   },
+   {
+      "difficulty": 1,
+      "song_id": "heartjackin",
+      "rating": 5.5,
+      "song_hash": "2f67500f2f325b6adad084d0ba6dbc8c",
+      "max_combo": 543
+   },
+   {
+      "difficulty": 2,
+      "song_id": "heartjackin",
+      "rating": 9.7,
+      "song_hash": "6a83d893743b121ff13801f6e87614ba",
+      "max_combo": 1112
+   },
+   {
+      "difficulty": 0,
+      "song_id": "heavenlycaress",
+      "rating": 3.5,
+      "song_hash": "38afa70ee706c81352be7a885b3adfa8",
+      "max_combo": 855
+   },
+   {
+      "difficulty": 1,
+      "song_id": "heavenlycaress",
+      "rating": 7.5,
+      "song_hash": "772f2d9b40f6586c83368f04c052ae52",
+      "max_combo": 909
+   },
+   {
+      "difficulty": 2,
+      "song_id": "heavenlycaress",
+      "rating": 9.8,
+      "song_hash": "9d71d85d25895d3bcccbacc43c294230",
+      "max_combo": 1560
+   },
+   {
+      "difficulty": 0,
+      "song_id": "heavensdoor",
+      "rating": 4.5,
+      "song_hash": "83526f355b56dc67a61fd79bb2e78e54",
+      "max_combo": 766
+   },
+   {
+      "difficulty": 1,
+      "song_id": "heavensdoor",
+      "rating": 7.5,
+      "song_hash": "0b54278a95aac623a3094998f760eb0e",
+      "max_combo": 869
+   },
+   {
+      "difficulty": 2,
+      "song_id": "heavensdoor",
+      "rating": 9.9,
+      "song_hash": "e9512f230200f167ed8c1e85f32d34ac",
+      "max_combo": 1101
+   },
+   {
+      "difficulty": 0,
+      "song_id": "hikari",
+      "rating": 2.5,
+      "song_hash": "e7cea696ba79e3bef7691a6b255e2a9c",
+      "max_combo": 237
+   },
+   {
+      "difficulty": 1,
+      "song_id": "hikari",
+      "rating": 6.0,
+      "song_hash": "59e720df6a63e82b26a653e132fbd098",
+      "max_combo": 450
+   },
+   {
+      "difficulty": 2,
+      "song_id": "hikari",
+      "rating": 8.1,
+      "song_hash": "72d98ed38c8996d520d49ba5a26298dd",
+      "max_combo": 684
+   },
+   {
+      "difficulty": 0,
+      "song_id": "iconoclast",
+      "rating": 4.0,
+      "song_hash": "a715c977aea8bde44fa27c73a99ebc00",
+      "max_combo": 443
+   },
+   {
+      "difficulty": 1,
+      "song_id": "iconoclast",
+      "rating": 7.0,
+      "song_hash": "3690f5ac6b9d4ee3e75d1e78c8075461",
+      "max_combo": 593
+   },
+   {
+      "difficulty": 2,
+      "song_id": "iconoclast",
+      "rating": 9.1,
+      "song_hash": "03ca0734dd7ca7e9eeea24975d2780cd",
+      "max_combo": 795
+   },
+   {
+      "difficulty": 0,
+      "song_id": "ifi",
+      "rating": 5.5,
+      "song_hash": "272ebae31f5cb6e2cd41a35f245c2212",
+      "max_combo": 765
+   },
+   {
+      "difficulty": 1,
+      "song_id": "ifi",
+      "rating": 9.2,
+      "song_hash": "569bf296b0f2789d944ffc9e0842d88c",
+      "max_combo": 1144
+   },
+   {
+      "difficulty": 2,
+      "song_id": "ifi",
+      "rating": 10.9,
+      "song_hash": "5da9a32cde0f9b18a33f67288909e1f2",
+      "max_combo": 1576
+   },
+   {
+      "difficulty": 0,
+      "song_id": "ignotus",
+      "rating": 3.5,
+      "song_hash": "5b5c9408be5382b0756f080432e5399d",
+      "max_combo": 579
+   },
+   {
+      "difficulty": 1,
+      "song_id": "ignotus",
+      "rating": 6.5,
+      "song_hash": "89e2d9c05e6de611993f618288d6ef97",
+      "max_combo": 809
+   },
+   {
+      "difficulty": 2,
+      "song_id": "ignotus",
+      "rating": 9.3,
+      "song_hash": "bf6f6e5cbd1d40d64bb865d0389327e1",
+      "max_combo": 1225
+   },
+   {
+      "difficulty": 2,
+      "song_id": "ignotusafterburn",
+      "rating": 0.0,
+      "song_hash": "9f22ab2278622a6ce60d4daba63a22e7",
+      "max_combo": 1028
+   },
+   {
+      "difficulty": 0,
+      "song_id": "ikazuchi",
+      "rating": 3.5,
+      "song_hash": "5e5beec4466265103c1b229eb3d735d2",
+      "max_combo": 656
+   },
+   {
+      "difficulty": 1,
+      "song_id": "ikazuchi",
+      "rating": 7.5,
+      "song_hash": "e687bb6dbc1205b2e912a7159ae14e53",
+      "max_combo": 976
+   },
+   {
+      "difficulty": 2,
+      "song_id": "ikazuchi",
+      "rating": 10.5,
+      "song_hash": "572098c7ee676591bf5a7c6a467f1838",
+      "max_combo": 1347
+   },
+   {
+      "difficulty": 0,
+      "song_id": "impurebird",
+      "rating": 2.0,
+      "song_hash": "97ec90b16f43a9819755a481e9ab00ab",
+      "max_combo": 350
+   },
+   {
+      "difficulty": 1,
+      "song_id": "impurebird",
+      "rating": 5.5,
+      "song_hash": "94d1eefcb13a918eb4cae93c23990494",
+      "max_combo": 518
+   },
+   {
+      "difficulty": 2,
+      "song_id": "impurebird",
+      "rating": 9.4,
+      "song_hash": "0df84bf65e51c4382a8a5dd956175ac2",
+      "max_combo": 805
+   },
+   {
+      "difficulty": 0,
+      "song_id": "infinityheaven",
+      "rating": 1.5,
+      "song_hash": "74f911fb65cc2249db8909a89340584d",
+      "max_combo": 336
+   },
+   {
+      "difficulty": 1,
+      "song_id": "infinityheaven",
+      "rating": 5.5,
+      "song_hash": "7faa6dc7efd5158380651d811cd95a0a",
+      "max_combo": 545
+   },
+   {
+      "difficulty": 2,
+      "song_id": "infinityheaven",
+      "rating": 7.5,
+      "song_hash": "258487f844a212682716f022fc06a620",
+      "max_combo": 853
+   },
+   {
+      "difficulty": 3,
+      "song_id": "infinityheaven",
+      "rating": 9.6,
+      "song_hash": "ffcb171d8157c6c80993bc7408d80c0b",
+      "max_combo": 986
+   },
+   {
+      "difficulty": 0,
+      "song_id": "inkarusi",
+      "rating": 2.0,
+      "song_hash": "6518644b61f2dac7ccbf4083039b09a9",
+      "max_combo": 276
+   },
+   {
+      "difficulty": 1,
+      "song_id": "inkarusi",
+      "rating": 4.0,
+      "song_hash": "361230684ca65691594164388c7978a1",
+      "max_combo": 326
+   },
+   {
+      "difficulty": 2,
+      "song_id": "inkarusi",
+      "rating": 7.5,
+      "song_hash": "605663acbe6dfb3c2fc9d59c141920b5",
+      "max_combo": 463
+   },
+   {
+      "difficulty": 0,
+      "song_id": "izana",
+      "rating": 5.0,
+      "song_hash": "fa907da0852b1801de370204eaa6d9f2",
+      "max_combo": 609
+   },
+   {
+      "difficulty": 1,
+      "song_id": "izana",
+      "rating": 8.3,
+      "song_hash": "1751b007ccb42897a132c181586b128e",
+      "max_combo": 836
+   },
+   {
+      "difficulty": 2,
+      "song_id": "izana",
+      "rating": 10.2,
+      "song_hash": "cc3e7eaa75824b7f0ae9d6c1fb521b5a",
+      "max_combo": 976
+   },
+   {
+      "difficulty": 0,
+      "song_id": "journey",
+      "rating": 3.0,
+      "song_hash": "cc19907dc30cf60e8cb1d796d553a9cb",
+      "max_combo": 551
+   },
+   {
+      "difficulty": 1,
+      "song_id": "journey",
+      "rating": 6.0,
+      "song_hash": "c07e108bfc0c231721aed8624910b495",
+      "max_combo": 778
+   },
+   {
+      "difficulty": 2,
+      "song_id": "journey",
+      "rating": 8.6,
+      "song_hash": "e24bfa4ef06e1cf341b5f69b8a459999",
+      "max_combo": 997
+   },
+   {
+      "difficulty": 0,
+      "song_id": "jump",
+      "rating": 4.0,
+      "song_hash": "a38adfb569464800316511b5a9e93401",
+      "max_combo": 531
+   },
+   {
+      "difficulty": 1,
+      "song_id": "jump",
+      "rating": 6.0,
+      "song_hash": "c5507f02bdc3345dbe42d472f22fa16d",
+      "max_combo": 622
+   },
+   {
+      "difficulty": 2,
+      "song_id": "jump",
+      "rating": 9.0,
+      "song_hash": "6eded96250303c86341c1da2ba0aa505",
+      "max_combo": 841
+   },
+   {
+      "difficulty": 0,
+      "song_id": "kanagawa",
+      "rating": 1.0,
+      "song_hash": "a04ab178e42007898de36335428b62bf",
+      "max_combo": 375
+   },
+   {
+      "difficulty": 1,
+      "song_id": "kanagawa",
+      "rating": 5.5,
+      "song_hash": "114b153317889f3611c9353f1bdb17ee",
+      "max_combo": 707
+   },
+   {
+      "difficulty": 2,
+      "song_id": "kanagawa",
+      "rating": 9.0,
+      "song_hash": "abde5b9e03682b25760105607c276a58",
+      "max_combo": 1111
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lapis",
+      "rating": 2.0,
+      "song_hash": "8ea8fe5fb796756c062ef0ae565c6381",
+      "max_combo": 391
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lapis",
+      "rating": 6.0,
+      "song_hash": "b905ebf2343b3d7a678280a100273ad6",
+      "max_combo": 520
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lapis",
+      "rating": 9.4,
+      "song_hash": "d1be4c7b70b73f444328dbd22572867e",
+      "max_combo": 920
+   },
+   {
+      "difficulty": 0,
+      "song_id": "laqryma",
+      "rating": 3.5,
+      "song_hash": "78aa3b74aee25c29af78117437760ec3",
+      "max_combo": 447
+   },
+   {
+      "difficulty": 1,
+      "song_id": "laqryma",
+      "rating": 6.5,
+      "song_hash": "a605b1d3d110a07f34da5e149c562d4c",
+      "max_combo": 651
+   },
+   {
+      "difficulty": 2,
+      "song_id": "laqryma",
+      "rating": 9.1,
+      "song_hash": "c3a060de410fd57f90912fed9e2c1ab2",
+      "max_combo": 956
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lastcelebration",
+      "rating": 3.5,
+      "song_hash": "0e982230ef222fade7fe26f832e42b45",
+      "max_combo": 969
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lastcelebration",
+      "rating": 6.5,
+      "song_hash": "54eb76dce2682bfe264e61e62dc6d4c0",
+      "max_combo": 994
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lastcelebration",
+      "rating": 10.5,
+      "song_hash": "b2445c2eddf37efed5c765b67d41b6d8",
+      "max_combo": 1475
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lazyaddiction",
+      "rating": 2.5,
+      "song_hash": "156dd200a8fa44c0824bf0799e4e4005",
+      "max_combo": 462
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lazyaddiction",
+      "rating": 6.0,
+      "song_hash": "7d318318cda603b1601e5bcc007c41ab",
+      "max_combo": 647
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lazyaddiction",
+      "rating": 9.4,
+      "song_hash": "3e3d4dabd2857824e1119bf84177177a",
+      "max_combo": 1031
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lethaeus",
+      "rating": 3.5,
+      "song_hash": "f8c51b1fefeebdd756f6a6f4ea023833",
+      "max_combo": 480
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lethaeus",
+      "rating": 6.5,
+      "song_hash": "b5ac69c77ad02154bd2d0fe7d2cebb72",
+      "max_combo": 717
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lethaeus",
+      "rating": 9.7,
+      "song_hash": "f8b5266308549fffcc436376053b54ca",
+      "max_combo": 900
+   },
+   {
+      "difficulty": 0,
+      "song_id": "libertas",
+      "rating": 3.5,
+      "song_hash": "9be7e83bc41f1f62ccab42a8668aafd9",
+      "max_combo": 476
+   },
+   {
+      "difficulty": 1,
+      "song_id": "libertas",
+      "rating": 5.5,
+      "song_hash": "9ed8eb410c49d15eac94016cb0aa5bbb",
+      "max_combo": 514
+   },
+   {
+      "difficulty": 2,
+      "song_id": "libertas",
+      "rating": 9.2,
+      "song_hash": "94d94f660a38a35f825a920ad83fd39c",
+      "max_combo": 947
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lightningscrew",
+      "rating": 4.5,
+      "song_hash": "3d5fd05a0c29e971fe21f357e76824a8",
+      "max_combo": 611
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lightningscrew",
+      "rating": 7.5,
+      "song_hash": "f9f3bb869abba92988281b5ac8dffdcb",
+      "max_combo": 811
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lightningscrew",
+      "rating": 10.5,
+      "song_hash": "2e92cd3074d5ef04bff1668ab44f48c0",
+      "max_combo": 1192
+   },
+   {
+      "difficulty": 0,
+      "song_id": "linearaccelerator",
+      "rating": 2.5,
+      "song_hash": "a17d33d8d03aabe034b38550240f90a5",
+      "max_combo": 438
+   },
+   {
+      "difficulty": 1,
+      "song_id": "linearaccelerator",
+      "rating": 6.5,
+      "song_hash": "36e82398d158697557ea153736519ace",
+      "max_combo": 488
+   },
+   {
+      "difficulty": 2,
+      "song_id": "linearaccelerator",
+      "rating": 9.8,
+      "song_hash": "8b6aff1b4b289bca9cf36c0848f1f972",
+      "max_combo": 905
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lostcivilization",
+      "rating": 4.0,
+      "song_hash": "e573a3df7b5e4dde138afc4e80062a4b",
+      "max_combo": 462
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lostcivilization",
+      "rating": 7.0,
+      "song_hash": "efc592e5a864c4e2e2888c1c51bb1399",
+      "max_combo": 690
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lostcivilization",
+      "rating": 9.2,
+      "song_hash": "011092f95b51fcf48892e6e83492fb9c",
+      "max_combo": 986
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lostdesire",
+      "rating": 4.0,
+      "song_hash": "d6ee1cdf7fce67c5659761479ce3d586",
+      "max_combo": 684
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lostdesire",
+      "rating": 7.5,
+      "song_hash": "b77f48abf34087ca59d0348d19d3f024",
+      "max_combo": 871
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lostdesire",
+      "rating": 9.8,
+      "song_hash": "09d1d7fbf3ee3dd8126179e432f0a9ed",
+      "max_combo": 1154
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lucifer",
+      "rating": 3.5,
+      "song_hash": "530755d099c50252d27bc29c3d84da2f",
+      "max_combo": 424
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lucifer",
+      "rating": 5.5,
+      "song_hash": "a590796018253e94e2988fa60cc5fc73",
+      "max_combo": 506
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lucifer",
+      "rating": 8.2,
+      "song_hash": "0dce6092a4da76bd390e9ee905589121",
+      "max_combo": 861
+   },
+   {
+      "difficulty": 0,
+      "song_id": "lumia",
+      "rating": 2.5,
+      "song_hash": "c7aef3a73a56a8fa89c3ee47ed34b5fe",
+      "max_combo": 469
+   },
+   {
+      "difficulty": 1,
+      "song_id": "lumia",
+      "rating": 5.5,
+      "song_hash": "fa2a0111d7f9a3d623d0e46271f214cf",
+      "max_combo": 438
+   },
+   {
+      "difficulty": 2,
+      "song_id": "lumia",
+      "rating": 8.4,
+      "song_hash": "c804d9d415870e401468a394fb89fffa",
+      "max_combo": 961
+   },
+   {
+      "difficulty": 3,
+      "song_id": "lumia",
+      "rating": 9.5,
+      "song_hash": "2a977a099a04c05e4927d1b33aa90c31",
+      "max_combo": 814
+   },
+   {
+      "difficulty": 0,
+      "song_id": "mahoroba",
+      "rating": 3.0,
+      "song_hash": "60aebe7efcb80a58d0fa4eb3fcc84f69",
+      "max_combo": 422
+   },
+   {
+      "difficulty": 1,
+      "song_id": "mahoroba",
+      "rating": 6.5,
+      "song_hash": "6524e17c45568f4a6d67d02dd7dbdd41",
+      "max_combo": 632
+   },
+   {
+      "difficulty": 2,
+      "song_id": "mahoroba",
+      "rating": 9.5,
+      "song_hash": "de96c21d2a1fae447688eb7d4b6eead9",
+      "max_combo": 828
+   },
+   {
+      "difficulty": 0,
+      "song_id": "maliciousmischance",
+      "rating": 4.0,
+      "song_hash": "994eda84d895d934129c3ec9ed739569",
+      "max_combo": 510
+   },
+   {
+      "difficulty": 1,
+      "song_id": "maliciousmischance",
+      "rating": 7.5,
+      "song_hash": "8092376f86d1e72a27ff0b2b39a5fe46",
+      "max_combo": 706
+   },
+   {
+      "difficulty": 2,
+      "song_id": "maliciousmischance",
+      "rating": 10.1,
+      "song_hash": "ba739b9ce9ceea9c564d076792f47275",
+      "max_combo": 1126
+   },
+   {
+      "difficulty": 0,
+      "song_id": "mazenine",
+      "rating": 3.0,
+      "song_hash": "18905b584c81066e322991e3bbec00e2",
+      "max_combo": 494
+   },
+   {
+      "difficulty": 1,
+      "song_id": "mazenine",
+      "rating": 3.5,
+      "song_hash": "8a656601245fa4fa05b76d52da95d558",
+      "max_combo": 445
+   },
+   {
+      "difficulty": 2,
+      "song_id": "mazenine",
+      "rating": 8.9,
+      "song_hash": "39fb1de031da29af505857c3c9d00d4d",
+      "max_combo": 775
+   },
+   {
+      "difficulty": 0,
+      "song_id": "melodyoflove",
+      "rating": 3.5,
+      "song_hash": "38d1fe061a2fec903eab38d52a050b95",
+      "max_combo": 422
+   },
+   {
+      "difficulty": 1,
+      "song_id": "melodyoflove",
+      "rating": 7.5,
+      "song_hash": "27ae64b7fe349e86b7aee2f8dbac12d6",
+      "max_combo": 670
+   },
+   {
+      "difficulty": 2,
+      "song_id": "melodyoflove",
+      "rating": 9.7,
+      "song_hash": "26f74697a124426fa8283d27572c0fa0",
+      "max_combo": 931
+   },
+   {
+      "difficulty": 0,
+      "song_id": "memoryfactory",
+      "rating": 2.5,
+      "song_hash": "9f9cb059f118269ccc36f128d127e953",
+      "max_combo": 308
+   },
+   {
+      "difficulty": 1,
+      "song_id": "memoryfactory",
+      "rating": 5.5,
+      "song_hash": "c7f1432ca849da46a8c555c33f9269e0",
+      "max_combo": 448
+   },
+   {
+      "difficulty": 2,
+      "song_id": "memoryfactory",
+      "rating": 8.9,
+      "song_hash": "b6d6a46145e4d0264953d53141e3482c",
+      "max_combo": 672
+   },
+   {
+      "difficulty": 0,
+      "song_id": "memoryforest",
+      "rating": 3.5,
+      "song_hash": "0417d9b349f6062ce437c10ba3ace4b4",
+      "max_combo": 639
+   },
+   {
+      "difficulty": 1,
+      "song_id": "memoryforest",
+      "rating": 6.0,
+      "song_hash": "3f244a815b73981b0d4e1790d045d4eb",
+      "max_combo": 726
+   },
+   {
+      "difficulty": 2,
+      "song_id": "memoryforest",
+      "rating": 9.8,
+      "song_hash": "5e5b6be69c02b6eaef6127e28ef5f695",
+      "max_combo": 978
+   },
+   {
+      "difficulty": 0,
+      "song_id": "merlin",
+      "rating": 3.0,
+      "song_hash": "b739e16af3e4560faa29adcd1d147b3a",
+      "max_combo": 315
+   },
+   {
+      "difficulty": 1,
+      "song_id": "merlin",
+      "rating": 5.5,
+      "song_hash": "818285c7911faf73d0221e8bcbc7ea9c",
+      "max_combo": 428
+   },
+   {
+      "difficulty": 2,
+      "song_id": "merlin",
+      "rating": 8.9,
+      "song_hash": "a1c1ab7a5e0a7b140b054a3893238b11",
+      "max_combo": 712
+   },
+   {
+      "difficulty": 0,
+      "song_id": "metallicpunisher",
+      "rating": 3.0,
+      "song_hash": "0b8ebdc94ff27dac4bd6388fc487507a",
+      "max_combo": 500
+   },
+   {
+      "difficulty": 1,
+      "song_id": "metallicpunisher",
+      "rating": 7.0,
+      "song_hash": "1b8633da98f5e440566b51ee07c1c1e4",
+      "max_combo": 846
+   },
+   {
+      "difficulty": 2,
+      "song_id": "metallicpunisher",
+      "rating": 10.2,
+      "song_hash": "49fe28644560ff4be61c42d851531211",
+      "max_combo": 1238
+   },
+   {
+      "difficulty": 0,
+      "song_id": "mirzam",
+      "rating": 4.0,
+      "song_hash": "fdf99cc40f40f5aa946214a82d548023",
+      "max_combo": 662
+   },
+   {
+      "difficulty": 1,
+      "song_id": "mirzam",
+      "rating": 7.0,
+      "song_hash": "a80c138b247a54e9ecaf52f5888e8579",
+      "max_combo": 885
+   },
+   {
+      "difficulty": 2,
+      "song_id": "mirzam",
+      "rating": 10.0,
+      "song_hash": "6415347b6b82643ee7cf1d88409b1b83",
+      "max_combo": 1303
+   },
+   {
+      "difficulty": 0,
+      "song_id": "modelista",
+      "rating": 3.5,
+      "song_hash": "c3736a7583b660ccb5a17210b7d324cb",
+      "max_combo": 418
+   },
+   {
+      "difficulty": 1,
+      "song_id": "modelista",
+      "rating": 7.5,
+      "song_hash": "3f12d6a774ef8a3b943cd13d4b4c7cc5",
+      "max_combo": 691
+   },
+   {
+      "difficulty": 2,
+      "song_id": "modelista",
+      "rating": 10.0,
+      "song_hash": "02ce3f306547d72a44c77829f36d461a",
+      "max_combo": 1010
+   },
+   {
+      "difficulty": 0,
+      "song_id": "monochromeprincess",
+      "rating": 4.5,
+      "song_hash": "442ea42ee0271a8253fd7a2042cdccac",
+      "max_combo": 621
+   },
+   {
+      "difficulty": 1,
+      "song_id": "monochromeprincess",
+      "rating": 7.5,
+      "song_hash": "a542de586198f306419e858412c20bd0",
+      "max_combo": 756
+   },
+   {
+      "difficulty": 2,
+      "song_id": "monochromeprincess",
+      "rating": 9.6,
+      "song_hash": "071c80348cdd626297482f8c2f39ac50",
+      "max_combo": 974
+   },
+   {
+      "difficulty": 0,
+      "song_id": "moonheart",
+      "rating": 2.5,
+      "song_hash": "30158faf1c8b1e86ec82e30bbd841ae1",
+      "max_combo": 449
+   },
+   {
+      "difficulty": 1,
+      "song_id": "moonheart",
+      "rating": 5.5,
+      "song_hash": "b95ccd3701a471954a51126c42136d11",
+      "max_combo": 566
+   },
+   {
+      "difficulty": 2,
+      "song_id": "moonheart",
+      "rating": 8.4,
+      "song_hash": "61931777e80cc8169e8202e7a50c94d6",
+      "max_combo": 947
+   },
+   {
+      "difficulty": 3,
+      "song_id": "moonheart",
+      "rating": 9.6,
+      "song_hash": "c599ff6c2cdbe857e89670a55d16eef0",
+      "max_combo": 1139
+   },
+   {
+      "difficulty": 0,
+      "song_id": "moonlightofsandcastle",
+      "rating": 1.5,
+      "song_hash": "491e7db73d7c65db7a19b9aff6151ecc",
+      "max_combo": 418
+   },
+   {
+      "difficulty": 1,
+      "song_id": "moonlightofsandcastle",
+      "rating": 5.0,
+      "song_hash": "17602fbb77803a6af9086468fb6cb924",
+      "max_combo": 394
+   },
+   {
+      "difficulty": 2,
+      "song_id": "moonlightofsandcastle",
+      "rating": 7.5,
+      "song_hash": "7fbcd4c66599f407ab3821f5c6390f1c",
+      "max_combo": 645
+   },
+   {
+      "difficulty": 0,
+      "song_id": "neokosmo",
+      "rating": 4.0,
+      "song_hash": "ac8308a0f8ed2252db49eefd144ee0fc",
+      "max_combo": 603
+   },
+   {
+      "difficulty": 1,
+      "song_id": "neokosmo",
+      "rating": 7.5,
+      "song_hash": "43e6550f8500a334880dd249c1c609e8",
+      "max_combo": 791
+   },
+   {
+      "difficulty": 2,
+      "song_id": "neokosmo",
+      "rating": 9.7,
+      "song_hash": "14210415fb84db9f7b0ed214841513c4",
+      "max_combo": 979
+   },
+   {
+      "difficulty": 0,
+      "song_id": "nexttoyou",
+      "rating": 4.5,
+      "song_hash": "d54a1acac6e8d934e68f42d3a70a6d39",
+      "max_combo": 454
+   },
+   {
+      "difficulty": 1,
+      "song_id": "nexttoyou",
+      "rating": 7.0,
+      "song_hash": "7d1e0be0c3e5b6ad8da9a6db15ffb991",
+      "max_combo": 583
+   },
+   {
+      "difficulty": 2,
+      "song_id": "nexttoyou",
+      "rating": 8.8,
+      "song_hash": "3d8287acce91cb88c7c418ac65086a53",
+      "max_combo": 824
+   },
+   {
+      "difficulty": 0,
+      "song_id": "nhelv",
+      "rating": 3.0,
+      "song_hash": "2dbc04fe4f567f1ba8aab03aa79fc25c",
+      "max_combo": 647
+   },
+   {
+      "difficulty": 1,
+      "song_id": "nhelv",
+      "rating": 6.5,
+      "song_hash": "2dc74f6746a7a2ce67b73eb81227b47e",
+      "max_combo": 913
+   },
+   {
+      "difficulty": 2,
+      "song_id": "nhelv",
+      "rating": 9.9,
+      "song_hash": "7fb05d6c14e8a9e09a12f196ad5873af",
+      "max_combo": 1108
+   },
+   {
+      "difficulty": 0,
+      "song_id": "nirvluce",
+      "rating": 2.5,
+      "song_hash": "c9c748f3eb855375963ea7a996f29e33",
+      "max_combo": 297
+   },
+   {
+      "difficulty": 1,
+      "song_id": "nirvluce",
+      "rating": 7.0,
+      "song_hash": "12b4421b5931cc518ce7df472f8abdef",
+      "max_combo": 547
+   },
+   {
+      "difficulty": 2,
+      "song_id": "nirvluce",
+      "rating": 10.3,
+      "song_hash": "ae50915c25b6250f4b05505ef8e607a9",
+      "max_combo": 980
+   },
+   {
+      "difficulty": 0,
+      "song_id": "oblivia",
+      "rating": 3.5,
+      "song_hash": "4bc28a0d4f6a41fc18b3b7eb9b3fe00c",
+      "max_combo": 574
+   },
+   {
+      "difficulty": 1,
+      "song_id": "oblivia",
+      "rating": 5.0,
+      "song_hash": "25f1539a4a3bf1b0121418b9f343701b",
+      "max_combo": 517
+   },
+   {
+      "difficulty": 2,
+      "song_id": "oblivia",
+      "rating": 8.3,
+      "song_hash": "931898f0a7e6907f474bf187f1af0757",
+      "max_combo": 956
+   },
+   {
+      "difficulty": 0,
+      "song_id": "omakeno",
+      "rating": 3.0,
+      "song_hash": "ddca85071789a7089275523835397436",
+      "max_combo": 502
+   },
+   {
+      "difficulty": 1,
+      "song_id": "omakeno",
+      "rating": 6.5,
+      "song_hash": "c570485fc61527ef2bfca6da9c698755",
+      "max_combo": 616
+   },
+   {
+      "difficulty": 2,
+      "song_id": "omakeno",
+      "rating": 9.5,
+      "song_hash": "df16b809dbd17430e4357f994a440d35",
+      "max_combo": 869
+   },
+   {
+      "difficulty": 0,
+      "song_id": "omegafour",
+      "rating": 3.5,
+      "song_hash": "d122df5aae67bc21e4352f4c04721aed",
+      "max_combo": 816
+   },
+   {
+      "difficulty": 1,
+      "song_id": "omegafour",
+      "rating": 7.5,
+      "song_hash": "b3c1136f8e56bbe5a19c38df53cbb590",
+      "max_combo": 943
+   },
+   {
+      "difficulty": 2,
+      "song_id": "omegafour",
+      "rating": 10.8,
+      "song_hash": "fb25bf96fbd75cbe022305fe7528a230",
+      "max_combo": 1393
+   },
+   {
+      "difficulty": 0,
+      "song_id": "onefr",
+      "rating": 2.5,
+      "song_hash": "d955c5e93ce8893b77eb52f2bf6df8c7",
+      "max_combo": 411
+   },
+   {
+      "difficulty": 1,
+      "song_id": "onefr",
+      "rating": 6.5,
+      "song_hash": "b54602e5ada2b94747be9a5dd867c161",
+      "max_combo": 539
+   },
+   {
+      "difficulty": 2,
+      "song_id": "onefr",
+      "rating": 8.2,
+      "song_hash": "099e2367fd7583197f6bcbb9d8943ba8",
+      "max_combo": 758
+   },
+   {
+      "difficulty": 0,
+      "song_id": "onelastdrive",
+      "rating": 2.5,
+      "song_hash": "4f470f5e8959b86d548e9b5bca4b5229",
+      "max_combo": 604
+   },
+   {
+      "difficulty": 1,
+      "song_id": "onelastdrive",
+      "rating": 5.5,
+      "song_hash": "04e0db41dfc01f0169d516325f996500",
+      "max_combo": 564
+   },
+   {
+      "difficulty": 2,
+      "song_id": "onelastdrive",
+      "rating": 8.2,
+      "song_hash": "6f8d820b980312d9a223ade0d52e4138",
+      "max_combo": 885
+   },
+   {
+      "difficulty": 0,
+      "song_id": "oracle",
+      "rating": 3.0,
+      "song_hash": "3fcbea2a9519763655cc0714de3445d4",
+      "max_combo": 425
+   },
+   {
+      "difficulty": 1,
+      "song_id": "oracle",
+      "rating": 5.5,
+      "song_hash": "0a5e778f65501a129b4bdd1eb17d6a42",
+      "max_combo": 508
+   },
+   {
+      "difficulty": 2,
+      "song_id": "oracle",
+      "rating": 9.3,
+      "song_hash": "39191a7793824364684c0b6bfc6655a6",
+      "max_combo": 963
+   },
+   {
+      "difficulty": 0,
+      "song_id": "oshamascramble",
+      "rating": 3.5,
+      "song_hash": "e09020a42ece4fd6e04ec8bc266d2fbe",
+      "max_combo": 508
+   },
+   {
+      "difficulty": 1,
+      "song_id": "oshamascramble",
+      "rating": 6.5,
+      "song_hash": "1f41d5f97ff4c84330a129e9f9a10019",
+      "max_combo": 568
+   },
+   {
+      "difficulty": 2,
+      "song_id": "oshamascramble",
+      "rating": 10.0,
+      "song_hash": "3d8eda0ea5b05754db92431694c1f2f6",
+      "max_combo": 1073
+   },
+   {
+      "difficulty": 0,
+      "song_id": "ouroboros",
+      "rating": 4.5,
+      "song_hash": "fe2588d8a06781dc62a0bbdf4566bfb4",
+      "max_combo": 575
+   },
+   {
+      "difficulty": 1,
+      "song_id": "ouroboros",
+      "rating": 7.0,
+      "song_hash": "0926e7a3a2e6826d184ae390e5ef32c1",
+      "max_combo": 832
+   },
+   {
+      "difficulty": 2,
+      "song_id": "ouroboros",
+      "rating": 10.7,
+      "song_hash": "4e46831fcb49eaac5d19960466c9cb9f",
+      "max_combo": 1369
+   },
+   {
+      "difficulty": 0,
+      "song_id": "paradise",
+      "rating": 1.0,
+      "song_hash": "3d706d53ea989fa69a020d4ff304d147",
+      "max_combo": 253
+   },
+   {
+      "difficulty": 1,
+      "song_id": "paradise",
+      "rating": 4.0,
+      "song_hash": "5ffb2d6357baabb3d9f3ce466d895023",
+      "max_combo": 349
+   },
+   {
+      "difficulty": 2,
+      "song_id": "paradise",
+      "rating": 7.5,
+      "song_hash": "a4bc7cd9762bf85d6f6267bf70cdf6f7",
+      "max_combo": 729
+   },
+   {
+      "difficulty": 0,
+      "song_id": "particlearts",
+      "rating": 3.5,
+      "song_hash": "610ff789bb4eb6456a76009a93be096d",
+      "max_combo": 529
+   },
+   {
+      "difficulty": 1,
+      "song_id": "particlearts",
+      "rating": 6.0,
+      "song_hash": "6f9778bc40922d223a70863142a95f50",
+      "max_combo": 637
+   },
+   {
+      "difficulty": 2,
+      "song_id": "particlearts",
+      "rating": 8.8,
+      "song_hash": "0c70abafc64cc8cdd5b70796b8a00588",
+      "max_combo": 925
+   },
+   {
+      "difficulty": 0,
+      "song_id": "partyvinyl",
+      "rating": 4.0,
+      "song_hash": "68aa6a49de9b1e102c99582bf74431f8",
+      "max_combo": 337
+   },
+   {
+      "difficulty": 1,
+      "song_id": "partyvinyl",
+      "rating": 7.5,
+      "song_hash": "15ffaf10c4be4814d80bbf6896006909",
+      "max_combo": 543
+   },
+   {
+      "difficulty": 2,
+      "song_id": "partyvinyl",
+      "rating": 9.5,
+      "song_hash": "150f20ad00ae154be97195210af00637",
+      "max_combo": 800
+   },
+   {
+      "difficulty": 0,
+      "song_id": "phantasia",
+      "rating": 4.0,
+      "song_hash": "7b0aa0ecb239a46cb5c9e1467adef1bb",
+      "max_combo": 544
+   },
+   {
+      "difficulty": 1,
+      "song_id": "phantasia",
+      "rating": 5.5,
+      "song_hash": "b43842cdafd90ad9da7e23ce748eca44",
+      "max_combo": 579
+   },
+   {
+      "difficulty": 2,
+      "song_id": "phantasia",
+      "rating": 9.2,
+      "song_hash": "eff54188852cf748eb19656ae2583087",
+      "max_combo": 952
+   },
+   {
+      "difficulty": 0,
+      "song_id": "pragmatism",
+      "rating": 4.5,
+      "song_hash": "31c0bb80c64d8608d3a2cb15c8e53018",
+      "max_combo": 476
+   },
+   {
+      "difficulty": 1,
+      "song_id": "pragmatism",
+      "rating": 8.6,
+      "song_hash": "6cd47000e30caef5ce38c5b12b0d330c",
+      "max_combo": 855
+   },
+   {
+      "difficulty": 2,
+      "song_id": "pragmatism",
+      "rating": 10.1,
+      "song_hash": "2a26bdc4c1a83d5fff641bd1637dcfb4",
+      "max_combo": 942
+   },
+   {
+      "difficulty": 0,
+      "song_id": "purgatorium",
+      "rating": 2.5,
+      "song_hash": "9b59c065a7642eaf5e38614c708b5d60",
+      "max_combo": 609
+   },
+   {
+      "difficulty": 1,
+      "song_id": "purgatorium",
+      "rating": 6.0,
+      "song_hash": "0449203996e5013b17414782f177bd1f",
+      "max_combo": 641
+   },
+   {
+      "difficulty": 2,
+      "song_id": "purgatorium",
+      "rating": 8.4,
+      "song_hash": "a701b4a1f195e2110e16ae99d7d41054",
+      "max_combo": 983
+   },
+   {
+      "difficulty": 3,
+      "song_id": "purgatorium",
+      "rating": 9.6,
+      "song_hash": "5ab272ff497f0a60b85085fd44bf464e",
+      "max_combo": 1051
+   },
+   {
+      "difficulty": 0,
+      "song_id": "purpleverse",
+      "rating": 4.0,
+      "song_hash": "56aca3e20e48de7a36bcd5acfdaf29ea",
+      "max_combo": 558
+   },
+   {
+      "difficulty": 1,
+      "song_id": "purpleverse",
+      "rating": 7.0,
+      "song_hash": "997c40c9e899e1bacee0c5af5804e35e",
+      "max_combo": 664
+   },
+   {
+      "difficulty": 2,
+      "song_id": "purpleverse",
+      "rating": 9.5,
+      "song_hash": "f1826658e3d0308d9d79fcc127ac9ddd",
+      "max_combo": 1023
+   },
+   {
+      "difficulty": 0,
+      "song_id": "qualia",
+      "rating": 4.5,
+      "song_hash": "140bb7fcf7bd8691cb0d47f08760cd95",
+      "max_combo": 550
+   },
+   {
+      "difficulty": 1,
+      "song_id": "qualia",
+      "rating": 7.0,
+      "song_hash": "881b7c724f6877daca599cf60ffbf6bd",
+      "max_combo": 875
+   },
+   {
+      "difficulty": 2,
+      "song_id": "qualia",
+      "rating": 9.1,
+      "song_hash": "969f0b3adf72b3a5324eb4058b3c1d40",
+      "max_combo": 1022
+   },
+   {
+      "difficulty": 0,
+      "song_id": "quon",
+      "rating": 4.0,
+      "song_hash": "9b375408d78544f4a5fcd167a94761e0",
+      "max_combo": 547
+   },
+   {
+      "difficulty": 1,
+      "song_id": "quon",
+      "rating": 6.5,
+      "song_hash": "4e9b4907aa28e09e866cdd75b84627ce",
+      "max_combo": 718
+   },
+   {
+      "difficulty": 2,
+      "song_id": "quon",
+      "rating": 9.7,
+      "song_hash": "de3a232a8db38e8099afde174a788cdf",
+      "max_combo": 991
+   },
+   {
+      "difficulty": 0,
+      "song_id": "rabbitintheblackroom",
+      "rating": 2.5,
+      "song_hash": "cc5b422ccf40fada725fa08fe9cf80b8",
+      "max_combo": 373
+   },
+   {
+      "difficulty": 1,
+      "song_id": "rabbitintheblackroom",
+      "rating": 5.5,
+      "song_hash": "2eeff3f9f289dca640f957c8ce4d5105",
+      "max_combo": 467
+   },
+   {
+      "difficulty": 2,
+      "song_id": "rabbitintheblackroom",
+      "rating": 8.4,
+      "song_hash": "27e0e339705740f7f5be2c3d3ab73c3e",
+      "max_combo": 772
+   },
+   {
+      "difficulty": 0,
+      "song_id": "reconstruction",
+      "rating": 2.5,
+      "song_hash": "c2502bada2903328ad89d4b4c441b132",
+      "max_combo": 347
+   },
+   {
+      "difficulty": 1,
+      "song_id": "reconstruction",
+      "rating": 6.0,
+      "song_hash": "0ed868a11696a4d381c67d5579e769cb",
+      "max_combo": 469
+   },
+   {
+      "difficulty": 2,
+      "song_id": "reconstruction",
+      "rating": 8.4,
+      "song_hash": "73ed184f0a0a56d4c3194b0598a913fe",
+      "max_combo": 825
+   },
+   {
+      "difficulty": 0,
+      "song_id": "redandblue",
+      "rating": 4.0,
+      "song_hash": "c9f1210476c3c689827f978b9b0223e9",
+      "max_combo": 464
+   },
+   {
+      "difficulty": 1,
+      "song_id": "redandblue",
+      "rating": 7.5,
+      "song_hash": "72437c95a1dd82d3882919e956705fb8",
+      "max_combo": 597
+   },
+   {
+      "difficulty": 2,
+      "song_id": "redandblue",
+      "rating": 9.4,
+      "song_hash": "218c6bd3fec609cc011820a2b8394a82",
+      "max_combo": 845
+   },
+   {
+      "difficulty": 2,
+      "song_id": "redandblueandgreen",
+      "rating": 0.0,
+      "song_hash": "a8b52d7f40a7415403e6ac126dafa748",
+      "max_combo": 1508
+   },
+   {
+      "difficulty": 0,
+      "song_id": "reinvent",
+      "rating": 2.5,
+      "song_hash": "b86285299ef23404c83f8101f4da6058",
+      "max_combo": 570
+   },
+   {
+      "difficulty": 1,
+      "song_id": "reinvent",
+      "rating": 6.5,
+      "song_hash": "a40c98bff6e148a71274c4b05addca7f",
+      "max_combo": 703
+   },
+   {
+      "difficulty": 2,
+      "song_id": "reinvent",
+      "rating": 8.5,
+      "song_hash": "c311b642e0c4f484650903377df4627a",
+      "max_combo": 852
+   },
+   {
+      "difficulty": 0,
+      "song_id": "relentless",
+      "rating": 4.5,
+      "song_hash": "e5119aa813da5aed3525486051abb993",
+      "max_combo": 607
+   },
+   {
+      "difficulty": 1,
+      "song_id": "relentless",
+      "rating": 6.5,
+      "song_hash": "6a57b52e5df36ce89d208beed1771788",
+      "max_combo": 722
+   },
+   {
+      "difficulty": 2,
+      "song_id": "relentless",
+      "rating": 8.0,
+      "song_hash": "721b3e9c356e226f93c93bc4acb0746d",
+      "max_combo": 1015
+   },
+   {
+      "difficulty": 0,
+      "song_id": "revixy",
+      "rating": 3.0,
+      "song_hash": "ffe669908f2e3faeae50161045c6e175",
+      "max_combo": 538
+   },
+   {
+      "difficulty": 1,
+      "song_id": "revixy",
+      "rating": 6.0,
+      "song_hash": "aab990f9579eae6ea37b8aa897822666",
+      "max_combo": 729
+   },
+   {
+      "difficulty": 2,
+      "song_id": "revixy",
+      "rating": 9.0,
+      "song_hash": "6bf347cece26d3b97e09ba98d71884b9",
+      "max_combo": 1047
+   },
+   {
+      "difficulty": 0,
+      "song_id": "ringedgenesis",
+      "rating": 5.5,
+      "song_hash": "1f6efd52ecde7da80895c27c78129f17",
+      "max_combo": 672
+   },
+   {
+      "difficulty": 1,
+      "song_id": "ringedgenesis",
+      "rating": 8.4,
+      "song_hash": "908763096835d710a21528eafb6de3d4",
+      "max_combo": 860
+   },
+   {
+      "difficulty": 2,
+      "song_id": "ringedgenesis",
+      "rating": 10.8,
+      "song_hash": "f2e9cf97662e4f6e139b1967c2da7877",
+      "max_combo": 1146
+   },
+   {
+      "difficulty": 0,
+      "song_id": "rise",
+      "rating": 2.5,
+      "song_hash": "108dd3c500e810d9c96e4101b66b0dac",
+      "max_combo": 322
+   },
+   {
+      "difficulty": 1,
+      "song_id": "rise",
+      "rating": 4.0,
+      "song_hash": "6b2c30117b66d7391d47ab41613eba84",
+      "max_combo": 599
+   },
+   {
+      "difficulty": 2,
+      "song_id": "rise",
+      "rating": 7.5,
+      "song_hash": "10d509bc00c59a0c480fda2474bf1197",
+      "max_combo": 788
+   },
+   {
+      "difficulty": 0,
+      "song_id": "romancewars",
+      "rating": 1.0,
+      "song_hash": "65169585fce174c28c1b931045461729",
+      "max_combo": 423
+   },
+   {
+      "difficulty": 1,
+      "song_id": "romancewars",
+      "rating": 4.0,
+      "song_hash": "812807d143ba1c1382bd2b3437d622b5",
+      "max_combo": 378
+   },
+   {
+      "difficulty": 2,
+      "song_id": "romancewars",
+      "rating": 7.5,
+      "song_hash": "595ed52de8590f55dbf712b8e3305c4d",
+      "max_combo": 641
+   },
+   {
+      "difficulty": 0,
+      "song_id": "rugie",
+      "rating": 3.0,
+      "song_hash": "5d60e6f1437308967bdefb0e1f2ceeee",
+      "max_combo": 566
+   },
+   {
+      "difficulty": 1,
+      "song_id": "rugie",
+      "rating": 6.0,
+      "song_hash": "1354e12cb770b660bea1dfdfaf88124b",
+      "max_combo": 754
+   },
+   {
+      "difficulty": 2,
+      "song_id": "rugie",
+      "rating": 9.2,
+      "song_hash": "ca6819a0c565940226953db580acbf73",
+      "max_combo": 975
+   },
+   {
+      "difficulty": 0,
+      "song_id": "saikyostronger",
+      "rating": 5.5,
+      "song_hash": "e9ecbfb3f17d25c42c89a5875ebe2980",
+      "max_combo": 654
+   },
+   {
+      "difficulty": 1,
+      "song_id": "saikyostronger",
+      "rating": 9.4,
+      "song_hash": "a44d91fad3fdfa46413b16f6956decc7",
+      "max_combo": 1067
+   },
+   {
+      "difficulty": 2,
+      "song_id": "saikyostronger",
+      "rating": 11.0,
+      "song_hash": "63e7cf32a05886256b0d42894dfddba5",
+      "max_combo": 1384
+   },
+   {
+      "difficulty": 0,
+      "song_id": "sayonarahatsukoi",
+      "rating": 1.5,
+      "song_hash": "f83b60b8c79b0bf5864f22238585363e",
+      "max_combo": 205
+   },
+   {
+      "difficulty": 1,
+      "song_id": "sayonarahatsukoi",
+      "rating": 4.5,
+      "song_hash": "50079d71acd1bab578c09e16b86c32c1",
+      "max_combo": 305
+   },
+   {
+      "difficulty": 2,
+      "song_id": "sayonarahatsukoi",
+      "rating": 7.0,
+      "song_hash": "fa5c2affbc37dc254abee1dd221b3548",
+      "max_combo": 666
+   },
+   {
+      "difficulty": 0,
+      "song_id": "scarletcage",
+      "rating": 4.0,
+      "song_hash": "1ba5bf712adb5c6ed4d59e09df5c01d1",
+      "max_combo": 570
+   },
+   {
+      "difficulty": 1,
+      "song_id": "scarletcage",
+      "rating": 7.0,
+      "song_hash": "1a6e9f646bb120fec107c8de0479e0e7",
+      "max_combo": 711
+   },
+   {
+      "difficulty": 2,
+      "song_id": "scarletcage",
+      "rating": 9.7,
+      "song_hash": "924dac5ce92498d3fe6beda723461523",
+      "max_combo": 1195
+   },
+   {
+      "difficulty": 0,
+      "song_id": "scarletlance",
+      "rating": 4.0,
+      "song_hash": "843f36b4c91882f189781c5faee3ba61",
+      "max_combo": 517
+   },
+   {
+      "difficulty": 1,
+      "song_id": "scarletlance",
+      "rating": 7.0,
+      "song_hash": "e6150ff58d4f7aa56135c8d7e4c9180f",
+      "max_combo": 644
+   },
+   {
+      "difficulty": 2,
+      "song_id": "scarletlance",
+      "rating": 10.1,
+      "song_hash": "9373925925a7175df36e2956fdba01eb",
+      "max_combo": 1130
+   },
+   {
+      "difficulty": 0,
+      "song_id": "senkyou",
+      "rating": 3.0,
+      "song_hash": "1dc723043c4a33529e1575e5d6cca067",
+      "max_combo": 627
+   },
+   {
+      "difficulty": 1,
+      "song_id": "senkyou",
+      "rating": 5.5,
+      "song_hash": "c40b34e9b379d83bf7607df5e4fd74a4",
+      "max_combo": 722
+   },
+   {
+      "difficulty": 2,
+      "song_id": "senkyou",
+      "rating": 8.7,
+      "song_hash": "0e28cf9ba5e69c602826a6864180309b",
+      "max_combo": 964
+   },
+   {
+      "difficulty": 0,
+      "song_id": "seventhsense",
+      "rating": 3.0,
+      "song_hash": "13a18850c47a5791d837efc4183a2279",
+      "max_combo": 360
+   },
+   {
+      "difficulty": 1,
+      "song_id": "seventhsense",
+      "rating": 7.5,
+      "song_hash": "5f9af3ab44275bf957c9e1bdb9708edb",
+      "max_combo": 739
+   },
+   {
+      "difficulty": 2,
+      "song_id": "seventhsense",
+      "rating": 9.9,
+      "song_hash": "356d8adf14126c20ef4f42d215ee6b6e",
+      "max_combo": 925
+   },
+   {
+      "difficulty": 0,
+      "song_id": "shadesoflight",
+      "rating": 3.0,
+      "song_hash": "4d915aba8083edcf7cd69bb94c6b5239",
+      "max_combo": 517
+   },
+   {
+      "difficulty": 1,
+      "song_id": "shadesoflight",
+      "rating": 6.0,
+      "song_hash": "e9f1893fa507914506f9653fccde3bfd",
+      "max_combo": 789
+   },
+   {
+      "difficulty": 2,
+      "song_id": "shadesoflight",
+      "rating": 8.3,
+      "song_hash": "220ee9ac1d7baaa40982140469d10c81",
+      "max_combo": 1067
+   },
+   {
+      "difficulty": 0,
+      "song_id": "sheriruth",
+      "rating": 5.5,
+      "song_hash": "211e9ab0096300f93aab58675807b316",
+      "max_combo": 611
+   },
+   {
+      "difficulty": 1,
+      "song_id": "sheriruth",
+      "rating": 7.5,
+      "song_hash": "0c10beda63edef623fdae2835ad7b87d",
+      "max_combo": 832
+   },
+   {
+      "difficulty": 2,
+      "song_id": "sheriruth",
+      "rating": 10.2,
+      "song_hash": "0c0eb2214ead88bc693fa109630d8c44",
+      "max_combo": 1151
+   },
+   {
+      "difficulty": 0,
+      "song_id": "silentrush",
+      "rating": 2.5,
+      "song_hash": "34fe07844b21eb0bdc221084f90e0d95",
+      "max_combo": 416
+   },
+   {
+      "difficulty": 1,
+      "song_id": "silentrush",
+      "rating": 5.0,
+      "song_hash": "bc69d182eb8162836fb3af5d3f542ad1",
+      "max_combo": 674
+   },
+   {
+      "difficulty": 2,
+      "song_id": "silentrush",
+      "rating": 8.6,
+      "song_hash": "7bd1a2031814c98d8aa8b0fa8da891c2",
+      "max_combo": 941
+   },
+   {
+      "difficulty": 0,
+      "song_id": "singularity",
+      "rating": 4.5,
+      "song_hash": "18970e0eb936eb0530ea9e96cddce3cb",
+      "max_combo": 534
+   },
+   {
+      "difficulty": 1,
+      "song_id": "singularity",
+      "rating": 7.5,
+      "song_hash": "3f6a4662d99025ff62d28245afc09e6a",
+      "max_combo": 678
+   },
+   {
+      "difficulty": 2,
+      "song_id": "singularity",
+      "rating": 10.7,
+      "song_hash": "0a7f8d8f52799a8c266edc8281c7df75",
+      "max_combo": 1105
+   },
+   {
+      "difficulty": 2,
+      "song_id": "singularityvvvip",
+      "rating": 0.0,
+      "song_hash": "c0f2864d163609f0adb71cee4308d8aa",
+      "max_combo": "770"
+   },
+   {
+      "difficulty": 0,
+      "song_id": "snowwhite",
+      "rating": 2.5,
+      "song_hash": "595b9f720f6a1f95833ac24575ced8d2",
+      "max_combo": 486
+   },
+   {
+      "difficulty": 1,
+      "song_id": "snowwhite",
+      "rating": 5.0,
+      "song_hash": "ca39b6afed2d17fdadbf724dfaa5c43d",
+      "max_combo": 672
+   },
+   {
+      "difficulty": 2,
+      "song_id": "snowwhite",
+      "rating": 8.4,
+      "song_hash": "66110d5cd1227ece1b809da27f14d359",
+      "max_combo": 978
+   },
+   {
+      "difficulty": 0,
+      "song_id": "solitarydream",
+      "rating": 4.0,
+      "song_hash": "10632c43c5be5e88bc7c2a5d01c3bae2",
+      "max_combo": 712
+   },
+   {
+      "difficulty": 1,
+      "song_id": "solitarydream",
+      "rating": 7.0,
+      "song_hash": "29af75bc9cd23454abacc565924450b1",
+      "max_combo": 854
+   },
+   {
+      "difficulty": 2,
+      "song_id": "solitarydream",
+      "rating": 8.8,
+      "song_hash": "2d6802f6b414030f1347f66a09107ace",
+      "max_combo": 972
+   },
+   {
+      "difficulty": 0,
+      "song_id": "soundwitch",
+      "rating": 3.5,
+      "song_hash": "ad1749a15a730ff00cd7015465ffc3e4",
+      "max_combo": 315
+   },
+   {
+      "difficulty": 1,
+      "song_id": "soundwitch",
+      "rating": 6.5,
+      "song_hash": "691e171428c488f2087db99629481736",
+      "max_combo": 488
+   },
+   {
+      "difficulty": 2,
+      "song_id": "soundwitch",
+      "rating": 9.9,
+      "song_hash": "18f4666dec4b467778c346d497e14af2",
+      "max_combo": 785
+   },
+   {
+      "difficulty": 0,
+      "song_id": "specta",
+      "rating": 3.5,
+      "song_hash": "db527eeba0703fa49436062d5efe2670",
+      "max_combo": 390
+   },
+   {
+      "difficulty": 1,
+      "song_id": "specta",
+      "rating": 6.5,
+      "song_hash": "02b74c7afb9b0fc5fff204c238e80c9b",
+      "max_combo": 706
+   },
+   {
+      "difficulty": 2,
+      "song_id": "specta",
+      "rating": 9.5,
+      "song_hash": "ccc67558e2ee941cfff06c842dd47a6d",
+      "max_combo": 1096
+   },
+   {
+      "difficulty": 0,
+      "song_id": "stager",
+      "rating": 3.0,
+      "song_hash": "adadf1ca27de99737e796c968af05710",
+      "max_combo": 453
+   },
+   {
+      "difficulty": 1,
+      "song_id": "stager",
+      "rating": 6.5,
+      "song_hash": "3a62b885aa124eee85a9d5f82e7ca5f8",
+      "max_combo": 559
+   },
+   {
+      "difficulty": 2,
+      "song_id": "stager",
+      "rating": 9.5,
+      "song_hash": "c691649af872b4744e4cb8039ad01861",
+      "max_combo": 1004
+   },
+   {
+      "difficulty": 0,
+      "song_id": "strongholds",
+      "rating": 2.5,
+      "song_hash": "d63f07d8f6963307da805736edad33af",
+      "max_combo": 570
+   },
+   {
+      "difficulty": 1,
+      "song_id": "strongholds",
+      "rating": 5.0,
+      "song_hash": "0ff4e7d7193d2d7c8ee5f0e0f729a7a6",
+      "max_combo": 778
+   },
+   {
+      "difficulty": 2,
+      "song_id": "strongholds",
+      "rating": 9.2,
+      "song_hash": "ac3ba2e757bbcf9a9401c8ad634ba356",
+      "max_combo": 922
+   },
+   {
+      "difficulty": 0,
+      "song_id": "sulfur",
+      "rating": 4.0,
+      "song_hash": "ffcf26c1b15650ff293b33fb2f089d19",
+      "max_combo": 458
+   },
+   {
+      "difficulty": 1,
+      "song_id": "sulfur",
+      "rating": 6.0,
+      "song_hash": "0edce5ed76dbbaaf447ebb155b985166",
+      "max_combo": 608
+   },
+   {
+      "difficulty": 2,
+      "song_id": "sulfur",
+      "rating": 9.7,
+      "song_hash": "e9e1309d8cb43d6a0202642e5d1c4f70",
+      "max_combo": 1045
+   },
+   {
+      "difficulty": 0,
+      "song_id": "suomi",
+      "rating": 2.0,
+      "song_hash": "0f9d43e5e68292f4a48143a2f83f9aec",
+      "max_combo": 368
+   },
+   {
+      "difficulty": 1,
+      "song_id": "suomi",
+      "rating": 5.0,
+      "song_hash": "fe9c0b08b58b36c7f64e380bb39fc34a",
+      "max_combo": 550
+   },
+   {
+      "difficulty": 2,
+      "song_id": "suomi",
+      "rating": 7.5,
+      "song_hash": "cc9a38b131cf2f56c2eb7f14d05c8e92",
+      "max_combo": 818
+   },
+   {
+      "difficulty": 0,
+      "song_id": "supernova",
+      "rating": 3.0,
+      "song_hash": "aeb9b3b41d357cf835ba3c569097c0f3",
+      "max_combo": 664
+   },
+   {
+      "difficulty": 1,
+      "song_id": "supernova",
+      "rating": 6.0,
+      "song_hash": "a1143b8703e146f36fcd5f30ea900d1d",
+      "max_combo": 564
+   },
+   {
+      "difficulty": 2,
+      "song_id": "supernova",
+      "rating": 9.8,
+      "song_hash": "08bd0565a0b7758bf544db411b806cf7",
+      "max_combo": 1123
+   },
+   {
+      "difficulty": 0,
+      "song_id": "surrender",
+      "rating": 3.0,
+      "song_hash": "a5efdbded5e3ee61b051cd0d6cb63835",
+      "max_combo": 550
+   },
+   {
+      "difficulty": 1,
+      "song_id": "surrender",
+      "rating": 6.5,
+      "song_hash": "1e25165bf323397df19f81805be9e960",
+      "max_combo": 721
+   },
+   {
+      "difficulty": 2,
+      "song_id": "surrender",
+      "rating": 8.8,
+      "song_hash": "4281d38d5cfe9ff058d5d331c0397c2c",
+      "max_combo": 925
+   },
+   {
+      "difficulty": 0,
+      "song_id": "syro",
+      "rating": 3.5,
+      "song_hash": "66dd2a06478af3fdc9d75c0fd5162c3f",
+      "max_combo": 535
+   },
+   {
+      "difficulty": 1,
+      "song_id": "syro",
+      "rating": 6.5,
+      "song_hash": "915470aa334bdf7d8ee448d8ca9ddafc",
+      "max_combo": 829
+   },
+   {
+      "difficulty": 2,
+      "song_id": "syro",
+      "rating": 9.3,
+      "song_hash": "d9e6a42d1b0c60fa936d5e18843dc613",
+      "max_combo": 1150
+   },
+   {
+      "difficulty": 0,
+      "song_id": "tempestissimo",
+      "rating": 6.5,
+      "song_hash": "8ba9f48d8448133ba259d5c9927c93e7",
+      "max_combo": 919
+   },
+   {
+      "difficulty": 1,
+      "song_id": "tempestissimo",
+      "rating": 9.5,
+      "song_hash": "76595a8259fe6bf360f91d33fe24d271",
+      "max_combo": 1034
+   },
+   {
+      "difficulty": 2,
+      "song_id": "tempestissimo",
+      "rating": 10.6,
+      "song_hash": "5b396d00a1cadf138fc825d918522ded",
+      "max_combo": 1254
+   },
+   {
+      "difficulty": 3,
+      "song_id": "tempestissimo",
+      "rating": 11.5,
+      "song_hash": "cbd203ba3ad3db30439b25fbfbaede01",
+      "max_combo": 1540
+   },
+   {
+      "difficulty": 0,
+      "song_id": "teriqma",
+      "rating": 3.0,
+      "song_hash": "d3c273292136679f9614de6aab0204f2",
+      "max_combo": 345
+   },
+   {
+      "difficulty": 1,
+      "song_id": "teriqma",
+      "rating": 6.5,
+      "song_hash": "9e8cfa310fe1abf32d1ecb17b26fbbff",
+      "max_combo": 579
+   },
+   {
+      "difficulty": 2,
+      "song_id": "teriqma",
+      "rating": 9.4,
+      "song_hash": "5c25b2b5d02d0143dd36b384f09c8208",
+      "max_combo": 873
+   },
+   {
+      "difficulty": 0,
+      "song_id": "themessage",
+      "rating": 3.0,
+      "song_hash": "fe138bfbef402bfa2af6ef6d5e26f194",
+      "max_combo": 536
+   },
+   {
+      "difficulty": 1,
+      "song_id": "themessage",
+      "rating": 6.5,
+      "song_hash": "05a64699156556e05495a66bd16e58d9",
+      "max_combo": 630
+   },
+   {
+      "difficulty": 2,
+      "song_id": "themessage",
+      "rating": 9.7,
+      "song_hash": "b3391aebe55cf71ba6670949c35bb8c9",
+      "max_combo": 992
+   },
+   {
+      "difficulty": 0,
+      "song_id": "tiemedowngently",
+      "rating": 3.0,
+      "song_hash": "122158d7b60b90c84f814d6aa6110373",
+      "max_combo": 581
+   },
+   {
+      "difficulty": 1,
+      "song_id": "tiemedowngently",
+      "rating": 5.5,
+      "song_hash": "50f8b8cd8f9b4b12d255ac420473fff6",
+      "max_combo": 535
+   },
+   {
+      "difficulty": 2,
+      "song_id": "tiemedowngently",
+      "rating": 8.3,
+      "song_hash": "60917a68b3711a1ab41c6efdb2b5a8be",
+      "max_combo": 724
+   },
+   {
+      "difficulty": 0,
+      "song_id": "tiferet",
+      "rating": 4.5,
+      "song_hash": "615b032f814612f641126375d4fd0d2a",
+      "max_combo": 450
+   },
+   {
+      "difficulty": 1,
+      "song_id": "tiferet",
+      "rating": 7.5,
+      "song_hash": "e2bfa92d33f0f5d501459e68b84ed12f",
+      "max_combo": 720
+   },
+   {
+      "difficulty": 2,
+      "song_id": "tiferet",
+      "rating": 10.6,
+      "song_hash": "3d9e9f1f42f24fedee6073825e696072",
+      "max_combo": 1086
+   },
+   {
+      "difficulty": 0,
+      "song_id": "toaliceliddell",
+      "rating": 4.0,
+      "song_hash": "48b18904c67f097d76fd19e016c6f2e7",
+      "max_combo": 535
+   },
+   {
+      "difficulty": 1,
+      "song_id": "toaliceliddell",
+      "rating": 7.0,
+      "song_hash": "2c36ceac1129a8745db51f3173a3b135",
+      "max_combo": 674
+   },
+   {
+      "difficulty": 2,
+      "song_id": "toaliceliddell",
+      "rating": 10.4,
+      "song_hash": "c2627b55a97c6c1591a7606a98e012c4",
+      "max_combo": 998
+   },
+   {
+      "difficulty": 0,
+      "song_id": "trappola",
+      "rating": 3.0,
+      "song_hash": "5a9d6e4fdccee81a236dc42c144546e1",
+      "max_combo": 415
+   },
+   {
+      "difficulty": 1,
+      "song_id": "trappola",
+      "rating": 6.0,
+      "song_hash": "db3500dfd3614505ace4f465b55ac9f3",
+      "max_combo": 541
+   },
+   {
+      "difficulty": 2,
+      "song_id": "trappola",
+      "rating": 10.0,
+      "song_hash": "b6cacb2385cc58c1b345d7fb806d8c77",
+      "max_combo": 1044
+   },
+   {
+      "difficulty": 0,
+      "song_id": "tutorial",
+      "rating": 0.0,
+      "song_hash": "b8d593b343576bc134a3d045b2e66ab2",
+      "max_combo": 173
+   },
+   {
+      "difficulty": 1,
+      "song_id": "tutorial",
+      "rating": 0.0,
+      "song_hash": "f09fe668a85297c0a44df67eff89129e",
+      "max_combo": 158
+   },
+   {
+      "difficulty": 0,
+      "song_id": "valhallazero",
+      "rating": 4.5,
+      "song_hash": "ebf8471094ad6ca5a6b1dace4a4ced99",
+      "max_combo": 624
+   },
+   {
+      "difficulty": 1,
+      "song_id": "valhallazero",
+      "rating": 7.0,
+      "song_hash": "48ddadcd120351219d4c450de049a723",
+      "max_combo": 893
+   },
+   {
+      "difficulty": 2,
+      "song_id": "valhallazero",
+      "rating": 10.4,
+      "song_hash": "7069e35eb59b79f24be42850a47a1fd6",
+      "max_combo": 1173
+   },
+   {
+      "difficulty": 0,
+      "song_id": "vector",
+      "rating": 3.0,
+      "song_hash": "6d18cf7918c5ea93d86ff9f1a429dbcb",
+      "max_combo": 675
+   },
+   {
+      "difficulty": 1,
+      "song_id": "vector",
+      "rating": 7.0,
+      "song_hash": "cf614e8ad0ab16f0d6c93419eba60393",
+      "max_combo": 1002
+   },
+   {
+      "difficulty": 2,
+      "song_id": "vector",
+      "rating": 9.4,
+      "song_hash": "d521e8db074621bbbe69bc321c83a7ae",
+      "max_combo": 1299
+   },
+   {
+      "difficulty": 0,
+      "song_id": "vexaria",
+      "rating": 2.5,
+      "song_hash": "09e0ee174a727575a14515b785876a64",
+      "max_combo": 369
+   },
+   {
+      "difficulty": 1,
+      "song_id": "vexaria",
+      "rating": 5.0,
+      "song_hash": "b886828e709de2aab10803fdf3dde31f",
+      "max_combo": 534
+   },
+   {
+      "difficulty": 2,
+      "song_id": "vexaria",
+      "rating": 7.0,
+      "song_hash": "80ca637d5689e80f84ee809320d9eb0d",
+      "max_combo": 734
+   },
+   {
+      "difficulty": 3,
+      "song_id": "vexaria",
+      "rating": 8.8,
+      "song_hash": "8810ceb343784729db0b0a27d1903e5b",
+      "max_combo": 785
+   },
+   {
+      "difficulty": 0,
+      "song_id": "viciousheroism",
+      "rating": 4.0,
+      "song_hash": "06f32a032bab56321b7504c39e5018bd",
+      "max_combo": 430
+   },
+   {
+      "difficulty": 1,
+      "song_id": "viciousheroism",
+      "rating": 7.5,
+      "song_hash": "f254020b681050be24d1b420b52300c9",
+      "max_combo": 756
+   },
+   {
+      "difficulty": 2,
+      "song_id": "viciousheroism",
+      "rating": 10.0,
+      "song_hash": "b3dfaaaf48eb9523c9bc08fd167df935",
+      "max_combo": 1150
+   },
+   {
+      "difficulty": 0,
+      "song_id": "vindication",
+      "rating": 4.0,
+      "song_hash": "370df2468b099448db588a4aaded405a",
+      "max_combo": 721
+   },
+   {
+      "difficulty": 1,
+      "song_id": "vindication",
+      "rating": 6.5,
+      "song_hash": "5c71bb25538fb0d8532761a455fba793",
+      "max_combo": 899
+   },
+   {
+      "difficulty": 2,
+      "song_id": "vindication",
+      "rating": 9.6,
+      "song_hash": "738e3033f29fbe5b57fdeab7da15d218",
+      "max_combo": 1075
+   },
+   {
+      "difficulty": 0,
+      "song_id": "vividtheory",
+      "rating": 2.0,
+      "song_hash": "d33d4c047d250db7709492e47ddcd860",
+      "max_combo": 447
+   },
+   {
+      "difficulty": 1,
+      "song_id": "vividtheory",
+      "rating": 5.0,
+      "song_hash": "b220e2fa6d05fe3791385102302bd6a5",
+      "max_combo": 658
+   },
+   {
+      "difficulty": 2,
+      "song_id": "vividtheory",
+      "rating": 8.8,
+      "song_hash": "6884ae26686bf9c66b1e5beb362c75cd",
+      "max_combo": 885
+   },
+   {
+      "difficulty": 0,
+      "song_id": "viyella",
+      "rating": 3.5,
+      "song_hash": "c77acc84018f7a6e187c568f4ffdade2",
+      "max_combo": 414
+   },
+   {
+      "difficulty": 1,
+      "song_id": "viyella",
+      "rating": 6.0,
+      "song_hash": "e9ad99c7ebbc813bd12d55ccd780c508",
+      "max_combo": 492
+   },
+   {
+      "difficulty": 2,
+      "song_id": "viyella",
+      "rating": 8.5,
+      "song_hash": "1179bf21b31264788002fdb75c2249d7",
+      "max_combo": 791
+   },
+   {
+      "difficulty": 0,
+      "song_id": "viyellastears",
+      "rating": 4.0,
+      "song_hash": "1e319439ae45a258fd5f128b36e63346",
+      "max_combo": 716
+   },
+   {
+      "difficulty": 1,
+      "song_id": "viyellastears",
+      "rating": 7.0,
+      "song_hash": "af6cada06edfba9f704747a296de742d",
+      "max_combo": 942
+   },
+   {
+      "difficulty": 2,
+      "song_id": "viyellastears",
+      "rating": 10.4,
+      "song_hash": "2e398aa0fd1f47e402f0009ae9bf7ac1",
+      "max_combo": 1403
+   },
+   {
+      "difficulty": 0,
+      "song_id": "worldexecuteme",
+      "rating": 3.5,
+      "song_hash": "5c24b1ad19600d0dcd8e9d23cb47bd29",
+      "max_combo": 452
+   },
+   {
+      "difficulty": 1,
+      "song_id": "worldexecuteme",
+      "rating": 5.5,
+      "song_hash": "96300eb43837aed989dafcfbdaae04a7",
+      "max_combo": 582
+   },
+   {
+      "difficulty": 2,
+      "song_id": "worldexecuteme",
+      "rating": 8.5,
+      "song_hash": "bd8c6862fad837992318e8cdbdfbfd5b",
+      "max_combo": 851
+   },
+   {
+      "difficulty": 0,
+      "song_id": "worldvanquisher",
+      "rating": 2.5,
+      "song_hash": "3c826c62d960522e333d98408d474005",
+      "max_combo": 529
+   },
+   {
+      "difficulty": 1,
+      "song_id": "worldvanquisher",
+      "rating": 5.5,
+      "song_hash": "34d8a05469bd19e61380e80b81de19c1",
+      "max_combo": 759
+   },
+   {
+      "difficulty": 2,
+      "song_id": "worldvanquisher",
+      "rating": 10.9,
+      "song_hash": "6e21c36837982fcc96af5eda9ef0063a",
+      "max_combo": 1452
+   },
+   {
+      "difficulty": 0,
+      "song_id": "xanatos",
+      "rating": 4.0,
+      "song_hash": "7a7cde77d3b5eff51225176ed3fd4e1b",
+      "max_combo": 735
+   },
+   {
+      "difficulty": 1,
+      "song_id": "xanatos",
+      "rating": 7.5,
+      "song_hash": "24e1bc9f86d34bec906266e9d9363bb0",
+      "max_combo": 938
+   },
+   {
+      "difficulty": 2,
+      "song_id": "xanatos",
+      "rating": 10.0,
+      "song_hash": "11c019e42736566a5e00f23dd9876457",
+      "max_combo": 1232
+   },
+   {
+      "difficulty": 0,
+      "song_id": "xeraphinite",
+      "rating": 3.0,
+      "song_hash": "07fb615dea5c84a7707e84dbce113f03",
+      "max_combo": 383
+   },
+   {
+      "difficulty": 1,
+      "song_id": "xeraphinite",
+      "rating": 7.0,
+      "song_hash": "f652cea4e97ea3105eac6e1c8b8c10bb",
+      "max_combo": 643
+   },
+   {
+      "difficulty": 2,
+      "song_id": "xeraphinite",
+      "rating": 9.8,
+      "song_hash": "31405bb3b5990b6baf9a00c8b4169bee",
+      "max_combo": 1048
+   },
+   {
+      "difficulty": 0,
+      "song_id": "yourvoiceso",
+      "rating": 3.5,
+      "song_hash": "3cab0a7627a72125a71a11950e6cfd78",
+      "max_combo": 469
+   },
+   {
+      "difficulty": 1,
+      "song_id": "yourvoiceso",
+      "rating": 6.5,
+      "song_hash": "1ccd35ea437bf153bc0f97b8e6ad057e",
+      "max_combo": 677
+   },
+   {
+      "difficulty": 2,
+      "song_id": "yourvoiceso",
+      "rating": 9.4,
+      "song_hash": "f2c26d87c1d968c4f7702a614e91b90a",
+      "max_combo": 1013
+   }
+]

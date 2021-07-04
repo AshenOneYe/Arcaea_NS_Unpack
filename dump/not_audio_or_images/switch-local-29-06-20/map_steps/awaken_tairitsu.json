@@ -1,0 +1,346 @@
+[
+  {
+    "capture": 1,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "30"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "core_desolate_5",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "30"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "core_desolate_5",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "30"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "core_desolate_5",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "30"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 1,
+    "reward_bundle": "core_desolate_5",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "speedlimit"
+    ],
+    "speed_limit_value": "30"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 29,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "grievouslady",
+      "etherstrike",
+      "fractureray",
+      "ringedgenesis",
+      "ifi",
+      "tempestissimo",
+      "arcahv",
+      "gloryroad",
+      "corpssansorganes",
+      "singularity",
+      "cyaegha",
+      "valhallazero"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_desolate_10",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

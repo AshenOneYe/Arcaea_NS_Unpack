@@ -1,0 +1,218 @@
+[
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_generic_4",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "solitarydream",
+      "vexaria",
+      "shadesoflight",
+      "essenceoftwilight",
+      "ignotus",
+      "vividtheory"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "solitarydream",
+      "vexaria",
+      "shadesoflight",
+      "essenceoftwilight",
+      "ignotus",
+      "vividtheory"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "solitarydream",
+      "vexaria",
+      "shadesoflight",
+      "essenceoftwilight",
+      "ignotus",
+      "vividtheory"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "axiumcrisis",
+      "solitarydream",
+      "vexaria",
+      "shadesoflight",
+      "essenceoftwilight",
+      "ignotus",
+      "vividtheory"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "world_unlock_scenery_chap2",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]
